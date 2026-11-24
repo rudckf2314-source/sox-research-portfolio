@@ -1,0 +1,28 @@
+{
+  "dataset_id": "36_aaii_sentiment",
+  "provider": "AAII",
+  "status": "IMPORTED_WITH_SOURCE_MISSING_VALUES",
+  "rows": 2048,
+  "min_date": "1987-06-26",
+  "max_date": "2026-10-15",
+  "duplicate_dates": 0,
+  "missing_cells": 9,
+  "missing_by_column": {
+    "Date": 0,
+    "Bullish": 3,
+    "Neutral": 3,
+    "Bearish": 3
+  },
+  "nonfinite_nonmissing_values": 0,
+  "ascending": true,
+  "rows_since_2011": 823,
+  "missing_cells_since_2011": 0,
+  "output_file": "data\\raw\\36_aaii_sentiment\\36_aaii_sentiment_RAW_19870626_20261015.csv",
+  "sha256": "54552ec70d64783300c817f49a6a7aaa77beb3ed526bab32966589952ab7b0fe",
+  "source_original": "data\\raw\\36_aaii_sentiment\\source_original\\sentiment.xls",
+  "source_sha256": "46bc71f20784e1f71f428fc79dea4b22c6021b0c23252ed57c6d6783598056de",
+  "source_url": "https://www.aaii.com/files/surveys/sentiment.xls",
+  "unit": "fraction_0_to_1; source Excel displays percentages",
+  "release_time_status": "UNVERIFIED",
+  "historical_vintage_status": "UNVERIFIED"
+}

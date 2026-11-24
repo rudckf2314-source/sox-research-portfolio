@@ -1,0 +1,30 @@
+﻿source_id,status,note,candidate_features,nonempty_features,nonempty_days,complete_feature_days
+3,ALFRED_ASOF_RECOMPUTED_CONDITIONAL,DEXKOUS:과거창 전체를 당시버전으로 재계산;다음달력일08시 경계. 최대노후14일;실제게시초·수신미입증,5,5,3159,3159
+8,ALFRED_ASOF_RECOMPUTED_CONDITIONAL,VIXCLS:과거창 전체를 당시버전으로 재계산;다음달력일08시 경계. 최대노후14일;실제게시초·수신미입증,5,5,3966,3966
+11,REUSED_ORIGIN_ALIGNED_CONDITIONAL,사용자 공식 대조 완료 진술에 따른 조건부 실험 이력; 이 패키지에서 자동모델승인 아님. 두 세션 지연 유지.,9,9,3964,3905
+15,REUSED_ORIGIN_ALIGNED_CONDITIONAL,관측일·버전일을 반영한 기존 ALFRED 정렬값; spread는15+16 교차원천.,2,2,3966,3963
+16,REUSED_ORIGIN_ALIGNED_CONDITIONAL,기존 ALFRED 시점 규칙 유지.,1,1,3966,3966
+17,ALFRED_ASOF_RECOMPUTED_CONDITIONAL,DFII10:과거창 전체를 당시버전으로 재계산;다음달력일08시 경계. 최대노후14일;실제게시초·수신미입증,4,4,3966,3966
+18,ALFRED_ASOF_RECOMPUTED_CONDITIONAL,DTWEXBGS:과거창 전체를 당시버전으로 재계산;다음달력일08시 경계. 최대노후14일;실제게시초·수신미입증,5,5,1931,1931
+19,ALFRED_ASOF_RECOMPUTED_CONDITIONAL,NFCI:과거창 전체를 당시버전으로 재계산;다음달력일08시 경계. 최대노후21일;실제게시초·수신미입증,4,4,3863,3863
+20,ALFRED_ASOF_RECOMPUTED_CONDITIONAL,IPG3344S:과거창 전체를 당시버전으로 재계산;다음달력일08시 경계. 최대노후100일;실제게시초·수신미입증,4,4,2902,2902
+21,ALFRED_ASOF_RECOMPUTED_CONDITIONAL,A34SNO:과거창 전체를 당시버전으로 재계산;다음달력일08시 경계. 최대노후100일;실제게시초·수신미입증,4,4,3795,3795
+22,BLOCKED_EXACT_SERIES_RELEASE_MAPPING,현재원관측파일을사용하지않음.실제해당세부표발표일·당시값미연결;결측유지,4,0,0,0
+24,BLOCKED_EXACT_SERIES_RELEASE_MAPPING,현재원관측파일을사용하지않음.실제해당세부표발표일·당시값미연결;결측유지,33,0,0,0
+25,BLOCKED_EXACT_SERIES_RELEASE_MAPPING,현재원관측파일을사용하지않음.실제해당세부표발표일·당시값미연결;결측유지,4,0,0,0
+27,ALFRED_ASOF_RECOMPUTED_CONDITIONAL,VXNCLS:과거창 전체를 당시버전으로 재계산;다음달력일08시 경계. 최대노후14일;실제게시초·수신미입증,5,5,3859,3859
+32,BLOCKED_EXACT_SERIES_RELEASE_MAPPING,현재원관측파일을사용하지않음.실제해당세부표발표일·당시값미연결;결측유지,4,0,0,0
+33,REALIZED_EVENT_AFTER_PUBLICATION_CONDITIONAL,사전일정변수 아님. 실제발표시각/성명일종료후에만 최근완료회의정보 연결;원문동일성 조건부,3,3,3966,3966
+36,BLOCKED_EXACT_SERIES_RELEASE_MAPPING,현재원관측파일을사용하지않음.실제해당세부표발표일·당시값미연결;결측유지,6,0,0,0
+37,BLOCKED_EXACT_SERIES_RELEASE_MAPPING,현재원관측파일을사용하지않음.실제해당세부표발표일·당시값미연결;결측유지,5,0,0,0
+42,ALFRED_ASOF_RECOMPUTED_CONDITIONAL,NASDAQESOX:과거창 전체를 당시버전으로 재계산;다음달력일08시 경계. 최대노후14일;실제게시초·수신미입증,5,5,301,301
+43,BLOCKED_FRENCH_NO_ASOF_DISTRIBUTION,현재역사재구성파일을D-1자료로사용불가.당시배포본·배포시각필요,392,0,0,0
+44,BLOCKED_FRENCH_NO_ASOF_DISTRIBUTION,현재역사재구성파일을D-1자료로사용불가.당시배포본·배포시각필요,24,0,0,0
+45,BLOCKED_FRENCH_NO_ASOF_DISTRIBUTION,현재역사재구성파일을D-1자료로사용불가.당시배포본·배포시각필요,4,0,0,0
+46,REUSED_ORIGIN_ALIGNED_CONDITIONAL,원래55 변수값이며 중복축소70에서는 제외된 후보; 재가공 또는 새 정보가 아님.,5,5,3942,3942
+47,REUSED_ORIGIN_ALIGNED_CONDITIONAL,원래55 변수값이며 중복축소70에서는 제외된 후보; 재가공 또는 새 정보가 아님.,5,5,3942,3942
+48,ALFRED_ASOF_RECOMPUTED_CONDITIONAL,ICSA:과거창 전체를 당시버전으로 재계산;다음달력일08시 경계. 최대노후21일;실제게시초·수신미입증,4,4,3937,3931
+49,ALFRED_ASOF_RECOMPUTED_CONDITIONAL,CPIAUCSL:과거창 전체를 당시버전으로 재계산;다음달력일08시 경계. 최대노후100일;실제게시초·수신미입증,4,4,3960,3894
+50,ALFRED_ASOF_RECOMPUTED_CONDITIONAL,CPILFESL:과거창 전체를 당시버전으로 재계산;다음달력일08시 경계. 최대노후100일;실제게시초·수신미입증,4,4,3960,3894
+51,ALFRED_ASOF_RECOMPUTED_CONDITIONAL,PAYEMS:과거창 전체를 당시버전으로 재계산;다음달력일08시 경계. 최대노후100일;실제게시초·수신미입증,4,4,3953,3929
+52,ALFRED_ASOF_RECOMPUTED_CONDITIONAL,UNRATE:과거창 전체를 당시버전으로 재계산;다음달력일08시 경계. 최대노후100일;실제게시초·수신미입증,4,4,3953,3744

@@ -1,0 +1,72 @@
+{
+  "dataset_id": "44_ff5_daily",
+  "status": "SUCCESS",
+  "provider": "Kenneth R. French Data Library",
+  "source_url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/F-F_Research_Data_5_Factors_2x3_daily_CSV.zip",
+  "symbol": "F-F_Research_Data_5_Factors_2x3_daily",
+  "unit": "Percent; original published scale retained",
+  "frequency": "Daily",
+  "administrator": "Kenneth R. French / CRSP inputs",
+  "outputs": [
+    {
+      "file": "data/raw/44_ff5_daily/44_ff5_daily_RAW_20100104_20260831.csv",
+      "table": "Daily",
+      "sha256": "c766d152a2f8aef51fa6c15f0a3cff0a20c73a8b6d539cd2467221152a444725",
+      "rows": 4190,
+      "min_date": "2010-01-04",
+      "max_date": "2026-08-31",
+      "duplicate_dates": 0,
+      "missing_cells": 0,
+      "missing_by_column": {
+        "Mkt-RF": 0,
+        "SMB": 0,
+        "HML": 0,
+        "RMW": 0,
+        "CMA": 0,
+        "RF": 0
+      },
+      "columns": [
+        "Date",
+        "Mkt-RF",
+        "SMB",
+        "HML",
+        "RMW",
+        "CMA",
+        "RF"
+      ],
+      "max_calendar_gap_days": 5,
+      "absolute_values_over_100_cells": 0,
+      "min_by_column": {
+        "Mkt-RF": -12.01,
+        "SMB": -4.58,
+        "HML": -5.03,
+        "RMW": -2.23,
+        "CMA": -2.91,
+        "RF": 0.0
+      },
+      "max_by_column": {
+        "Mkt-RF": 9.65,
+        "SMB": 5.71,
+        "HML": 6.73,
+        "RMW": 4.25,
+        "CMA": 2.47,
+        "RF": 0.02
+      }
+    }
+  ],
+  "details": {
+    "Daily": {
+      "full_source_rows": 15897,
+      "full_source_min": "1963-07-01",
+      "full_source_max": "2026-08-31",
+      "full_source_missing_cells": 0,
+      "canonical_abs_return_over_100_flags": 0
+    }
+  },
+  "original_sha256": {
+    "F-F_Research_Data_5_Factors_2x3_daily.csv": "323ee3426ffa429ea2e3dacaac85a581e3968d319817efe0b4614c5e5adfddc1",
+    "F-F_Research_Data_5_Factors_2x3_daily_CSV.zip": "7881223b51929ee0d6d23b8a28524aaec478a2c3d4eeca47224955cc845c5186",
+    "HTTP_RESPONSE_METADATA.json": "7fa4510d56a4cf21e70e319101922a5fc5df8dbf1eb3c8b0c62256a77d9d2108"
+  },
+  "availability_status": "UNVERIFIED_HISTORICAL_PUBLICATION_AND_VINTAGE"
+}

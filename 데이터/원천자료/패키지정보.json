@@ -1,0 +1,13 @@
+{
+  "raw_files": 298,
+  "raw_source_folders": 48,
+  "base_X_rows": 3942,
+  "base_X_columns": 216,
+  "French_columns_per_scenario": 420,
+  "training_evaluation_windows": 34,
+  "evaluation_days": 694,
+  "masked_combinations": 16,
+  "api_keys_included": false,
+  "models_included": false,
+  "raw_point_in_time_verified": false
+}

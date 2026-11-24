@@ -1,0 +1,48 @@
+{
+  "dataset_id": "49_cpiaucsl",
+  "status": "SUCCESS",
+  "provider": "FRED",
+  "source_url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL&cosd=2010-01-01&coed=2026-10-16",
+  "symbol": "CPIAUCSL",
+  "unit": "Index 1982-1984=100; seasonally adjusted",
+  "frequency": "Monthly",
+  "administrator": "U.S. Bureau of Labor Statistics",
+  "outputs": [
+    {
+      "file": "data/raw/49_cpiaucsl/49_cpiaucsl_RAW_20100101_20260901.csv",
+      "table": "Native",
+      "sha256": "5b26d979114d3f5ec64abb6d07dad2034f997a3e5a32af200b0bee4cb73d74df",
+      "rows": 201,
+      "min_date": "2010-01-01",
+      "max_date": "2026-09-01",
+      "duplicate_dates": 0,
+      "missing_cells": 1,
+      "missing_by_column": {
+        "CPIAUCSL": 1
+      },
+      "columns": [
+        "Date",
+        "CPIAUCSL"
+      ],
+      "max_calendar_gap_days": 31,
+      "absolute_values_over_100_cells": 200,
+      "min_by_column": {
+        "CPIAUCSL": 217.199
+      },
+      "max_by_column": {
+        "CPIAUCSL": 336.298
+      }
+    }
+  ],
+  "details": {
+    "full_source_rows": 957,
+    "full_source_min_date": "1947-01-01",
+    "full_source_max_date": "2026-09-01",
+    "observation_date_is_not_release_date": true
+  },
+  "original_sha256": {
+    "CPIAUCSL.csv": "8556b710094027fa4724641d48be620cc37c04abfa15a0c496378cf1146c1549",
+    "HTTP_RESPONSE_METADATA.json": "b7cd09dc32039b907801f7c6b8751c2568157e6ff8948a52fca8f4f1f54902fc"
+  },
+  "availability_status": "UNVERIFIED_HISTORICAL_PUBLICATION_AND_VINTAGE"
+}

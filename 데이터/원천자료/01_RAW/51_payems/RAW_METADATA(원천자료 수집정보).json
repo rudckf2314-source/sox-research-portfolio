@@ -1,0 +1,48 @@
+{
+  "dataset_id": "51_payems",
+  "status": "SUCCESS",
+  "provider": "FRED",
+  "source_url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2010-01-01&coed=2026-10-16",
+  "symbol": "PAYEMS",
+  "unit": "Thousands of persons; seasonally adjusted",
+  "frequency": "Monthly",
+  "administrator": "U.S. Bureau of Labor Statistics",
+  "outputs": [
+    {
+      "file": "data/raw/51_payems/51_payems_RAW_20100101_20260901.csv",
+      "table": "Native",
+      "sha256": "e4fbf6c03827c47e70d1d69d902af74c8e19103c6745ea23f35371279ee2b56c",
+      "rows": 201,
+      "min_date": "2010-01-01",
+      "max_date": "2026-09-01",
+      "duplicate_dates": 0,
+      "missing_cells": 0,
+      "missing_by_column": {
+        "PAYEMS": 0
+      },
+      "columns": [
+        "Date",
+        "PAYEMS"
+      ],
+      "max_calendar_gap_days": 31,
+      "absolute_values_over_100_cells": 201,
+      "min_by_column": {
+        "PAYEMS": 129706.0
+      },
+      "max_by_column": {
+        "PAYEMS": 159044.0
+      }
+    }
+  ],
+  "details": {
+    "full_source_rows": 1053,
+    "full_source_min_date": "1939-01-01",
+    "full_source_max_date": "2026-09-01",
+    "observation_date_is_not_release_date": true
+  },
+  "original_sha256": {
+    "HTTP_RESPONSE_METADATA.json": "95b8b063c15f5a7f4c73923e5e8ba555b977cc7b26f5e851b0a1d7de0a0c4118",
+    "PAYEMS.csv": "c8c429818ed73de6db985f4ff565d64bd2a5ba66a6b651b39373a1532924fc0e"
+  },
+  "availability_status": "UNVERIFIED_HISTORICAL_PUBLICATION_AND_VINTAGE"
+}

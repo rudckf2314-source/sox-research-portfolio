@@ -1,0 +1,3882 @@
+Financial Calendar - Taiwan Semiconductor Manufacturing Company Limited (https://investor.tsmc.com/english/financial-calendar)
+citeturn258view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://investor.tsmc.com/english/financial-calendar","lineno":150}); Total lines: 1559
+L0:   * 【0†Dedicated IC Foundry†www.tsmc.com】
+L1: 
+L2: 【0†Dedicated IC Foundry†www.tsmc.com】
+L3:     * 【0†Overview†www.tsmc.com】
+L4:     * Technology
+L5:       * 【1†Overview†www.tsmc.com】
+L6:       * 【2†Logic Technology†www.tsmc.com】
+L7:       * 【3†Specialty Technology†www.tsmc.com】
+L8:       * 【4†TSMC 3DFabric®†3dfabric.tsmc.com】
+L9:       * 【5†Technology Platforms†www.tsmc.com】
+L10:       * 【6†Future R&D Plans†www.tsmc.com】
+L11:     * Manufacturing
+L12:       * 【7†Overview†www.tsmc.com】
+L13:       * 【8†Fab Locations†www.tsmc.com】
+L14:       * 【9†Fab Capacity†www.tsmc.com】
+L15:       * 【10†GIGAFAB® Facilities†www.tsmc.com】
+L16:       * 【11†Engineering Performance Optimization†www.tsmc.com】
+L17:       * 【12†Agile and Intelligent Operations†www.tsmc.com】
+L18:     * Open Innovation Platform®
+L19:       * 【13†Overview†www.tsmc.com】
+L20:       * 【14†IP Alliance†www.tsmc.com】
+L21:       * 【15†EDA Alliance†www.tsmc.com】
+L22:       * 【16†Design Center Alliance†www.tsmc.com】
+L23:       * 【17†Cloud Alliance†www.tsmc.com】
+L24:       * 【18†Value Chain Aggregator†www.tsmc.com】
+L25:       * 【19†TSMC 3DFabric® Alliance†www.tsmc.com】
+L26:     * Services
+L27:       * 【20†Overview†www.tsmc.com】
+L28:       * 【21†Advanced Packaging†www.tsmc.com】
+L29:       * 【22†Mask Services†www.tsmc.com】
+L30:       * 【23†eFoundry®†www.tsmc.com】
+L31:       * 【24†CyberShuttle®†www.tsmc.com】
+L32:       * 【25†University FinFET Program†www.tsmc.com】
+L33:     * Grand Alliance
+L34:       * 【26†Overview†www.tsmc.com】
+L35:       * 【27†Innovate with TSMC!†www.tsmc.com】
+L36:   * 【28†Investors】
+L37: 
+L38: 【28†Investors】
+L39:     * 【28†Overview】
+L40:     * Financials
+L41:       * 【29†Fundamentals】
+L42:       * 【30†Quarterly Results】
+L43:       * 【31†Annual Reports】
+L44:       * 【32†Monthly Revenue】
+L45:       * 【33†Historical Information】
+L46:       * 【34†SEC Filings】
+L47:       * 【35†Financial Reports】
+L48:       * 【36†Financial Calendar】
+L49:       * 【37†Credit Rating】
+L50:     * Corporate Governance
+L51:       * 【38†Overview】
+L52:       * 【39†Board of Directors】
+L53:       * 【40†Committees】
+L54:       * 【41†Corporate Governance Officer】
+L55:       * 【42†Major Internal Policies】
+L56:       * 【43†NYSE Section 303A】
+L57:       * 【44†Internal Audit】
+L58:       * 【45†Risk Management】
+L59:     * Shareholder Services
+L60:       * 【46†Stock Quotes】
+L61:       * 【47†Shareholders' Meeting】
+L62:       * 【48†Dividend】
+L63:       * 【49†TWSE Market Observation Post System†emops.twse.com.tw】
+L64:       * 【50†TSMC Material Information†emops.twse.com.tw】
+L65:       * 【51†Prospectuses†doc.twse.com.tw】
+L66:       * 【52†Contacts】
+L67:     * 【53†FAQ】
+L68:   * 【54†Press Center†pr.tsmc.com】
+L69: 
+L70: 【54†Press Center†pr.tsmc.com】
+L71:     * 【54†Overview†pr.tsmc.com】
+L72:     * Press Releases
+L73:       * 【55†Latest News†pr.tsmc.com】
+L74:       * 【56†News Archives†pr.tsmc.com】
+L75:     * Events
+L76:       * 【57†All Events†pr.tsmc.com】
+L77:       * 【58†Investor Meetings†pr.tsmc.com】
+L78:       * 【59†TSMC Events†pr.tsmc.com】
+L79:       * 【60†Industry Events†pr.tsmc.com】
+L80:     * Multimedia Gallery
+L81:       * 【61†Fabs: Outside†pr.tsmc.com】
+L82:       * 【62†Fabs: Inside†pr.tsmc.com】
+L83:       * 【63†Executives†pr.tsmc.com】
+L84:       * 【64†Videos†pr.tsmc.com】
+L85:     * Corporate Information
+L86:       * 【65†About TSMC†www.tsmc.com】
+L87:       * 【31†Financial Results】
+L88:       * 【66†ESG†esg.tsmc.com】
+L89:   * 【67†Careers†www.tsmc.com】
+L90: 
+L91: 【67†Careers†www.tsmc.com】
+L92: 
+L93:     * 【67†Overview†www.tsmc.com】
+L94:     * Explore Career
+L95:       * 【68†Browse & Apply†www.tsmc.com】
+L96:       * 【69†Application Process†www.tsmc.com】
+L97:     * Resources at TSMC
+L98:       * 【70†Core Values†www.tsmc.com】
+L99:       * 【71†Relocation to Headquarters†www.tsmc.com】
+L100:     * Life at TSMC
+L101:       * 【72†Working Environment†www.tsmc.com】
+L102:       * 【73†Inclusive Workplace†www.tsmc.com】
+L103:     *   * 【74†Research†research.tsmc.com】
+L104: 
+L105: 【74†Research†research.tsmc.com】
+L106:     * 【74†Overview†research.tsmc.com】
+L107:     * Research Areas
+L108:       * 【75†Overview†research.tsmc.com】
+L109:       * 【76†Logic†research.tsmc.com】
+L110:       * 【77†Interconnect†research.tsmc.com】
+L111:       * 【78†Memory†research.tsmc.com】
+L112:       * 【79†Artificial Intelligence†research.tsmc.com】
+L113:     * Collaborations
+L114:       * 【80†Collaboration Programs†research.tsmc.com】
+L115:       * 【81†Events†research.tsmc.com】
+L116:     * Careers
+L117:       * 【82†Openings†research.tsmc.com】
+L118:       * 【70†Core Values†www.tsmc.com】
+L119:       * 【83†Vision and Mission†www.tsmc.com】
+L120:       * 【73†Inclusive Workplace†www.tsmc.com】
+L121:     *   * 【65†About TSMC†www.tsmc.com】
+L122: 【65†About TSMC†www.tsmc.com】
+L123:     * 【65†Overview†www.tsmc.com】
+L124:     * Company Info
+L125:       * 【84†Overview†www.tsmc.com】
+L126:       * 【83†Vision and Mission†www.tsmc.com】
+L127:       * 【70†Values and Business Philosophy†www.tsmc.com】
+L128:       * 【85†Organization†www.tsmc.com】
+L129:       * 【86†Executives†www.tsmc.com】
+L130:       * 【39†Board of Directors】
+L131:       * 【87†Document Center†www.tsmc.com】
+L132:     * Foundation & Museum
+L133:       * 【88†TSMC Museum of Innovation†www.tsmcmoi.com】
+L134:       * 【89†TSMC Charity Foundation†www.tsmc.com】
+L135:       * 【90†TSMC Education and Culture Foundation†www.tsmc.com】
+L136:     * Policy
+L137:       * 【91†Human Rights Policy†www.tsmc.com】
+L138:       * 【92†Quality Policy†www.tsmc.com】
+L139:       * 【93†Risk Management Policy†www.tsmc.com】
+L140:     * Contact Us
+L141:       * 【8†TSMC Fabs†www.tsmc.com】
+L142:       * 【94†Subsidiaries†www.tsmc.com】
+L143:       * 【95†Business Contacts†www.tsmc.com】
+L144:       * 【96†Investor Relations, Public Relations, ESG Contacts†www.tsmc.com】
+L145:       * 【97†Procurement Contacts†www.tsmc.com】
+L146:       * 【98†Career Contact†www.tsmc.com】
+L147:       * 【99†Whistleblowing Mechanism†www.tsmc.com】
+L148:   * [Button: Dedicated IC Foundry ]
+L149:     * 【0†Overview†www.tsmc.com】
+L150:     * Technology
+L151:       * 【1†Overview†www.tsmc.com】
+L152:       * 【2†Logic Technology†www.tsmc.com】
+L153:       * 【3†Specialty Technology†www.tsmc.com】
+L154:       * 【4†TSMC 3DFabric®†3dfabric.tsmc.com】
+L155:       * 【5†Technology Platforms†www.tsmc.com】
+L156:       * 【6†Future R&D Plans†www.tsmc.com】
+L157:     * Manufacturing
+L158:       * 【7†Overview†www.tsmc.com】
+L159:       * 【8†Fab Locations†www.tsmc.com】
+L160:       * 【9†Fab Capacity†www.tsmc.com】
+L161:       * 【10†GIGAFAB® Facilities†www.tsmc.com】
+L162:       * 【11†Engineering Performance Optimization†www.tsmc.com】
+L163:       * 【12†Agile and Intelligent Operations†www.tsmc.com】
+L164:     * Open Innovation Platform®
+L165:       * 【13†Overview†www.tsmc.com】
+L166:       * 【14†IP Alliance†www.tsmc.com】
+L167:       * 【15†EDA Alliance†www.tsmc.com】
+L168:       * 【16†Design Center Alliance†www.tsmc.com】
+L169:       * 【17†Cloud Alliance†www.tsmc.com】
+L170:       * 【18†Value Chain Aggregator†www.tsmc.com】
+L171:       * 【19†TSMC 3DFabric® Alliance†www.tsmc.com】
+L172:     * Services
+L173:       * 【20†Overview†www.tsmc.com】
+L174:       * 【21†Advanced Packaging†www.tsmc.com】
+L175:       * 【22†Mask Services†www.tsmc.com】
+L176:       * 【23†eFoundry®†www.tsmc.com】
+L177:       * 【24†CyberShuttle®†www.tsmc.com】
+L178:       * 【25†University FinFET Program†www.tsmc.com】
+L179:     * Grand Alliance
+L180:       * 【26†Overview†www.tsmc.com】
+L181:       * 【27†Innovate with TSMC!†www.tsmc.com】
+L182:   * [Button: Investors ]
+L183:     * 【28†Overview】
+L184:     * Financials
+L185:       * 【29†Fundamentals】
+L186:       * 【30†Quarterly Results】
+L187:       * 【31†Annual Reports】
+L188:       * 【32†Monthly Revenue】
+L189:       * 【33†Historical Information】
+L190:       * 【34†SEC Filings】
+L191:       * 【35†Financial Reports】
+L192:       * 【36†Financial Calendar】
+L193:       * 【37†Credit Rating】
+L194:     * Corporate Governance
+L195:       * 【38†Overview】
+L196:       * 【39†Board of Directors】
+L197:       * 【40†Committees】
+L198:       * 【41†Corporate Governance Officer】
+L199:       * 【42†Major Internal Policies】
+L200:       * 【43†NYSE Section 303A】
+L201:       * 【44†Internal Audit】
+L202:       * 【45†Risk Management】
+L203:     * Shareholder Services
+L204:       * 【46†Stock Quotes】
+L205:       * 【47†Shareholders' Meeting】
+L206:       * 【48†Dividend】
+L207:       * 【49†TWSE Market Observation Post System†emops.twse.com.tw】
+L208:       * 【50†TSMC Material Information†emops.twse.com.tw】
+L209:       * 【51†Prospectuses†doc.twse.com.tw】
+L210:       * 【52†Contacts】
+L211:     * 【53†FAQ】
+L212:   * [Button: Press Center ]
+L213:     * 【54†Overview†pr.tsmc.com】
+L214:     * Press Releases
+L215:       * 【55†Latest News†pr.tsmc.com】
+L216:       * 【56†News Archives†pr.tsmc.com】
+L217:     * Events
+L218:       * 【57†All Events†pr.tsmc.com】
+L219:       * 【58†Investor Meetings†pr.tsmc.com】
+L220:       * 【59†TSMC Events†pr.tsmc.com】
+L221:       * 【60†Industry Events†pr.tsmc.com】
+L222:     * Multimedia Gallery
+L223:       * 【61†Fabs: Outside†pr.tsmc.com】
+L224:       * 【62†Fabs: Inside†pr.tsmc.com】
+L225:       * 【63†Executives†pr.tsmc.com】
+L226:       * 【64†Videos†pr.tsmc.com】
+L227:     * Corporate Information
+L228:       * 【65†About TSMC†www.tsmc.com】
+L229:       * 【31†Financial Results】
+L230:       * 【66†ESG†esg.tsmc.com】
+L231:   * [Button: Careers ]
+L232: 
+L233:     * 【67†Overview†www.tsmc.com】
+L234:     * Explore Career
+L235:       * 【68†Browse & Apply†www.tsmc.com】
+L236:       * 【69†Application Process†www.tsmc.com】
+L237:     * Resources at TSMC
+L238:       * 【70†Core Values†www.tsmc.com】
+L239:       * 【71†Relocation to Headquarters†www.tsmc.com】
+L240:     * Life at TSMC
+L241:       * 【72†Working Environment†www.tsmc.com】
+L242:       * 【73†Inclusive Workplace†www.tsmc.com】
+L243: 
+L244:   * [Button: Research ]
+L245:     * 【74†Overview†research.tsmc.com】
+L246:     * Research Areas
+L247:       * 【75†Overview†research.tsmc.com】
+L248:       * 【76†Logic†research.tsmc.com】
+L249:       * 【77†Interconnect†research.tsmc.com】
+L250:       * 【78†Memory†research.tsmc.com】
+L251:       * 【79†Artificial Intelligence†research.tsmc.com】
+L252:     * Collaborations
+L253:       * 【80†Collaboration Programs†research.tsmc.com】
+L254:       * 【81†Events†research.tsmc.com】
+L255:     * Careers
+L256:       * 【82†Openings†research.tsmc.com】
+L257:       * 【70†Core Values†www.tsmc.com】
+L258:       * 【83†Vision and Mission†www.tsmc.com】
+L259:       * 【73†Inclusive Workplace†www.tsmc.com】
+L260:   * [Button: About TSMC ]
+L261:     * 【65†Overview†www.tsmc.com】
+L262:     * Company Info
+L263:       * 【84†Overview†www.tsmc.com】
+L264:       * 【83†Vision and Mission†www.tsmc.com】
+L265:       * 【70†Values and Business Philosophy†www.tsmc.com】
+L266:       * 【85†Organization†www.tsmc.com】
+L267:       * 【86†Executives†www.tsmc.com】
+L268:       * 【39†Board of Directors】
+L269:       * 【87†Document Center†www.tsmc.com】
+L270:     * Foundation & Museum
+L271:       * 【88†TSMC Museum of Innovation†www.tsmcmoi.com】
+L272:       * 【89†TSMC Charity Foundation†www.tsmc.com】
+L273:       * 【90†TSMC Education and Culture Foundation†www.tsmc.com】
+L274:     * Policy
+L275:       * 【91†Human Rights Policy†www.tsmc.com】
+L276:       * 【92†Quality Policy†www.tsmc.com】
+L277:       * 【93†Risk Management Policy†www.tsmc.com】
+L278:     * Contact Us
+L279:       * 【8†TSMC Fabs†www.tsmc.com】
+L280:       * 【94†Subsidiaries†www.tsmc.com】
+L281:       * 【95†Business Contacts†www.tsmc.com】
+L282:       * 【96†Investor Relations, Public Relations, ESG Contacts†www.tsmc.com】
+L283:       * 【97†Procurement Contacts†www.tsmc.com】
+L284:       * 【98†Career Contact†www.tsmc.com】
+L285:       * 【99†Whistleblowing Mechanism†www.tsmc.com】
+L286: Search [Input]
+L287: 
+L288: [Input]
+L289: ### Upcoming Events
+L290: 
+L291: November 10, 2026 (Tue)
+L292: 
+L293: ``2026-11-10 13:30:00` `2026-11-10 13:31:00` ` TSMC Monthly Sales - October 2026 ` `` `` `` `` `Asia/Taipei` `public` `
+L294: 
+L295: TSMC Monthly Sales - October 2026
+L296: 
+L297: December 10, 2026 (Thu)
+L298: 
+L299: ``2026-12-10 13:30:00` `2026-12-10 13:31:00` ` TSMC Monthly Sales - November 2026 ` `` `` `` `` `Asia/Taipei` `public` `
+L300: 
+L301: TSMC Monthly Sales - November 2026
+L302: 
+L303: January 08, 2027 (Fri)
+L304: ``2027-01-08 13:30:00` `2027-01-08 13:31:00` ` TSMC Monthly Sales - December 2026 ` `` `` `` `` `Asia/Taipei` `public` `
+L305: 
+L306: TSMC Monthly Sales - December 2026
+L307: ### Past Events
+L308: 
+L309: October 15, 2026 (Thu)
+L310: 
+L311: TSMC 3Q'26 Results - Earnings Conference and Conference Call
+L312: 
+L313: 【100†/english/quarterly-results/2026/q3】
+L314: 
+L315: October 08, 2026 (Thu)
+L316: 
+L317: TSMC Monthly Sales - September 2026
+L318: 
+L319: 【101†/english/monthly-revenue/2026】
+L320: 
+L321: September 10, 2026 (Thu)
+L322: 
+L323: TSMC Monthly Sales - August 2026
+L324: 
+L325: 【101†/english/monthly-revenue/2026】
+L326: 
+L327: August 10, 2026 (Mon)
+L328: 
+L329: TSMC Monthly Sales - July 2026
+L330: 
+L331: 【101†/english/monthly-revenue/2026】
+L332: 
+L333: July 16, 2026 (Thu)
+L334: TSMC 2Q'26 Results - Earnings Conference and Conference Call
+L335: 
+L336: 【102†/english/quarterly-results/2026/q2】
+L337: 
+L338: July 13, 2026 (Mon)
+L339: 
+L340: TSMC Monthly Sales - June 2026 (postponed due to the typhoon day-off on July 10th, 2026.)
+L341: 
+L342: 【101†/english/monthly-revenue/2026】
+L343: 
+L344: June 10, 2026 (Wed)
+L345: 
+L346: TSMC Monthly Sales - May 2026
+L347: 
+L348: 【101†/english/monthly-revenue/2026】
+L349: 
+L350: May 08, 2026 (Fri)
+L351: 
+L352: TSMC Monthly Sales - April 2026
+L353: 
+L354: 【101†/english/monthly-revenue/2026】
+L355: 
+L356: April 16, 2026 (Thu)
+L357: TSMC 1Q'26 Results - Earnings Conference and Conference Call
+L358: 
+L359: 【103†/english/quarterly-results/2026/q1】
+L360: 
+L361: April 10, 2026 (Fri)
+L362: 
+L363: TSMC Monthly Sales - March 2026
+L364: 
+L365: 【101†/english/monthly-revenue/2026】
+L366: 
+L367: March 10, 2026 (Tue)
+L368: 
+L369: TSMC Monthly Sales - February 2026
+L370: 
+L371: 【101†/english/monthly-revenue/2026】
+L372: 
+L373: February 10, 2026 (Tue)
+L374: 
+L375: TSMC Monthly Sales - January 2026
+L376: 
+L377: 【101†/english/monthly-revenue/2026】
+L378: 
+L379: January 15, 2026 (Thu)
+L380: 
+L381: TSMC 4Q'25 Results - Earnings Conference and Conference Call
+L382: 【104†/english/quarterly-results/2025/q4】
+L383: 
+L384: January 09, 2026 (Fri)
+L385: 
+L386: TSMC Monthly Sales - December 2025
+L387: 
+L388: 【105†/english/monthly-revenue/2025】
+L389: 
+L390: Important: This calendar is subject to change during the year as dates are adjusted.
+L391: 
+L392: December 10, 2025 (Wed)
+L393: 
+L394: TSMC Monthly Sales - November 2025
+L395: 
+L396: 【105†/english/monthly-revenue/2025】
+L397: 
+L398: November 10, 2025 (Mon)
+L399: 
+L400: TSMC Monthly Sales - October 2025
+L401: 
+L402: 【105†/english/monthly-revenue/2025】
+L403: 
+L404: October 16, 2025 (Thu)
+L405: 
+L406: TSMC 3Q'25 Results - Earnings Conference and Conference Call
+L407: 【106†/english/quarterly-results/2025/q3】
+L408: 
+L409: October 09, 2025 (Thu)
+L410: 
+L411: TSMC Monthly Sales - September 2025
+L412: 
+L413: 【105†/english/monthly-revenue/2025】
+L414: 
+L415: September 10, 2025 (Wed)
+L416: 
+L417: TSMC Monthly Sales - August 2025
+L418: 
+L419: 【105†/english/monthly-revenue/2025】
+L420: 
+L421: August 08, 2025 (Fri)
+L422: 
+L423: TSMC Monthly Sales - July 2025
+L424: 
+L425: 【105†/english/monthly-revenue/2025】
+L426: 
+L427: July 17, 2025 (Thu)
+L428: 
+L429: TSMC 2Q'25 Results - Earnings Conference and Conference Call
+L430: 
+L431: 【107†/english/quarterly-results/2025/q2】
+L432: 
+L433: July 10, 2025 (Thu)
+L434: 
+L435: TSMC Monthly Sales - June 2025
+L436: 【105†/english/monthly-revenue/2025】
+L437: 
+L438: June 10, 2025 (Tue)
+L439: 
+L440: TSMC Monthly Sales - May 2025
+L441: 
+L442: 【105†/english/monthly-revenue/2025】
+L443: 
+L444: May 09, 2025 (Fri)
+L445: 
+L446: TSMC Monthly Sales - April 2025
+L447: 
+L448: 【105†/english/monthly-revenue/2025】
+L449: 
+L450: April 17, 2025 (Thu)
+L451: 
+L452: TSMC 1Q'25 Results - Earnings Conference and Conference Call
+L453: 
+L454: 【108†/english/quarterly-results/2025/q1】
+L455: 
+L456: April 10, 2025 (Thu)
+L457: 
+L458: TSMC Monthly Sales - March 2025
+L459: 
+L460: 【105†/english/monthly-revenue/2025】
+L461: 
+L462: March 10, 2025 (Mon)
+L463: 
+L464: TSMC Monthly Sales - February 2025
+L465: 【105†/english/monthly-revenue/2025】
+L466: 
+L467: February 10, 2025 (Mon)
+L468: 
+L469: TSMC Monthly Sales - January 2025
+L470: 
+L471: 【105†/english/monthly-revenue/2025】
+L472: 
+L473: January 16, 2025 (Thu)
+L474: 
+L475: TSMC 4Q'24 Results - Earnings Conference and Conference Call
+L476: 
+L477: 【109†/english/quarterly-results/2024/q4】
+L478: 
+L479: January 10, 2025 (Fri)
+L480: 
+L481: TSMC Monthly Sales - December 2024
+L482: 
+L483: 【110†/english/monthly-revenue/2024】
+L484: 
+L485: Important: This calendar is subject to change during the year as dates are adjusted.
+L486: 
+L487: December 10, 2024 (Tue)
+L488: 
+L489: TSMC Monthly Sales - November 2024
+L490: 【110†/english/monthly-revenue/2024】
+L491: 
+L492: November 08, 2024 (Fri)
+L493: 
+L494: TSMC Monthly Sales - October 2024
+L495: 
+L496: 【110†/english/monthly-revenue/2024】
+L497: 
+L498: October 17, 2024 (Thu)
+L499: 
+L500: TSMC 3Q'24 Results - Earnings Conference and Conference Call
+L501: 
+L502: 【111†/english/quarterly-results/2024/q3】
+L503: 
+L504: October 09, 2024 (Wed)
+L505: 
+L506: TSMC Monthly Sales - September 2024
+L507: 
+L508: 【110†/english/monthly-revenue/2024】
+L509: 
+L510: September 10, 2024 (Tue)
+L511: 
+L512: TSMC Monthly Sales - August 2024
+L513: 
+L514: 【110†/english/monthly-revenue/2024】
+L515: 
+L516: August 09, 2024 (Fri)
+L517: 
+L518: TSMC Monthly Sales - July 2024
+L519: 【110†/english/monthly-revenue/2024】
+L520: 
+L521: July 18, 2024 (Thu)
+L522: 
+L523: TSMC 2Q'24 Results - Earnings Conference and Conference Call
+L524: 
+L525: 【112†/english/quarterly-results/2024/q2】
+L526: 
+L527: July 10, 2024 (Wed)
+L528: 
+L529: TSMC Monthly Sales - June 2024
+L530: 
+L531: 【110†/english/monthly-revenue/2024】
+L532: 
+L533: June 07, 2024 (Fri)
+L534: 
+L535: TSMC Monthly Sales - May 2024
+L536: 
+L537: 【110†/english/monthly-revenue/2024】
+L538: 
+L539: May 10, 2024 (Fri)
+L540: 
+L541: TSMC Monthly Sales - April 2024
+L542: 
+L543: 【110†/english/monthly-revenue/2024】
+L544: 
+L545: April 18, 2024 (Thu)
+L546: TSMC 1Q'24 Results - Earnings Conference and Conference Call
+L547: 
+L548: 【113†/english/quarterly-results/2024/q1】
+L549: 
+L550: April 10, 2024 (Wed)
+L551: 
+L552: TSMC Monthly Sales - March 2024
+L553: 
+L554: 【110†/english/monthly-revenue/2024】
+L555: 
+L556: March 08, 2024 (Fri)
+L557: 
+L558: TSMC Monthly Sales - February 2024
+L559: 
+L560: 【110†/english/monthly-revenue/2024】
+L561: 
+L562: February 07, 2024 (Wed)
+L563: 
+L564: TSMC Monthly Sales - January 2024
+L565: 
+L566: 【110†/english/monthly-revenue/2024】
+L567: 
+L568: January 18, 2024 (Thu)
+L569: 
+L570: TSMC 4Q'23 Results - Earnings Conference and Conference Call
+L571: 【114†/english/quarterly-results/2023/q4】
+L572: 
+L573: January 10, 2024 (Wed)
+L574: 
+L575: TSMC Monthly Sales - December 2023
+L576: 
+L577: 【115†/english/monthly-revenue/2023】
+L578: 
+L579: Important: This calendar is subject to change during the year as dates are adjusted.
+L580: 
+L581: December 08, 2023 (Fri)
+L582: 
+L583: TSMC Monthly Sales - November 2023
+L584: 
+L585: 【115†/english/monthly-revenue/2023】
+L586: 
+L587: November 10, 2023 (Fri)
+L588: 
+L589: TSMC Monthly Sales - October 2023
+L590: 
+L591: 【115†/english/monthly-revenue/2023】
+L592: 
+L593: October 19, 2023 (Thu)
+L594: 
+L595: TSMC 3Q'23 Results - Earnings Conference and Conference Call
+L596: 【116†/english/quarterly-results/2023/q3】
+L597: 
+L598: October 06, 2023 (Fri)
+L599: 
+L600: TSMC Monthly Sales - September 2023
+L601: 
+L602: 【115†/english/monthly-revenue/2023】
+L603: 
+L604: September 08, 2023 (Fri)
+L605: 
+L606: TSMC Monthly Sales - August 2023
+L607: 
+L608: 【115†/english/monthly-revenue/2023】
+L609: 
+L610: August 10, 2023 (Thu)
+L611: 
+L612: TSMC Monthly Sales - July 2023
+L613: 
+L614: 【115†/english/monthly-revenue/2023】
+L615: 
+L616: July 20, 2023 (Thu)
+L617: 
+L618: TSMC 2Q'23 Results - Earnings Conference and Conference Call
+L619: 
+L620: 【117†/english/quarterly-results/2023/q2】
+L621: 
+L622: July 10, 2023 (Mon)
+L623: 
+L624: TSMC Monthly Sales - June 2023
+L625: 【115†/english/monthly-revenue/2023】
+L626: 
+L627: June 09, 2023 (Fri)
+L628: 
+L629: TSMC Monthly Sales - May 2023
+L630: 
+L631: 【115†/english/monthly-revenue/2023】
+L632: 
+L633: June 06, 2023 (Tue)
+L634: 
+L635: 2023 General Shareholders' Meeting
+L636: 
+L637: 【118†https://investor.tsmc.com/english/shareholders-meeting/2023】
+L638: 
+L639: May 10, 2023 (Wed)
+L640: 
+L641: TSMC Monthly Sales - April 2023
+L642: 
+L643: 【115†/english/monthly-revenue/2023】
+L644: 
+L645: May 10, 2023 (Wed)
+L646: 
+L647: TSMC Monthly Sales - April 2023
+L648: 
+L649: 【115†/english/monthly-revenue/2023】
+L650: 
+L651: April 20, 2023 (Thu)
+L652: TSMC 1Q'23 Results - Earnings Conference and Conference Call
+L653: 
+L654: 【119†/english/quarterly-results/2023/q1】
+L655: 
+L656: April 10, 2023 (Mon)
+L657: 
+L658: TSMC Monthly Sales - March 2023
+L659: 
+L660: 【115†/english/monthly-revenue/2023】
+L661: 
+L662: March 10, 2023 (Fri)
+L663: 
+L664: TSMC Monthly Sales - February 2023
+L665: 
+L666: 【115†/english/monthly-revenue/2023】
+L667: 
+L668: February 10, 2023 (Fri)
+L669: 
+L670: TSMC Monthly Sales - January 2023
+L671: 
+L672: 【115†/english/monthly-revenue/2023】
+L673: 
+L674: January 12, 2023 (Thu)
+L675: 
+L676: TSMC 4Q22 Results - Earnings Conference and Conference Call
+
+Financial Calendar - Taiwan Semiconductor Manufacturing Company Limited (https://investor.tsmc.com/english/financial-calendar)
+citeturn259view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://investor.tsmc.com/english/financial-calendar","lineno":450}); Total lines: 1559
+L231:   * [Button: Careers ]
+L232: 
+L233:     * 【67†Overview†www.tsmc.com】
+L234:     * Explore Career
+L235:       * 【68†Browse & Apply†www.tsmc.com】
+L236:       * 【69†Application Process†www.tsmc.com】
+L237:     * Resources at TSMC
+L238:       * 【70†Core Values†www.tsmc.com】
+L239:       * 【71†Relocation to Headquarters†www.tsmc.com】
+L240:     * Life at TSMC
+L241:       * 【72†Working Environment†www.tsmc.com】
+L242:       * 【73†Inclusive Workplace†www.tsmc.com】
+L243: 
+L244:   * [Button: Research ]
+L245:     * 【74†Overview†research.tsmc.com】
+L246:     * Research Areas
+L247:       * 【75†Overview†research.tsmc.com】
+L248:       * 【76†Logic†research.tsmc.com】
+L249:       * 【77†Interconnect†research.tsmc.com】
+L250:       * 【78†Memory†research.tsmc.com】
+L251:       * 【79†Artificial Intelligence†research.tsmc.com】
+L252:     * Collaborations
+L253:       * 【80†Collaboration Programs†research.tsmc.com】
+L254:       * 【81†Events†research.tsmc.com】
+L255:     * Careers
+L256:       * 【82†Openings†research.tsmc.com】
+L257:       * 【70†Core Values†www.tsmc.com】
+L258:       * 【83†Vision and Mission†www.tsmc.com】
+L259:       * 【73†Inclusive Workplace†www.tsmc.com】
+L260:   * [Button: About TSMC ]
+L261:     * 【65†Overview†www.tsmc.com】
+L262:     * Company Info
+L263:       * 【84†Overview†www.tsmc.com】
+L264:       * 【83†Vision and Mission†www.tsmc.com】
+L265:       * 【70†Values and Business Philosophy†www.tsmc.com】
+L266:       * 【85†Organization†www.tsmc.com】
+L267:       * 【86†Executives†www.tsmc.com】
+L268:       * 【39†Board of Directors】
+L269:       * 【87†Document Center†www.tsmc.com】
+L270:     * Foundation & Museum
+L271:       * 【88†TSMC Museum of Innovation†www.tsmcmoi.com】
+L272:       * 【89†TSMC Charity Foundation†www.tsmc.com】
+L273:       * 【90†TSMC Education and Culture Foundation†www.tsmc.com】
+L274:     * Policy
+L275:       * 【91†Human Rights Policy†www.tsmc.com】
+L276:       * 【92†Quality Policy†www.tsmc.com】
+L277:       * 【93†Risk Management Policy†www.tsmc.com】
+L278:     * Contact Us
+L279:       * 【8†TSMC Fabs†www.tsmc.com】
+L280:       * 【94†Subsidiaries†www.tsmc.com】
+L281:       * 【95†Business Contacts†www.tsmc.com】
+L282:       * 【96†Investor Relations, Public Relations, ESG Contacts†www.tsmc.com】
+L283:       * 【97†Procurement Contacts†www.tsmc.com】
+L284:       * 【98†Career Contact†www.tsmc.com】
+L285:       * 【99†Whistleblowing Mechanism†www.tsmc.com】
+L286: Search [Input]
+L287: 
+L288: [Input]
+L289: ### Upcoming Events
+L290: 
+L291: November 10, 2026 (Tue)
+L292: 
+L293: ``2026-11-10 13:30:00` `2026-11-10 13:31:00` ` TSMC Monthly Sales - October 2026 ` `` `` `` `` `Asia/Taipei` `public` `
+L294: 
+L295: TSMC Monthly Sales - October 2026
+L296: 
+L297: December 10, 2026 (Thu)
+L298: 
+L299: ``2026-12-10 13:30:00` `2026-12-10 13:31:00` ` TSMC Monthly Sales - November 2026 ` `` `` `` `` `Asia/Taipei` `public` `
+L300: 
+L301: TSMC Monthly Sales - November 2026
+L302: 
+L303: January 08, 2027 (Fri)
+L304: ``2027-01-08 13:30:00` `2027-01-08 13:31:00` ` TSMC Monthly Sales - December 2026 ` `` `` `` `` `Asia/Taipei` `public` `
+L305: 
+L306: TSMC Monthly Sales - December 2026
+L307: ### Past Events
+L308: 
+L309: October 15, 2026 (Thu)
+L310: 
+L311: TSMC 3Q'26 Results - Earnings Conference and Conference Call
+L312: 
+L313: 【100†/english/quarterly-results/2026/q3】
+L314: 
+L315: October 08, 2026 (Thu)
+L316: 
+L317: TSMC Monthly Sales - September 2026
+L318: 
+L319: 【101†/english/monthly-revenue/2026】
+L320: 
+L321: September 10, 2026 (Thu)
+L322: 
+L323: TSMC Monthly Sales - August 2026
+L324: 
+L325: 【101†/english/monthly-revenue/2026】
+L326: 
+L327: August 10, 2026 (Mon)
+L328: 
+L329: TSMC Monthly Sales - July 2026
+L330: 
+L331: 【101†/english/monthly-revenue/2026】
+L332: 
+L333: July 16, 2026 (Thu)
+L334: TSMC 2Q'26 Results - Earnings Conference and Conference Call
+L335: 
+L336: 【102†/english/quarterly-results/2026/q2】
+L337: 
+L338: July 13, 2026 (Mon)
+L339: 
+L340: TSMC Monthly Sales - June 2026 (postponed due to the typhoon day-off on July 10th, 2026.)
+L341: 
+L342: 【101†/english/monthly-revenue/2026】
+L343: 
+L344: June 10, 2026 (Wed)
+L345: 
+L346: TSMC Monthly Sales - May 2026
+L347: 
+L348: 【101†/english/monthly-revenue/2026】
+L349: 
+L350: May 08, 2026 (Fri)
+L351: 
+L352: TSMC Monthly Sales - April 2026
+L353: 
+L354: 【101†/english/monthly-revenue/2026】
+L355: 
+L356: April 16, 2026 (Thu)
+L357: TSMC 1Q'26 Results - Earnings Conference and Conference Call
+L358: 
+L359: 【103†/english/quarterly-results/2026/q1】
+L360: 
+L361: April 10, 2026 (Fri)
+L362: 
+L363: TSMC Monthly Sales - March 2026
+L364: 
+L365: 【101†/english/monthly-revenue/2026】
+L366: 
+L367: March 10, 2026 (Tue)
+L368: 
+L369: TSMC Monthly Sales - February 2026
+L370: 
+L371: 【101†/english/monthly-revenue/2026】
+L372: 
+L373: February 10, 2026 (Tue)
+L374: 
+L375: TSMC Monthly Sales - January 2026
+L376: 
+L377: 【101†/english/monthly-revenue/2026】
+L378: 
+L379: January 15, 2026 (Thu)
+L380: 
+L381: TSMC 4Q'25 Results - Earnings Conference and Conference Call
+L382: 【104†/english/quarterly-results/2025/q4】
+L383: 
+L384: January 09, 2026 (Fri)
+L385: 
+L386: TSMC Monthly Sales - December 2025
+L387: 
+L388: 【105†/english/monthly-revenue/2025】
+L389: 
+L390: Important: This calendar is subject to change during the year as dates are adjusted.
+L391: 
+L392: December 10, 2025 (Wed)
+L393: 
+L394: TSMC Monthly Sales - November 2025
+L395: 
+L396: 【105†/english/monthly-revenue/2025】
+L397: 
+L398: November 10, 2025 (Mon)
+L399: 
+L400: TSMC Monthly Sales - October 2025
+L401: 
+L402: 【105†/english/monthly-revenue/2025】
+L403: 
+L404: October 16, 2025 (Thu)
+L405: 
+L406: TSMC 3Q'25 Results - Earnings Conference and Conference Call
+L407: 【106†/english/quarterly-results/2025/q3】
+L408: 
+L409: October 09, 2025 (Thu)
+L410: 
+L411: TSMC Monthly Sales - September 2025
+L412: 
+L413: 【105†/english/monthly-revenue/2025】
+L414: 
+L415: September 10, 2025 (Wed)
+L416: 
+L417: TSMC Monthly Sales - August 2025
+L418: 
+L419: 【105†/english/monthly-revenue/2025】
+L420: 
+L421: August 08, 2025 (Fri)
+L422: 
+L423: TSMC Monthly Sales - July 2025
+L424: 
+L425: 【105†/english/monthly-revenue/2025】
+L426: 
+L427: July 17, 2025 (Thu)
+L428: 
+L429: TSMC 2Q'25 Results - Earnings Conference and Conference Call
+L430: 
+L431: 【107†/english/quarterly-results/2025/q2】
+L432: 
+L433: July 10, 2025 (Thu)
+L434: 
+L435: TSMC Monthly Sales - June 2025
+L436: 【105†/english/monthly-revenue/2025】
+L437: 
+L438: June 10, 2025 (Tue)
+L439: 
+L440: TSMC Monthly Sales - May 2025
+L441: 
+L442: 【105†/english/monthly-revenue/2025】
+L443: 
+L444: May 09, 2025 (Fri)
+L445: 
+L446: TSMC Monthly Sales - April 2025
+L447: 
+L448: 【105†/english/monthly-revenue/2025】
+L449: 
+L450: April 17, 2025 (Thu)
+L451: 
+L452: TSMC 1Q'25 Results - Earnings Conference and Conference Call
+L453: 
+L454: 【108†/english/quarterly-results/2025/q1】
+L455: 
+L456: April 10, 2025 (Thu)
+L457: 
+L458: TSMC Monthly Sales - March 2025
+L459: 
+L460: 【105†/english/monthly-revenue/2025】
+L461: 
+L462: March 10, 2025 (Mon)
+L463: 
+L464: TSMC Monthly Sales - February 2025
+L465: 【105†/english/monthly-revenue/2025】
+L466: 
+L467: February 10, 2025 (Mon)
+L468: 
+L469: TSMC Monthly Sales - January 2025
+L470: 
+L471: 【105†/english/monthly-revenue/2025】
+L472: 
+L473: January 16, 2025 (Thu)
+L474: 
+L475: TSMC 4Q'24 Results - Earnings Conference and Conference Call
+L476: 
+L477: 【109†/english/quarterly-results/2024/q4】
+L478: 
+L479: January 10, 2025 (Fri)
+L480: 
+L481: TSMC Monthly Sales - December 2024
+L482: 
+L483: 【110†/english/monthly-revenue/2024】
+L484: 
+L485: Important: This calendar is subject to change during the year as dates are adjusted.
+L486: 
+L487: December 10, 2024 (Tue)
+L488: 
+L489: TSMC Monthly Sales - November 2024
+L490: 【110†/english/monthly-revenue/2024】
+L491: 
+L492: November 08, 2024 (Fri)
+L493: 
+L494: TSMC Monthly Sales - October 2024
+L495: 
+L496: 【110†/english/monthly-revenue/2024】
+L497: 
+L498: October 17, 2024 (Thu)
+L499: 
+L500: TSMC 3Q'24 Results - Earnings Conference and Conference Call
+L501: 
+L502: 【111†/english/quarterly-results/2024/q3】
+L503: 
+L504: October 09, 2024 (Wed)
+L505: 
+L506: TSMC Monthly Sales - September 2024
+L507: 
+L508: 【110†/english/monthly-revenue/2024】
+L509: 
+L510: September 10, 2024 (Tue)
+L511: 
+L512: TSMC Monthly Sales - August 2024
+L513: 
+L514: 【110†/english/monthly-revenue/2024】
+L515: 
+L516: August 09, 2024 (Fri)
+L517: 
+L518: TSMC Monthly Sales - July 2024
+L519: 【110†/english/monthly-revenue/2024】
+L520: 
+L521: July 18, 2024 (Thu)
+L522: 
+L523: TSMC 2Q'24 Results - Earnings Conference and Conference Call
+L524: 
+L525: 【112†/english/quarterly-results/2024/q2】
+L526: 
+L527: July 10, 2024 (Wed)
+L528: 
+L529: TSMC Monthly Sales - June 2024
+L530: 
+L531: 【110†/english/monthly-revenue/2024】
+L532: 
+L533: June 07, 2024 (Fri)
+L534: 
+L535: TSMC Monthly Sales - May 2024
+L536: 
+L537: 【110†/english/monthly-revenue/2024】
+L538: 
+L539: May 10, 2024 (Fri)
+L540: 
+L541: TSMC Monthly Sales - April 2024
+L542: 
+L543: 【110†/english/monthly-revenue/2024】
+L544: 
+L545: April 18, 2024 (Thu)
+L546: TSMC 1Q'24 Results - Earnings Conference and Conference Call
+L547: 
+L548: 【113†/english/quarterly-results/2024/q1】
+L549: 
+L550: April 10, 2024 (Wed)
+L551: 
+L552: TSMC Monthly Sales - March 2024
+L553: 
+L554: 【110†/english/monthly-revenue/2024】
+L555: 
+L556: March 08, 2024 (Fri)
+L557: 
+L558: TSMC Monthly Sales - February 2024
+L559: 
+L560: 【110†/english/monthly-revenue/2024】
+L561: 
+L562: February 07, 2024 (Wed)
+L563: 
+L564: TSMC Monthly Sales - January 2024
+L565: 
+L566: 【110†/english/monthly-revenue/2024】
+L567: 
+L568: January 18, 2024 (Thu)
+L569: 
+L570: TSMC 4Q'23 Results - Earnings Conference and Conference Call
+L571: 【114†/english/quarterly-results/2023/q4】
+L572: 
+L573: January 10, 2024 (Wed)
+L574: 
+L575: TSMC Monthly Sales - December 2023
+L576: 
+L577: 【115†/english/monthly-revenue/2023】
+L578: 
+L579: Important: This calendar is subject to change during the year as dates are adjusted.
+L580: 
+L581: December 08, 2023 (Fri)
+L582: 
+L583: TSMC Monthly Sales - November 2023
+L584: 
+L585: 【115†/english/monthly-revenue/2023】
+L586: 
+L587: November 10, 2023 (Fri)
+L588: 
+L589: TSMC Monthly Sales - October 2023
+L590: 
+L591: 【115†/english/monthly-revenue/2023】
+L592: 
+L593: October 19, 2023 (Thu)
+L594: 
+L595: TSMC 3Q'23 Results - Earnings Conference and Conference Call
+L596: 【116†/english/quarterly-results/2023/q3】
+L597: 
+L598: October 06, 2023 (Fri)
+L599: 
+L600: TSMC Monthly Sales - September 2023
+L601: 
+L602: 【115†/english/monthly-revenue/2023】
+L603: 
+L604: September 08, 2023 (Fri)
+L605: 
+L606: TSMC Monthly Sales - August 2023
+L607: 
+L608: 【115†/english/monthly-revenue/2023】
+L609: 
+L610: August 10, 2023 (Thu)
+L611: 
+L612: TSMC Monthly Sales - July 2023
+L613: 
+L614: 【115†/english/monthly-revenue/2023】
+L615: 
+L616: July 20, 2023 (Thu)
+L617: 
+L618: TSMC 2Q'23 Results - Earnings Conference and Conference Call
+L619: 
+L620: 【117†/english/quarterly-results/2023/q2】
+L621: 
+L622: July 10, 2023 (Mon)
+L623: 
+L624: TSMC Monthly Sales - June 2023
+L625: 【115†/english/monthly-revenue/2023】
+L626: 
+L627: June 09, 2023 (Fri)
+L628: 
+L629: TSMC Monthly Sales - May 2023
+L630: 
+L631: 【115†/english/monthly-revenue/2023】
+L632: 
+L633: June 06, 2023 (Tue)
+L634: 
+L635: 2023 General Shareholders' Meeting
+L636: 
+L637: 【118†https://investor.tsmc.com/english/shareholders-meeting/2023】
+L638: 
+L639: May 10, 2023 (Wed)
+L640: 
+L641: TSMC Monthly Sales - April 2023
+L642: 
+L643: 【115†/english/monthly-revenue/2023】
+L644: 
+L645: May 10, 2023 (Wed)
+L646: 
+L647: TSMC Monthly Sales - April 2023
+L648: 
+L649: 【115†/english/monthly-revenue/2023】
+L650: 
+L651: April 20, 2023 (Thu)
+L652: TSMC 1Q'23 Results - Earnings Conference and Conference Call
+L653: 
+L654: 【119†/english/quarterly-results/2023/q1】
+L655: 
+L656: April 10, 2023 (Mon)
+L657: 
+L658: TSMC Monthly Sales - March 2023
+L659: 
+L660: 【115†/english/monthly-revenue/2023】
+L661: 
+L662: March 10, 2023 (Fri)
+L663: 
+L664: TSMC Monthly Sales - February 2023
+L665: 
+L666: 【115†/english/monthly-revenue/2023】
+L667: 
+L668: February 10, 2023 (Fri)
+L669: 
+L670: TSMC Monthly Sales - January 2023
+L671: 
+L672: 【115†/english/monthly-revenue/2023】
+L673: 
+L674: January 12, 2023 (Thu)
+L675: 
+L676: TSMC 4Q22 Results - Earnings Conference and Conference Call
+L677: 【120†/english/quarterly-results/2022/q4】
+L678: 
+L679: January 10, 2023 (Tue)
+L680: 
+L681: TSMC Monthly Sales - December 2022
+L682: 
+L683: 【121†/english/monthly-revenue/2022】
+L684: 
+L685: Important: This calendar is subject to change during the year as dates are adjusted.
+L686: 
+L687: December 09, 2022 (Fri)
+L688: 
+L689: TSMC Monthly Sales - November 2022
+L690: 
+L691: 【121†/english/monthly-revenue/2022】
+L692: 
+L693: November 10, 2022 (Thu)
+L694: 
+L695: TSMC Monthly Sales - October 2022
+L696: 
+L697: 【121†/english/monthly-revenue/2022】
+L698: 
+L699: October 13, 2022 (Thu)
+L700: 
+L701: TSMC 3Q22 Results - Earnings Conference and Conference Call
+L702: 【122†/english/quarterly-results/2022/q3】
+L703: 
+L704: October 07, 2022 (Fri)
+L705: 
+L706: TSMC Monthly Sales - September 2022
+L707: 
+L708: 【121†/english/monthly-revenue/2022】
+L709: 
+L710: September 08, 2022 (Thu)
+L711: 
+L712: TSMC Monthly Sales - August 2022
+L713: 
+L714: 【121†/english/monthly-revenue/2022】
+L715: 
+L716: August 10, 2022 (Wed)
+L717: 
+L718: TSMC Monthly Sales - July 2022
+L719: 
+L720: 【121†/english/monthly-revenue/2022】
+L721: 
+L722: July 14, 2022 (Thu)
+L723: 
+L724: TSMC 2Q22 Results - Earnings Conference and Conference Call
+L725: 
+L726: 【123†/english/quarterly-results/2022/q2】
+L727: 
+L728: July 08, 2022 (Fri)
+L729: 
+L730: TSMC Monthly Sales - June 2022
+L731: 【121†/english/monthly-revenue/2022】
+L732: 
+L733: June 10, 2022 (Fri)
+L734: 
+L735: TSMC Monthly Sales - May 2022
+L736: 
+L737: 【121†/english/monthly-revenue/2022】
+L738: 
+L739: May 10, 2022 (Tue)
+L740: 
+L741: TSMC Monthly Sales - April 2022
+L742: 
+L743: 【121†/english/monthly-revenue/2022】
+L744: 
+L745: April 14, 2022 (Thu)
+L746: 
+L747: TSMC 1Q22 Results - Earnings Conference and Conference Call
+L748: 
+L749: 【124†/english/quarterly-results/2022/q1】
+L750: 
+L751: April 08, 2022 (Fri)
+L752: 
+L753: TSMC Monthly Sales - March 2022
+L754: 
+L755: 【121†/english/monthly-revenue/2022】
+L756: 
+L757: March 10, 2022 (Thu)
+L758: 
+L759: TSMC Monthly Sales - February 2022
+L760: 【121†/english/monthly-revenue/2022】
+L761: 
+L762: February 10, 2022 (Thu)
+L763: 
+L764: TSMC Monthly Sales - January 2022
+L765: 
+L766: 【121†/english/monthly-revenue/2022】
+L767: 
+L768: January 13, 2022 (Thu)
+L769: 
+L770: TSMC 4Q21 Results - Earnings Conference and Conference Call
+L771: 
+L772: 【125†/english/quarterly-results/2021/q4】
+L773: 
+L774: January 10, 2022 (Mon)
+L775: 
+L776: TSMC Monthly Sales - December 2021
+L777: 
+L778: 【126†/english/monthly-revenue/2021】
+L779: 
+L780: Important: This calendar is subject to change during the year as dates are adjusted.
+L781: 
+L782: December 10, 2021 (Fri)
+L783: 
+L784: TSMC Monthly Sales - November 2021
+L785: 【126†/english/monthly-revenue/2021】
+L786: 
+L787: November 10, 2021 (Wed)
+L788: 
+L789: TSMC Monthly Sales - October 2021
+L790: 
+L791: 【126†/english/monthly-revenue/2021】
+L792: 
+L793: October 14, 2021 (Thu)
+L794: 
+L795: TSMC 3Q21 Results - Earnings Conference and Conference Call
+L796: 
+L797: 【127†/english/quarterly-results/2021/q3】
+L798: 
+L799: October 08, 2021 (Fri)
+L800: 
+L801: TSMC Monthly Sales - September 2021
+L802: 
+L803: 【126†/english/monthly-revenue/2021】
+L804: 
+L805: September 10, 2021 (Fri)
+L806: 
+L807: TSMC Monthly Sales - August 2021
+L808: 
+L809: 【126†/english/monthly-revenue/2021】
+L810: 
+L811: August 10, 2021 (Tue)
+L812: 
+L813: TSMC Monthly Sales - July 2021
+L814: 【126†/english/monthly-revenue/2021】
+L815: 
+L816: July 15, 2021 (Thu)
+L817: 
+L818: TSMC 2Q21 Results - Earnings Conference and Conference Call
+L819: 
+L820: 【128†/english/quarterly-results/2021/q2】
+L821: 
+L822: July 09, 2021 (Fri)
+L823: 
+L824: TSMC Monthly Sales - June 2021
+L825: 
+L826: 【126†/english/monthly-revenue/2021】
+L827: 
+L828: June 10, 2021 (Thu)
+L829: 
+L830: TSMC Monthly Sales - May 2021
+L831: 
+L832: 【126†/english/monthly-revenue/2021】
+L833: 
+L834: May 10, 2021 (Mon)
+L835: 
+L836: TSMC Monthly Sales - April 2021
+L837: 
+L838: 【126†/english/monthly-revenue/2021】
+L839: 
+L840: April 15, 2021 (Thu)
+L841: TSMC 1Q21 Results - Earnings Conference and Conference Call
+L842: 
+L843: 【129†/english/quarterly-results/2021/q1】
+L844: 
+L845: April 09, 2021 (Fri)
+L846: 
+L847: TSMC Monthly Sales - March 2021
+L848: 
+L849: 【126†/english/monthly-revenue/2021】
+L850: 
+L851: March 10, 2021 (Wed)
+L852: 
+L853: TSMC Monthly Sales -  February 2021
+L854: 
+L855: 【126†/english/monthly-revenue/2021】
+L856: 
+L857: February 09, 2021 (Tue)
+L858: 
+L859: TSMC Monthly Sales - January 2021
+L860: 
+L861: 【126†/english/monthly-revenue/2021】
+L862: 
+L863: January 14, 2021 (Thu)
+L864: 
+L865: TSMC 4Q20 Results - Earnings Conference and Conference Call
+L866: 【130†/english/quarterly-results/2020/q4】
+L867: 
+L868: January 08, 2021 (Fri)
+L869: 
+L870: TSMC Monthly Sales - December 2020
+L871: 
+L872: 【131†/english/monthly-revenue/2020】
+L873: 
+L874: Important: This calendar is subject to change during the year as dates are adjusted.
+L875: 
+L876: December 10, 2020 (Thu)
+L877: 
+L878: TSMC Monthly Sales - November 2020
+L879: 
+L880: 【131†/english/monthly-revenue/2020】
+L881: 
+L882: November 10, 2020 (Tue)
+L883: 
+L884: TSMC Monthly Sales - October 2020
+L885: 
+L886: October 15, 2020 (Thu)
+L887: 
+L888: TSMC 3Q20 Results - Earnings Conference and Conference Call
+L889: 
+L890: October 08, 2020 (Thu)
+L891: TSMC Monthly Sales - September 2020
+L892: 
+L893: September 10, 2020 (Thu)
+L894: 
+L895: TSMC Monthly Sales - August 2020
+L896: 
+L897: August 10, 2020 (Mon)
+L898: 
+L899: TSMC Monthly Sales - July 2020
+L900: 
+L901: July 16, 2020 (Thu)
+L902: 
+L903: TSMC 2Q20 Results - Earnings Conference and Conference Call
+L904: 
+L905: July 10, 2020 (Fri)
+L906: 
+L907: TSMC Monthly Sales - June 2020
+L908: 
+L909: 【131†/english/monthly-revenue/2020】
+L910: 
+L911: June 10, 2020 (Wed)
+L912: 
+L913: TSMC Monthly Sales - May 2020
+L914: 
+L915: 【131†/english/monthly-revenue/2020】
+L916: 
+L917: May 08, 2020 (Fri)
+L918: 
+L919: TSMC Monthly Sales - April 2020
+L920: 
+L921: 【131†/english/monthly-revenue/2020】
+L922: April 16, 2020 (Thu)
+L923: 
+L924: TSMC 1Q20 Results - Earnings Conference and Conference Call
+L925: 
+L926: 【132†/english/quarterly-results/2020/q1】
+L927: 
+L928: April 10, 2020 (Fri)
+L929: 
+L930: TSMC Monthly Sales - March 2020
+L931: 
+L932: 【131†/english/monthly-revenue/2020】
+L933: 
+L934: March 10, 2020 (Tue)
+L935: 
+L936: TSMC Monthly Sales - February 2020
+L937: 
+L938: 【131†/english/monthly-revenue/2020】
+L939: 
+L940: February 10, 2020 (Mon)
+L941: 
+L942: TSMC Monthly Sales - January 2020
+L943: 
+L944: 【131†/english/monthly-revenue/2020】
+L945: 
+L946: January 16, 2020 (Thu)
+L947: 
+L948: TSMC 4Q19 Results - Earnings Conference and Conference Call
+L949: 【133†/english/quarterly-results/2019/q4】
+L950: 
+L951: January 10, 2020 (Fri)
+L952: 
+L953: TSMC Monthly Sales - December 2019
+L954: 
+L955: 【134†/english/monthly-revenue/2019】
+L956: 
+L957: Important: This calendar is subject to change during the year as dates are adjusted.
+L958: 
+L959: December 10, 2019 (Tue)
+L960: 
+L961: TSMC Monthly Sales - November 2019
+L962: 
+L963: 【134†/english/monthly-revenue/2019】
+L964: 
+L965: November 08, 2019 (Fri)
+L966: 
+L967: TSMC Monthly Sales - October 2019
+L968: 
+L969: 【134†/english/monthly-revenue/2019】
+L970: 
+L971: October 17, 2019 (Thu)
+L972: 
+L973: TSMC 3Q19 Results - Earnings Conference and Conference Call
+L974: 【135†/english/quarterly-results/2019/q3】
+L975: 
+L976: October 09, 2019 (Wed)
+L977: 
+L978: TSMC Monthly Sales - September 2019
+L979: 
+L980: 【134†/english/monthly-revenue/2019】
+L981: 
+L982: September 10, 2019 (Tue)
+L983: 
+L984: TSMC Monthly Sales - August 2019
+L985: 
+L986: 【134†/english/monthly-revenue/2019】
+L987: 
+L988: August 12, 2019 (Mon)
+L989: 
+L990: TSMC Monthly Sales - July 2019
+L991: 
+L992: 【134†/english/monthly-revenue/2019】
+L993: 
+L994: July 18, 2019 (Thu)
+L995: 
+L996: 2Q19 Results - Earnings Conference and Conference Call
+L997: 
+L998: 【136†/english/quarterly-results/2019/q2】
+L999: 
+L1000: July 10, 2019 (Wed)
+L1001: 
+L1002: TSMC Monthly Sales - June 2019
+L1003: 【134†/english/monthly-revenue/2019】
+L1004: 
+L1005: June 10, 2019 (Mon)
+L1006: 
+L1007: TSMC Monthly Sales - May 2019
+L1008: 
+L1009: 【134†/english/monthly-revenue/2019】
+L1010: 
+L1011: May 10, 2019 (Fri)
+L1012: 
+L1013: Monthly Sales - April 2019
+L1014: 
+L1015: 【134†/english/monthly-revenue/2019】
+L1016: 
+L1017: April 18, 2019 (Thu)
+L1018: 
+L1019: 1Q19 Results - Earnings Conference and Conference Call
+L1020: 
+L1021: 【137†/english/quarterly-results/2019/q1】
+L1022: 
+L1023: April 10, 2019 (Wed)
+
+Financial Calendar - Taiwan Semiconductor Manufacturing Company Limited (https://investor.tsmc.com/english/financial-calendar)
+citeturn260view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://investor.tsmc.com/english/financial-calendar","lineno":750}); Total lines: 1559
+L465: 【105†/english/monthly-revenue/2025】
+L466: 
+L467: February 10, 2025 (Mon)
+L468: 
+L469: TSMC Monthly Sales - January 2025
+L470: 
+L471: 【105†/english/monthly-revenue/2025】
+L472: 
+L473: January 16, 2025 (Thu)
+L474: 
+L475: TSMC 4Q'24 Results - Earnings Conference and Conference Call
+L476: 
+L477: 【109†/english/quarterly-results/2024/q4】
+L478: 
+L479: January 10, 2025 (Fri)
+L480: 
+L481: TSMC Monthly Sales - December 2024
+L482: 
+L483: 【110†/english/monthly-revenue/2024】
+L484: 
+L485: Important: This calendar is subject to change during the year as dates are adjusted.
+L486: 
+L487: December 10, 2024 (Tue)
+L488: 
+L489: TSMC Monthly Sales - November 2024
+L490: 【110†/english/monthly-revenue/2024】
+L491: 
+L492: November 08, 2024 (Fri)
+L493: 
+L494: TSMC Monthly Sales - October 2024
+L495: 
+L496: 【110†/english/monthly-revenue/2024】
+L497: 
+L498: October 17, 2024 (Thu)
+L499: 
+L500: TSMC 3Q'24 Results - Earnings Conference and Conference Call
+L501: 
+L502: 【111†/english/quarterly-results/2024/q3】
+L503: 
+L504: October 09, 2024 (Wed)
+L505: 
+L506: TSMC Monthly Sales - September 2024
+L507: 
+L508: 【110†/english/monthly-revenue/2024】
+L509: 
+L510: September 10, 2024 (Tue)
+L511: 
+L512: TSMC Monthly Sales - August 2024
+L513: 
+L514: 【110†/english/monthly-revenue/2024】
+L515: 
+L516: August 09, 2024 (Fri)
+L517: 
+L518: TSMC Monthly Sales - July 2024
+L519: 【110†/english/monthly-revenue/2024】
+L520: 
+L521: July 18, 2024 (Thu)
+L522: 
+L523: TSMC 2Q'24 Results - Earnings Conference and Conference Call
+L524: 
+L525: 【112†/english/quarterly-results/2024/q2】
+L526: 
+L527: July 10, 2024 (Wed)
+L528: 
+L529: TSMC Monthly Sales - June 2024
+L530: 
+L531: 【110†/english/monthly-revenue/2024】
+L532: 
+L533: June 07, 2024 (Fri)
+L534: 
+L535: TSMC Monthly Sales - May 2024
+L536: 
+L537: 【110†/english/monthly-revenue/2024】
+L538: 
+L539: May 10, 2024 (Fri)
+L540: 
+L541: TSMC Monthly Sales - April 2024
+L542: 
+L543: 【110†/english/monthly-revenue/2024】
+L544: 
+L545: April 18, 2024 (Thu)
+L546: TSMC 1Q'24 Results - Earnings Conference and Conference Call
+L547: 
+L548: 【113†/english/quarterly-results/2024/q1】
+L549: 
+L550: April 10, 2024 (Wed)
+L551: 
+L552: TSMC Monthly Sales - March 2024
+L553: 
+L554: 【110†/english/monthly-revenue/2024】
+L555: 
+L556: March 08, 2024 (Fri)
+L557: 
+L558: TSMC Monthly Sales - February 2024
+L559: 
+L560: 【110†/english/monthly-revenue/2024】
+L561: 
+L562: February 07, 2024 (Wed)
+L563: 
+L564: TSMC Monthly Sales - January 2024
+L565: 
+L566: 【110†/english/monthly-revenue/2024】
+L567: 
+L568: January 18, 2024 (Thu)
+L569: 
+L570: TSMC 4Q'23 Results - Earnings Conference and Conference Call
+L571: 【114†/english/quarterly-results/2023/q4】
+L572: 
+L573: January 10, 2024 (Wed)
+L574: 
+L575: TSMC Monthly Sales - December 2023
+L576: 
+L577: 【115†/english/monthly-revenue/2023】
+L578: 
+L579: Important: This calendar is subject to change during the year as dates are adjusted.
+L580: 
+L581: December 08, 2023 (Fri)
+L582: 
+L583: TSMC Monthly Sales - November 2023
+L584: 
+L585: 【115†/english/monthly-revenue/2023】
+L586: 
+L587: November 10, 2023 (Fri)
+L588: 
+L589: TSMC Monthly Sales - October 2023
+L590: 
+L591: 【115†/english/monthly-revenue/2023】
+L592: 
+L593: October 19, 2023 (Thu)
+L594: 
+L595: TSMC 3Q'23 Results - Earnings Conference and Conference Call
+L596: 【116†/english/quarterly-results/2023/q3】
+L597: 
+L598: October 06, 2023 (Fri)
+L599: 
+L600: TSMC Monthly Sales - September 2023
+L601: 
+L602: 【115†/english/monthly-revenue/2023】
+L603: 
+L604: September 08, 2023 (Fri)
+L605: 
+L606: TSMC Monthly Sales - August 2023
+L607: 
+L608: 【115†/english/monthly-revenue/2023】
+L609: 
+L610: August 10, 2023 (Thu)
+L611: 
+L612: TSMC Monthly Sales - July 2023
+L613: 
+L614: 【115†/english/monthly-revenue/2023】
+L615: 
+L616: July 20, 2023 (Thu)
+L617: 
+L618: TSMC 2Q'23 Results - Earnings Conference and Conference Call
+L619: 
+L620: 【117†/english/quarterly-results/2023/q2】
+L621: 
+L622: July 10, 2023 (Mon)
+L623: 
+L624: TSMC Monthly Sales - June 2023
+L625: 【115†/english/monthly-revenue/2023】
+L626: 
+L627: June 09, 2023 (Fri)
+L628: 
+L629: TSMC Monthly Sales - May 2023
+L630: 
+L631: 【115†/english/monthly-revenue/2023】
+L632: 
+L633: June 06, 2023 (Tue)
+L634: 
+L635: 2023 General Shareholders' Meeting
+L636: 
+L637: 【118†https://investor.tsmc.com/english/shareholders-meeting/2023】
+L638: 
+L639: May 10, 2023 (Wed)
+L640: 
+L641: TSMC Monthly Sales - April 2023
+L642: 
+L643: 【115†/english/monthly-revenue/2023】
+L644: 
+L645: May 10, 2023 (Wed)
+L646: 
+L647: TSMC Monthly Sales - April 2023
+L648: 
+L649: 【115†/english/monthly-revenue/2023】
+L650: 
+L651: April 20, 2023 (Thu)
+L652: TSMC 1Q'23 Results - Earnings Conference and Conference Call
+L653: 
+L654: 【119†/english/quarterly-results/2023/q1】
+L655: 
+L656: April 10, 2023 (Mon)
+L657: 
+L658: TSMC Monthly Sales - March 2023
+L659: 
+L660: 【115†/english/monthly-revenue/2023】
+L661: 
+L662: March 10, 2023 (Fri)
+L663: 
+L664: TSMC Monthly Sales - February 2023
+L665: 
+L666: 【115†/english/monthly-revenue/2023】
+L667: 
+L668: February 10, 2023 (Fri)
+L669: 
+L670: TSMC Monthly Sales - January 2023
+L671: 
+L672: 【115†/english/monthly-revenue/2023】
+L673: 
+L674: January 12, 2023 (Thu)
+L675: 
+L676: TSMC 4Q22 Results - Earnings Conference and Conference Call
+L677: 【120†/english/quarterly-results/2022/q4】
+L678: 
+L679: January 10, 2023 (Tue)
+L680: 
+L681: TSMC Monthly Sales - December 2022
+L682: 
+L683: 【121†/english/monthly-revenue/2022】
+L684: 
+L685: Important: This calendar is subject to change during the year as dates are adjusted.
+L686: 
+L687: December 09, 2022 (Fri)
+L688: 
+L689: TSMC Monthly Sales - November 2022
+L690: 
+L691: 【121†/english/monthly-revenue/2022】
+L692: 
+L693: November 10, 2022 (Thu)
+L694: 
+L695: TSMC Monthly Sales - October 2022
+L696: 
+L697: 【121†/english/monthly-revenue/2022】
+L698: 
+L699: October 13, 2022 (Thu)
+L700: 
+L701: TSMC 3Q22 Results - Earnings Conference and Conference Call
+L702: 【122†/english/quarterly-results/2022/q3】
+L703: 
+L704: October 07, 2022 (Fri)
+L705: 
+L706: TSMC Monthly Sales - September 2022
+L707: 
+L708: 【121†/english/monthly-revenue/2022】
+L709: 
+L710: September 08, 2022 (Thu)
+L711: 
+L712: TSMC Monthly Sales - August 2022
+L713: 
+L714: 【121†/english/monthly-revenue/2022】
+L715: 
+L716: August 10, 2022 (Wed)
+L717: 
+L718: TSMC Monthly Sales - July 2022
+L719: 
+L720: 【121†/english/monthly-revenue/2022】
+L721: 
+L722: July 14, 2022 (Thu)
+L723: 
+L724: TSMC 2Q22 Results - Earnings Conference and Conference Call
+L725: 
+L726: 【123†/english/quarterly-results/2022/q2】
+L727: 
+L728: July 08, 2022 (Fri)
+L729: 
+L730: TSMC Monthly Sales - June 2022
+L731: 【121†/english/monthly-revenue/2022】
+L732: 
+L733: June 10, 2022 (Fri)
+L734: 
+L735: TSMC Monthly Sales - May 2022
+L736: 
+L737: 【121†/english/monthly-revenue/2022】
+L738: 
+L739: May 10, 2022 (Tue)
+L740: 
+L741: TSMC Monthly Sales - April 2022
+L742: 
+L743: 【121†/english/monthly-revenue/2022】
+L744: 
+L745: April 14, 2022 (Thu)
+L746: 
+L747: TSMC 1Q22 Results - Earnings Conference and Conference Call
+L748: 
+L749: 【124†/english/quarterly-results/2022/q1】
+L750: 
+L751: April 08, 2022 (Fri)
+L752: 
+L753: TSMC Monthly Sales - March 2022
+L754: 
+L755: 【121†/english/monthly-revenue/2022】
+L756: 
+L757: March 10, 2022 (Thu)
+L758: 
+L759: TSMC Monthly Sales - February 2022
+L760: 【121†/english/monthly-revenue/2022】
+L761: 
+L762: February 10, 2022 (Thu)
+L763: 
+L764: TSMC Monthly Sales - January 2022
+L765: 
+L766: 【121†/english/monthly-revenue/2022】
+L767: 
+L768: January 13, 2022 (Thu)
+L769: 
+L770: TSMC 4Q21 Results - Earnings Conference and Conference Call
+L771: 
+L772: 【125†/english/quarterly-results/2021/q4】
+L773: 
+L774: January 10, 2022 (Mon)
+L775: 
+L776: TSMC Monthly Sales - December 2021
+L777: 
+L778: 【126†/english/monthly-revenue/2021】
+L779: 
+L780: Important: This calendar is subject to change during the year as dates are adjusted.
+L781: 
+L782: December 10, 2021 (Fri)
+L783: 
+L784: TSMC Monthly Sales - November 2021
+L785: 【126†/english/monthly-revenue/2021】
+L786: 
+L787: November 10, 2021 (Wed)
+L788: 
+L789: TSMC Monthly Sales - October 2021
+L790: 
+L791: 【126†/english/monthly-revenue/2021】
+L792: 
+L793: October 14, 2021 (Thu)
+L794: 
+L795: TSMC 3Q21 Results - Earnings Conference and Conference Call
+L796: 
+L797: 【127†/english/quarterly-results/2021/q3】
+L798: 
+L799: October 08, 2021 (Fri)
+L800: 
+L801: TSMC Monthly Sales - September 2021
+L802: 
+L803: 【126†/english/monthly-revenue/2021】
+L804: 
+L805: September 10, 2021 (Fri)
+L806: 
+L807: TSMC Monthly Sales - August 2021
+L808: 
+L809: 【126†/english/monthly-revenue/2021】
+L810: 
+L811: August 10, 2021 (Tue)
+L812: 
+L813: TSMC Monthly Sales - July 2021
+L814: 【126†/english/monthly-revenue/2021】
+L815: 
+L816: July 15, 2021 (Thu)
+L817: 
+L818: TSMC 2Q21 Results - Earnings Conference and Conference Call
+L819: 
+L820: 【128†/english/quarterly-results/2021/q2】
+L821: 
+L822: July 09, 2021 (Fri)
+L823: 
+L824: TSMC Monthly Sales - June 2021
+L825: 
+L826: 【126†/english/monthly-revenue/2021】
+L827: 
+L828: June 10, 2021 (Thu)
+L829: 
+L830: TSMC Monthly Sales - May 2021
+L831: 
+L832: 【126†/english/monthly-revenue/2021】
+L833: 
+L834: May 10, 2021 (Mon)
+L835: 
+L836: TSMC Monthly Sales - April 2021
+L837: 
+L838: 【126†/english/monthly-revenue/2021】
+L839: 
+L840: April 15, 2021 (Thu)
+L841: TSMC 1Q21 Results - Earnings Conference and Conference Call
+L842: 
+L843: 【129†/english/quarterly-results/2021/q1】
+L844: 
+L845: April 09, 2021 (Fri)
+L846: 
+L847: TSMC Monthly Sales - March 2021
+L848: 
+L849: 【126†/english/monthly-revenue/2021】
+L850: 
+L851: March 10, 2021 (Wed)
+L852: 
+L853: TSMC Monthly Sales -  February 2021
+L854: 
+L855: 【126†/english/monthly-revenue/2021】
+L856: 
+L857: February 09, 2021 (Tue)
+L858: 
+L859: TSMC Monthly Sales - January 2021
+L860: 
+L861: 【126†/english/monthly-revenue/2021】
+L862: 
+L863: January 14, 2021 (Thu)
+L864: 
+L865: TSMC 4Q20 Results - Earnings Conference and Conference Call
+L866: 【130†/english/quarterly-results/2020/q4】
+L867: 
+L868: January 08, 2021 (Fri)
+L869: 
+L870: TSMC Monthly Sales - December 2020
+L871: 
+L872: 【131†/english/monthly-revenue/2020】
+L873: 
+L874: Important: This calendar is subject to change during the year as dates are adjusted.
+L875: 
+L876: December 10, 2020 (Thu)
+L877: 
+L878: TSMC Monthly Sales - November 2020
+L879: 
+L880: 【131†/english/monthly-revenue/2020】
+L881: 
+L882: November 10, 2020 (Tue)
+L883: 
+L884: TSMC Monthly Sales - October 2020
+L885: 
+L886: October 15, 2020 (Thu)
+L887: 
+L888: TSMC 3Q20 Results - Earnings Conference and Conference Call
+L889: 
+L890: October 08, 2020 (Thu)
+L891: TSMC Monthly Sales - September 2020
+L892: 
+L893: September 10, 2020 (Thu)
+L894: 
+L895: TSMC Monthly Sales - August 2020
+L896: 
+L897: August 10, 2020 (Mon)
+L898: 
+L899: TSMC Monthly Sales - July 2020
+L900: 
+L901: July 16, 2020 (Thu)
+L902: 
+L903: TSMC 2Q20 Results - Earnings Conference and Conference Call
+L904: 
+L905: July 10, 2020 (Fri)
+L906: 
+L907: TSMC Monthly Sales - June 2020
+L908: 
+L909: 【131†/english/monthly-revenue/2020】
+L910: 
+L911: June 10, 2020 (Wed)
+L912: 
+L913: TSMC Monthly Sales - May 2020
+L914: 
+L915: 【131†/english/monthly-revenue/2020】
+L916: 
+L917: May 08, 2020 (Fri)
+L918: 
+L919: TSMC Monthly Sales - April 2020
+L920: 
+L921: 【131†/english/monthly-revenue/2020】
+L922: April 16, 2020 (Thu)
+L923: 
+L924: TSMC 1Q20 Results - Earnings Conference and Conference Call
+L925: 
+L926: 【132†/english/quarterly-results/2020/q1】
+L927: 
+L928: April 10, 2020 (Fri)
+L929: 
+L930: TSMC Monthly Sales - March 2020
+L931: 
+L932: 【131†/english/monthly-revenue/2020】
+L933: 
+L934: March 10, 2020 (Tue)
+L935: 
+L936: TSMC Monthly Sales - February 2020
+L937: 
+L938: 【131†/english/monthly-revenue/2020】
+L939: 
+L940: February 10, 2020 (Mon)
+L941: 
+L942: TSMC Monthly Sales - January 2020
+L943: 
+L944: 【131†/english/monthly-revenue/2020】
+L945: 
+L946: January 16, 2020 (Thu)
+L947: 
+L948: TSMC 4Q19 Results - Earnings Conference and Conference Call
+L949: 【133†/english/quarterly-results/2019/q4】
+L950: 
+L951: January 10, 2020 (Fri)
+L952: 
+L953: TSMC Monthly Sales - December 2019
+L954: 
+L955: 【134†/english/monthly-revenue/2019】
+L956: 
+L957: Important: This calendar is subject to change during the year as dates are adjusted.
+L958: 
+L959: December 10, 2019 (Tue)
+L960: 
+L961: TSMC Monthly Sales - November 2019
+L962: 
+L963: 【134†/english/monthly-revenue/2019】
+L964: 
+L965: November 08, 2019 (Fri)
+L966: 
+L967: TSMC Monthly Sales - October 2019
+L968: 
+L969: 【134†/english/monthly-revenue/2019】
+L970: 
+L971: October 17, 2019 (Thu)
+L972: 
+L973: TSMC 3Q19 Results - Earnings Conference and Conference Call
+L974: 【135†/english/quarterly-results/2019/q3】
+L975: 
+L976: October 09, 2019 (Wed)
+L977: 
+L978: TSMC Monthly Sales - September 2019
+L979: 
+L980: 【134†/english/monthly-revenue/2019】
+L981: 
+L982: September 10, 2019 (Tue)
+L983: 
+L984: TSMC Monthly Sales - August 2019
+L985: 
+L986: 【134†/english/monthly-revenue/2019】
+L987: 
+L988: August 12, 2019 (Mon)
+L989: 
+L990: TSMC Monthly Sales - July 2019
+L991: 
+L992: 【134†/english/monthly-revenue/2019】
+L993: 
+L994: July 18, 2019 (Thu)
+L995: 
+L996: 2Q19 Results - Earnings Conference and Conference Call
+L997: 
+L998: 【136†/english/quarterly-results/2019/q2】
+L999: 
+L1000: July 10, 2019 (Wed)
+L1001: 
+L1002: TSMC Monthly Sales - June 2019
+L1003: 【134†/english/monthly-revenue/2019】
+L1004: 
+L1005: June 10, 2019 (Mon)
+L1006: 
+L1007: TSMC Monthly Sales - May 2019
+L1008: 
+L1009: 【134†/english/monthly-revenue/2019】
+L1010: 
+L1011: May 10, 2019 (Fri)
+L1012: 
+L1013: Monthly Sales - April 2019
+L1014: 
+L1015: 【134†/english/monthly-revenue/2019】
+L1016: 
+L1017: April 18, 2019 (Thu)
+L1018: 
+L1019: 1Q19 Results - Earnings Conference and Conference Call
+L1020: 
+L1021: 【137†/english/quarterly-results/2019/q1】
+L1022: 
+L1023: April 10, 2019 (Wed)
+L1024: 
+L1025: Monthly Sales - March 2019
+L1026: 
+L1027: 【134†/english/monthly-revenue/2019】
+L1028: 
+L1029: March 08, 2019 (Fri)
+L1030: 
+L1031: Monthly Sales - February 2019
+L1032: 
+L1033: 【134†/english/monthly-revenue/2019】
+L1034: February 15, 2019 (Fri)
+L1035: 
+L1036: Monthly Sales - January 2019
+L1037: 
+L1038: 【134†/english/monthly-revenue/2019】
+L1039: 
+L1040: January 17, 2019 (Thu)
+L1041: 
+L1042: 4Q18 Results - Earnings Conference and Conference Call
+L1043: 
+L1044: 【138†/english/quarterly-results/2018/q4】
+L1045: 
+L1046: January 10, 2019 (Thu)
+L1047: 
+L1048: Monthly Sales - Decebmer 2018
+L1049: 
+L1050: 【139†/english/monthly-revenue/2018】
+L1051: 
+L1052: Important: This calendar is subject to change during the year as dates are adjusted.
+L1053: 
+L1054: December 10, 2018 (Mon)
+L1055: 
+L1056: Monthly Sales - November 2018
+L1057: 
+L1058: 【139†/english/monthly-revenue/2018】
+L1059: 
+L1060: November 09, 2018 (Fri)
+L1061: Monthly Sales - October 2018
+L1062: 
+L1063: 【139†/english/monthly-revenue/2018】
+L1064: 
+L1065: October 18, 2018 (Thu)
+L1066: 
+L1067: 3Q18 Results - Earnings Conference and Conference Call
+L1068: 
+L1069: 【140†/english/quarterly-results/2018/q3】
+L1070: 
+L1071: October 09, 2018 (Tue)
+L1072: 
+L1073: Monthly Sales - September 2018
+L1074: 
+L1075: 【139†/english/monthly-revenue/2018】
+L1076: 
+L1077: September 10, 2018 (Mon)
+L1078: 
+L1079: Monthly Sales - August 2018
+L1080: 
+L1081: 【139†/english/monthly-revenue/2018】
+L1082: 
+L1083: August 10, 2018 (Fri)
+L1084: 
+L1085: Monthly Sales - July 2018
+L1086: 
+L1087: 【139†/english/monthly-revenue/2018】
+L1088: 
+L1089: July 19, 2018 (Thu)
+L1090: 2Q18 Results - Earnings Conference and Conference Call
+L1091: 
+L1092: 【141†/english/quarterly-results/2018/q2】
+L1093: 
+L1094: July 10, 2018 (Tue)
+L1095: 
+L1096: Monthly Sales - June 2018
+L1097: 
+L1098: 【139†/english/monthly-revenue/2018】
+L1099: 
+L1100: June 08, 2018 (Fri)
+L1101: 
+L1102: Monthly Sales - May 2018
+L1103: 
+L1104: 【139†/english/monthly-revenue/2018】
+L1105: 
+L1106: May 10, 2018 (Thu)
+L1107: 
+L1108: Monthly Sales - April 2018
+L1109: 
+L1110: 【139†/english/monthly-revenue/2018】
+L1111: 
+L1112: April 19, 2018 (Thu)
+L1113: 
+L1114: 1Q18 Results - Earnings Conference and Conference Call
+L1115: 
+L1116: 【142†/english/quarterly-results/2018/q1】
+L1117: 
+L1118: April 10, 2018 (Tue)
+L1119: Monthly Sales - March 2018
+L1120: 
+L1121: 【139†/english/monthly-revenue/2018】
+L1122: 
+L1123: March 09, 2018 (Fri)
+L1124: 
+L1125: Monthly Sales - February 2018
+L1126: 
+L1127: 【139†/english/monthly-revenue/2018】
+L1128: 
+L1129: February 09, 2018 (Fri)
+L1130: 
+L1131: Monthly Sales - January 2018
+L1132: 
+L1133: 【139†/english/monthly-revenue/2018】
+L1134: 
+L1135: January 18, 2018 (Thu)
+L1136: 
+L1137: 4Q17 Results - Earnings Conference and Conference Call
+L1138: 
+L1139: 【143†/english/quarterly-results/2017/q4】
+L1140: 
+L1141: January 10, 2018 (Wed)
+L1142: 
+L1143: Monthly Sales - December 2017
+L1144: 
+L1145: 【144†/english/monthly-revenue/2017】
+L1146: Important: This calendar is subject to change during the year as dates are adjusted.
+L1147: 
+L1148: December 08, 2017 (Fri)
+L1149: 
+L1150: Monthly Sales - November 2017
+L1151: 
+L1152: 【144†/english/monthly-revenue/2017】
+L1153: 
+L1154: November 10, 2017 (Fri)
+L1155: 
+L1156: Monthly Sales - October 2017
+L1157: 
+L1158: 【144†/english/monthly-revenue/2017】
+L1159: 
+L1160: October 19, 2017 (Thu)
+L1161: 
+L1162: 3Q17 Results - Earnings Conference and Conference Call
+L1163: 
+L1164: 【145†/english/quarterly-results/2017/q3】
+L1165: 
+L1166: October 06, 2017 (Fri)
+L1167: 
+L1168: Monthly Sales - September 2017
+L1169: 
+L1170: 【144†/english/monthly-revenue/2017】
+L1171: 
+L1172: September 08, 2017 (Fri)
+L1173: Monthly Sales - August 2017
+L1174: 
+L1175: 【144†/english/monthly-revenue/2017】
+L1176: 
+L1177: August 10, 2017 (Thu)
+L1178: 
+L1179: Monthly Sales - July 2017
+L1180: 
+L1181: 【144†/english/monthly-revenue/2017】
+L1182: 
+L1183: July 13, 2017 (Thu)
+L1184: 
+L1185: 2Q17 Results - Earnings Conference and Conference Call
+L1186: 
+L1187: 【146†/english/quarterly-results/2017/q2】
+L1188: 
+L1189: July 10, 2017 (Mon)
+L1190: 
+L1191: Monthly Sales - June 2017
+L1192: 
+L1193: 【144†/english/monthly-revenue/2017】
+L1194: 
+L1195: June 09, 2017 (Fri)
+L1196: 
+L1197: Monthly Sales - May 2017
+L1198: 
+L1199: 【144†/english/monthly-revenue/2017】
+L1200: 
+L1201: June 08, 2017 (Thu)
+L1202: 
+L1203: Annual General Shareholders' Meeting
+L1204: 【147†/english/shareholders-meeting/2017】
+L1205: 
+L1206: May 10, 2017 (Wed)
+L1207: 
+L1208: Monthly Sales - April 2017
+L1209: 
+L1210: 【144†/english/monthly-revenue/2017】
+L1211: 
+L1212: April 13, 2017 (Thu)
+L1213: 
+L1214: 1Q17 Results - Earnings Conference and Conference Call
+L1215: 
+L1216: 【148†/english/quarterly-results/2017/q1】
+L1217: 
+L1218: April 10, 2017 (Mon)
+L1219: 
+L1220: Monthly Sales - March 2017
+L1221: 
+L1222: 【144†/english/monthly-revenue/2017】
+L1223: 
+L1224: March 10, 2017 (Fri)
+L1225: 
+L1226: Monthly Sales - February 2017
+L1227: 
+L1228: 【144†/english/monthly-revenue/2017】
+L1229: 
+L1230: February 10, 2017 (Fri)
+L1231: 
+L1232: Monthly Sales - January 2017
+L1233: 【149†/english/monthly-revenue/2016】
+L1234: 
+L1235: January 12, 2017 (Thu)
+L1236: 
+L1237: 4Q16 Results - Earnings Conference and Conference Call
+L1238: 
+L1239: 【150†/english/quarterly-results/2016/q4】
+L1240: 
+L1241: January 10, 2017 (Tue)
+L1242: 
+L1243: Monthly Sales - December 2016
+L1244: 
+L1245: 【149†/english/monthly-revenue/2016】
+L1246: 
+L1247: Important: This calendar is subject to change during the year as dates are adjusted.
+L1248: 
+L1249: December 09, 2016 (Fri)
+L1250: 
+L1251: Monthly Sales - November 2016
+L1252: 
+L1253: 【149†/english/monthly-revenue/2016】
+L1254: 
+L1255: November 10, 2016 (Thu)
+L1256: 
+L1257: Monthly Sales - October 2016
+L1258: 【149†/english/monthly-revenue/2016】
+L1259: 
+L1260: October 13, 2016 (Thu)
+L1261: 
+L1262: 3Q16 Results - Earnings Conference and Conference Call
+L1263: 
+L1264: 【151†/english/quarterly-results/2016/q3】
+L1265: 
+L1266: October 07, 2016 (Fri)
+L1267: 
+L1268: Monthly Sales - September 2016
+L1269: 
+L1270: 【149†/english/monthly-revenue/2016】
+L1271: 
+L1272: September 09, 2016 (Fri)
+L1273: 
+L1274: Monthly Sales - August 2016
+L1275: 
+L1276: 【149†/english/monthly-revenue/2016】
+L1277: 
+L1278: August 10, 2016 (Wed)
+L1279: 
+L1280: Monthly Sales - July 2016
+L1281: 
+L1282: 【149†/english/monthly-revenue/2016】
+L1283: 
+L1284: July 14, 2016 (Thu)
+L1285: 
+L1286: 2Q16 Results - Earnings Conference and Conference Call
+
+Financial Calendar - Taiwan Semiconductor Manufacturing Company Limited (https://investor.tsmc.com/english/financial-calendar)
+citeturn261view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://investor.tsmc.com/english/financial-calendar","lineno":1050}); Total lines: 1559
+L760: 【121†/english/monthly-revenue/2022】
+L761: 
+L762: February 10, 2022 (Thu)
+L763: 
+L764: TSMC Monthly Sales - January 2022
+L765: 
+L766: 【121†/english/monthly-revenue/2022】
+L767: 
+L768: January 13, 2022 (Thu)
+L769: 
+L770: TSMC 4Q21 Results - Earnings Conference and Conference Call
+L771: 
+L772: 【125†/english/quarterly-results/2021/q4】
+L773: 
+L774: January 10, 2022 (Mon)
+L775: 
+L785: 【126†/english/monthly-revenue/2021】
+L786: 
+L787: November 10, 2021 (Wed)
+L788: 
+L789: TSMC Monthly Sales - October 2021
+L790: 
+L791: 【126†/english/monthly-revenue/2021】
+L792: 
+L793: October 14, 2021 (Thu)
+L794: 
+L795: TSMC 3Q21 Results - Earnings Conference and Conference Call
+L796: 
+L797: 【127†/english/quarterly-results/2021/q3】
+L798: 
+L799: October 08, 2021 (Fri)
+L800: 
+L801: TSMC Monthly Sales - September 2021
+L802: 
+L803: 【126†/english/monthly-revenue/2021】
+L804: 
+L805: September 10, 2021 (Fri)
+L806: 
+L807: TSMC Monthly Sales - August 2021
+L808: 
+L809: 【126†/english/monthly-revenue/2021】
+L810: 
+L811: August 10, 2021 (Tue)
+L812: 
+L813: TSMC Monthly Sales - July 2021
+L814: 【126†/english/monthly-revenue/2021】
+L815: 
+L816: July 15, 2021 (Thu)
+L817: 
+L818: TSMC 2Q21 Results - Earnings Conference and Conference Call
+L819: 
+L820: 【128†/english/quarterly-results/2021/q2】
+L821: 
+L822: July 09, 2021 (Fri)
+L823: 
+L824: TSMC Monthly Sales - June 2021
+L825: 
+L826: 【126†/english/monthly-revenue/2021】
+L827: 
+L828: June 10, 2021 (Thu)
+L829: 
+L830: TSMC Monthly Sales - May 2021
+L831: 
+L832: 【126†/english/monthly-revenue/2021】
+L833: 
+L834: May 10, 2021 (Mon)
+L835: 
+L836: TSMC Monthly Sales - April 2021
+L837: 
+L838: 【126†/english/monthly-revenue/2021】
+L839: 
+L840: April 15, 2021 (Thu)
+L841: TSMC 1Q21 Results - Earnings Conference and Conference Call
+L842: 
+L843: 【129†/english/quarterly-results/2021/q1】
+L844: 
+L845: April 09, 2021 (Fri)
+L846: 
+L847: TSMC Monthly Sales - March 2021
+L848: 
+L849: 【126†/english/monthly-revenue/2021】
+L850: 
+L851: March 10, 2021 (Wed)
+L852: 
+L853: TSMC Monthly Sales -  February 2021
+L854: 
+L855: 【126†/english/monthly-revenue/2021】
+L856: 
+L857: February 09, 2021 (Tue)
+L858: 
+L859: TSMC Monthly Sales - January 2021
+L860: 
+L861: 【126†/english/monthly-revenue/2021】
+L862: 
+L863: January 14, 2021 (Thu)
+L864: 
+L865: TSMC 4Q20 Results - Earnings Conference and Conference Call
+L866: 【130†/english/quarterly-results/2020/q4】
+L867: 
+L868: January 08, 2021 (Fri)
+L869: 
+L870: TSMC Monthly Sales - December 2020
+L871: 
+L872: 【131†/english/monthly-revenue/2020】
+L873: 
+L874: Important: This calendar is subject to change during the year as dates are adjusted.
+L875: 
+L876: December 10, 2020 (Thu)
+L877: 
+L878: TSMC Monthly Sales - November 2020
+L879: 
+L880: 【131†/english/monthly-revenue/2020】
+L881: 
+L882: November 10, 2020 (Tue)
+L883: 
+L884: TSMC Monthly Sales - October 2020
+L885: 
+L886: October 15, 2020 (Thu)
+L887: 
+L888: TSMC 3Q20 Results - Earnings Conference and Conference Call
+L889: 
+L890: October 08, 2020 (Thu)
+L891: TSMC Monthly Sales - September 2020
+L892: 
+L893: September 10, 2020 (Thu)
+L894: 
+L895: TSMC Monthly Sales - August 2020
+L896: 
+L897: August 10, 2020 (Mon)
+L898: 
+L899: TSMC Monthly Sales - July 2020
+L900: 
+L901: July 16, 2020 (Thu)
+L902: 
+L903: TSMC 2Q20 Results - Earnings Conference and Conference Call
+L904: 
+L905: July 10, 2020 (Fri)
+L906: 
+L907: TSMC Monthly Sales - June 2020
+L908: 
+L909: 【131†/english/monthly-revenue/2020】
+L910: 
+L911: June 10, 2020 (Wed)
+L912: 
+L913: TSMC Monthly Sales - May 2020
+L914: 
+L915: 【131†/english/monthly-revenue/2020】
+L916: 
+L917: May 08, 2020 (Fri)
+L918: 
+L919: TSMC Monthly Sales - April 2020
+L920: 
+L921: 【131†/english/monthly-revenue/2020】
+L922: April 16, 2020 (Thu)
+L923: 
+L924: TSMC 1Q20 Results - Earnings Conference and Conference Call
+L925: 
+L926: 【132†/english/quarterly-results/2020/q1】
+L927: 
+L928: April 10, 2020 (Fri)
+L929: 
+L930: TSMC Monthly Sales - March 2020
+L931: 
+L932: 【131†/english/monthly-revenue/2020】
+L933: 
+L934: March 10, 2020 (Tue)
+L935: 
+L936: TSMC Monthly Sales - February 2020
+L937: 
+L938: 【131†/english/monthly-revenue/2020】
+L939: 
+L940: February 10, 2020 (Mon)
+L941: 
+L942: TSMC Monthly Sales - January 2020
+L943: 
+L944: 【131†/english/monthly-revenue/2020】
+L945: 
+L946: January 16, 2020 (Thu)
+L947: 
+L948: TSMC 4Q19 Results - Earnings Conference and Conference Call
+L949: 【133†/english/quarterly-results/2019/q4】
+L950: 
+L951: January 10, 2020 (Fri)
+L952: 
+L953: TSMC Monthly Sales - December 2019
+L954: 
+L955: 【134†/english/monthly-revenue/2019】
+L956: 
+L957: Important: This calendar is subject to change during the year as dates are adjusted.
+L958: 
+L959: December 10, 2019 (Tue)
+L960: 
+L961: TSMC Monthly Sales - November 2019
+L962: 
+L963: 【134†/english/monthly-revenue/2019】
+L964: 
+L965: November 08, 2019 (Fri)
+L966: 
+L967: TSMC Monthly Sales - October 2019
+L968: 
+L969: 【134†/english/monthly-revenue/2019】
+L970: 
+L971: October 17, 2019 (Thu)
+L972: 
+L973: TSMC 3Q19 Results - Earnings Conference and Conference Call
+L974: 【135†/english/quarterly-results/2019/q3】
+L975: 
+L976: October 09, 2019 (Wed)
+L977: 
+L978: TSMC Monthly Sales - September 2019
+L979: 
+L980: 【134†/english/monthly-revenue/2019】
+L981: 
+L982: September 10, 2019 (Tue)
+L983: 
+L984: TSMC Monthly Sales - August 2019
+L985: 
+L986: 【134†/english/monthly-revenue/2019】
+L987: 
+L988: August 12, 2019 (Mon)
+L989: 
+L990: TSMC Monthly Sales - July 2019
+L991: 
+L992: 【134†/english/monthly-revenue/2019】
+L993: 
+L994: July 18, 2019 (Thu)
+L995: 
+L996: 2Q19 Results - Earnings Conference and Conference Call
+L997: 
+L998: 【136†/english/quarterly-results/2019/q2】
+L999: 
+L1000: July 10, 2019 (Wed)
+L1001: 
+L1002: TSMC Monthly Sales - June 2019
+L1003: 【134†/english/monthly-revenue/2019】
+L1004: 
+L1005: June 10, 2019 (Mon)
+L1006: 
+L1007: TSMC Monthly Sales - May 2019
+L1008: 
+L1009: 【134†/english/monthly-revenue/2019】
+L1010: 
+L1011: May 10, 2019 (Fri)
+L1012: 
+L1013: Monthly Sales - April 2019
+L1014: 
+L1015: 【134†/english/monthly-revenue/2019】
+L1016: 
+L1017: April 18, 2019 (Thu)
+L1018: 
+L1019: 1Q19 Results - Earnings Conference and Conference Call
+L1020: 
+L1021: 【137†/english/quarterly-results/2019/q1】
+L1022: 
+L1023: April 10, 2019 (Wed)
+L1024: 
+L1025: Monthly Sales - March 2019
+L1026: 
+L1027: 【134†/english/monthly-revenue/2019】
+L1028: 
+L1029: March 08, 2019 (Fri)
+L1030: 
+L1031: Monthly Sales - February 2019
+L1032: 
+L1033: 【134†/english/monthly-revenue/2019】
+L1034: February 15, 2019 (Fri)
+L1035: 
+L1036: Monthly Sales - January 2019
+L1037: 
+L1038: 【134†/english/monthly-revenue/2019】
+L1039: 
+L1040: January 17, 2019 (Thu)
+L1041: 
+L1042: 4Q18 Results - Earnings Conference and Conference Call
+L1043: 
+L1044: 【138†/english/quarterly-results/2018/q4】
+L1045: 
+L1046: January 10, 2019 (Thu)
+L1047: 
+L1048: Monthly Sales - Decebmer 2018
+L1049: 
+L1050: 【139†/english/monthly-revenue/2018】
+L1051: 
+L1052: Important: This calendar is subject to change during the year as dates are adjusted.
+L1053: 
+L1054: December 10, 2018 (Mon)
+L1055: 
+L1056: Monthly Sales - November 2018
+L1057: 
+L1058: 【139†/english/monthly-revenue/2018】
+L1059: 
+L1060: November 09, 2018 (Fri)
+L1061: Monthly Sales - October 2018
+L1062: 
+L1063: 【139†/english/monthly-revenue/2018】
+L1064: 
+L1065: October 18, 2018 (Thu)
+L1066: 
+L1067: 3Q18 Results - Earnings Conference and Conference Call
+L1068: 
+L1069: 【140†/english/quarterly-results/2018/q3】
+L1070: 
+L1071: October 09, 2018 (Tue)
+L1072: 
+L1073: Monthly Sales - September 2018
+L1074: 
+L1075: 【139†/english/monthly-revenue/2018】
+L1076: 
+L1077: September 10, 2018 (Mon)
+L1078: 
+L1079: Monthly Sales - August 2018
+L1080: 
+L1081: 【139†/english/monthly-revenue/2018】
+L1082: 
+L1083: August 10, 2018 (Fri)
+L1084: 
+L1085: Monthly Sales - July 2018
+L1086: 
+L1087: 【139†/english/monthly-revenue/2018】
+L1088: 
+L1089: July 19, 2018 (Thu)
+L1090: 2Q18 Results - Earnings Conference and Conference Call
+L1091: 
+L1092: 【141†/english/quarterly-results/2018/q2】
+L1093: 
+L1094: July 10, 2018 (Tue)
+L1095: 
+L1096: Monthly Sales - June 2018
+L1097: 
+L1098: 【139†/english/monthly-revenue/2018】
+L1099: 
+L1100: June 08, 2018 (Fri)
+L1101: 
+L1102: Monthly Sales - May 2018
+L1103: 
+L1104: 【139†/english/monthly-revenue/2018】
+L1105: 
+L1106: May 10, 2018 (Thu)
+L1107: 
+L1108: Monthly Sales - April 2018
+L1109: 
+L1110: 【139†/english/monthly-revenue/2018】
+L1111: 
+L1112: April 19, 2018 (Thu)
+L1113: 
+L1114: 1Q18 Results - Earnings Conference and Conference Call
+L1115: 
+L1116: 【142†/english/quarterly-results/2018/q1】
+L1117: 
+L1118: April 10, 2018 (Tue)
+L1119: Monthly Sales - March 2018
+L1120: 
+L1121: 【139†/english/monthly-revenue/2018】
+L1122: 
+L1123: March 09, 2018 (Fri)
+L1124: 
+L1125: Monthly Sales - February 2018
+L1126: 
+L1127: 【139†/english/monthly-revenue/2018】
+L1128: 
+L1129: February 09, 2018 (Fri)
+L1130: 
+L1131: Monthly Sales - January 2018
+L1132: 
+L1133: 【139†/english/monthly-revenue/2018】
+L1134: 
+L1135: January 18, 2018 (Thu)
+L1136: 
+L1137: 4Q17 Results - Earnings Conference and Conference Call
+L1138: 
+L1139: 【143†/english/quarterly-results/2017/q4】
+L1140: 
+L1141: January 10, 2018 (Wed)
+L1142: 
+L1143: Monthly Sales - December 2017
+L1144: 
+L1145: 【144†/english/monthly-revenue/2017】
+L1146: Important: This calendar is subject to change during the year as dates are adjusted.
+L1147: 
+L1148: December 08, 2017 (Fri)
+L1149: 
+L1150: Monthly Sales - November 2017
+L1151: 
+L1152: 【144†/english/monthly-revenue/2017】
+L1153: 
+L1154: November 10, 2017 (Fri)
+L1155: 
+L1156: Monthly Sales - October 2017
+L1157: 
+L1158: 【144†/english/monthly-revenue/2017】
+L1159: 
+L1160: October 19, 2017 (Thu)
+L1161: 
+L1162: 3Q17 Results - Earnings Conference and Conference Call
+L1163: 
+L1164: 【145†/english/quarterly-results/2017/q3】
+L1165: 
+L1166: October 06, 2017 (Fri)
+L1167: 
+L1168: Monthly Sales - September 2017
+L1169: 
+L1170: 【144†/english/monthly-revenue/2017】
+L1171: 
+L1172: September 08, 2017 (Fri)
+L1173: Monthly Sales - August 2017
+L1174: 
+L1175: 【144†/english/monthly-revenue/2017】
+L1176: 
+L1177: August 10, 2017 (Thu)
+L1178: 
+L1179: Monthly Sales - July 2017
+L1180: 
+L1181: 【144†/english/monthly-revenue/2017】
+L1182: 
+L1183: July 13, 2017 (Thu)
+L1184: 
+L1185: 2Q17 Results - Earnings Conference and Conference Call
+L1186: 
+L1187: 【146†/english/quarterly-results/2017/q2】
+L1188: 
+L1189: July 10, 2017 (Mon)
+L1190: 
+L1191: Monthly Sales - June 2017
+L1192: 
+L1193: 【144†/english/monthly-revenue/2017】
+L1194: 
+L1195: June 09, 2017 (Fri)
+L1196: 
+L1197: Monthly Sales - May 2017
+L1198: 
+L1199: 【144†/english/monthly-revenue/2017】
+L1200: 
+L1201: June 08, 2017 (Thu)
+L1202: 
+L1203: Annual General Shareholders' Meeting
+L1204: 【147†/english/shareholders-meeting/2017】
+L1205: 
+L1206: May 10, 2017 (Wed)
+L1207: 
+L1208: Monthly Sales - April 2017
+L1209: 
+L1210: 【144†/english/monthly-revenue/2017】
+L1211: 
+L1212: April 13, 2017 (Thu)
+L1213: 
+L1214: 1Q17 Results - Earnings Conference and Conference Call
+L1215: 
+L1216: 【148†/english/quarterly-results/2017/q1】
+L1217: 
+L1218: April 10, 2017 (Mon)
+L1219: 
+L1220: Monthly Sales - March 2017
+L1221: 
+L1222: 【144†/english/monthly-revenue/2017】
+L1223: 
+L1224: March 10, 2017 (Fri)
+L1225: 
+L1226: Monthly Sales - February 2017
+L1227: 
+L1228: 【144†/english/monthly-revenue/2017】
+L1229: 
+L1230: February 10, 2017 (Fri)
+L1231: 
+L1232: Monthly Sales - January 2017
+L1233: 【149†/english/monthly-revenue/2016】
+L1234: 
+L1235: January 12, 2017 (Thu)
+L1236: 
+L1237: 4Q16 Results - Earnings Conference and Conference Call
+L1238: 
+L1239: 【150†/english/quarterly-results/2016/q4】
+L1240: 
+L1241: January 10, 2017 (Tue)
+L1242: 
+L1243: Monthly Sales - December 2016
+L1244: 
+L1245: 【149†/english/monthly-revenue/2016】
+L1246: 
+L1247: Important: This calendar is subject to change during the year as dates are adjusted.
+L1248: 
+L1249: December 09, 2016 (Fri)
+L1250: 
+L1251: Monthly Sales - November 2016
+L1252: 
+L1253: 【149†/english/monthly-revenue/2016】
+L1254: 
+L1255: November 10, 2016 (Thu)
+L1256: 
+L1257: Monthly Sales - October 2016
+L1258: 【149†/english/monthly-revenue/2016】
+L1259: 
+L1260: October 13, 2016 (Thu)
+L1261: 
+L1262: 3Q16 Results - Earnings Conference and Conference Call
+L1263: 
+L1264: 【151†/english/quarterly-results/2016/q3】
+L1265: 
+L1266: October 07, 2016 (Fri)
+L1267: 
+L1268: Monthly Sales - September 2016
+L1269: 
+L1270: 【149†/english/monthly-revenue/2016】
+L1271: 
+L1272: September 09, 2016 (Fri)
+L1273: 
+L1274: Monthly Sales - August 2016
+L1275: 
+L1276: 【149†/english/monthly-revenue/2016】
+L1277: 
+L1278: August 10, 2016 (Wed)
+L1279: 
+L1280: Monthly Sales - July 2016
+L1281: 
+L1282: 【149†/english/monthly-revenue/2016】
+L1283: 
+L1284: July 14, 2016 (Thu)
+L1285: 
+L1286: 2Q16 Results - Earnings Conference and Conference Call
+L1287: 【152†/english/quarterly-results/2016/q2】
+L1288: 
+L1289: July 11, 2016 (Mon)
+L1290: 
+L1291: Monthly Sales - June 2016
+L1292: 
+L1293: 【149†/english/monthly-revenue/2016】
+L1294: 
+L1295: June 08, 2016 (Wed)
+L1296: 
+L1297: Monthly Sales - May 2016
+L1298: 
+L1299: 【149†/english/monthly-revenue/2016】
+L1300: 
+L1301: June 07, 2016 (Tue)
+L1302: 
+L1303: Annual General Shareholders' Meeting
+L1304: 
+L1305: 【153†/english/shareholders-meeting/2016】
+L1306: 
+L1307: May 10, 2016 (Tue)
+L1308: 
+L1309: Monthly Sales - April 2016
+L1310: 
+L1311: 【149†/english/monthly-revenue/2016】
+L1312: 
+L1313: April 14, 2016 (Thu)
+L1314: 
+L1315: 1Q16 Results - Earnings Conference and Conference Call
+L1316: 【154†/english/quarterly-results/2016/q1】
+L1317: 
+L1318: April 08, 2016 (Fri)
+L1319: 
+L1320: Monthly Sales - March 2016
+L1321: 
+L1322: 【149†/english/monthly-revenue/2016】
+L1323: 
+L1324: March 10, 2016 (Thu)
+L1325: 
+L1326: Monthly Sales - February 2016
+L1327: 
+L1328: 【149†/english/monthly-revenue/2016】
+L1329: 
+L1330: February 15, 2016 (Mon)
+L1331: 
+L1332: Monthly Sales - January 2016
+L1333: 
+L1334: 【149†/english/monthly-revenue/2016】
+L1335: 
+L1336: January 14, 2016 (Thu)
+L1337: 
+L1338: 4Q15 Results - Earnings Conference and Conference Call
+L1339: 
+L1340: 【155†/english/quarterly-results/2015/q4】
+L1341: 
+L1342: January 08, 2016 (Fri)
+L1343: 
+L1344: Monthly Sales - December 2015
+L1345: 【156†/english/monthly-revenue/2015】
+L1346: 
+L1347: Important: This calendar is subject to change during the year as dates are adjusted.
+L1348: 
+L1349: December 10, 2015 (Thu)
+L1350: 
+L1351: Monthly Sales - November 2015
+L1352: 
+L1353: 【156†/english/monthly-revenue/2015】
+L1354: 
+L1355: November 10, 2015 (Tue)
+L1356: 
+L1357: Monthly Sales - October 2015
+L1358: 
+L1359: 【156†/english/monthly-revenue/2015】
+L1360: 
+L1361: October 15, 2015 (Thu)
+L1362: 
+L1363: 3Q15 Results - Earnings Conference and Conference Call
+L1364: 
+L1365: 【157†/english/quarterly-results/2015/q3】
+L1366: 
+L1367: October 08, 2015 (Thu)
+L1368: 
+L1369: Monthly Sales - September 2015
+L1370: 【156†/english/monthly-revenue/2015】
+L1371: 
+L1372: September 10, 2015 (Thu)
+L1373: 
+L1374: Monthly Sales - August 2015
+L1375: 
+L1376: 【156†/english/monthly-revenue/2015】
+L1377: 
+L1378: August 10, 2015 (Mon)
+L1379: 
+L1380: Monthly Sales - July 2015
+L1381: 
+L1382: 【156†/english/monthly-revenue/2015】
+L1383: 
+L1384: July 16, 2015 (Thu)
+L1385: 
+L1386: 2Q15 Results - Earnings Conference and Conference Call
+L1387: 
+L1388: 【158†/english/quarterly-results/2015/q2】
+L1389: 
+L1390: July 10, 2015 (Fri)
+L1391: 
+L1392: Monthly Sales - June 2015
+L1393: 
+L1394: 【156†/english/monthly-revenue/2015】
+L1395: 
+L1396: June 10, 2015 (Wed)
+L1397: 
+L1398: Monthly Sales - May 2015
+L1399: 
+L1400: 【156†/english/monthly-revenue/2015】
+L1401: June 09, 2015 (Tue)
+L1402: 
+L1403: Annual General Shareholders' Meeting
+L1404: 
+L1405: 【159†/english/shareholders-meeting/2015】
+L1406: 
+L1407: May 08, 2015 (Fri)
+L1408: 
+L1409: Monthly Sales - April 2015
+L1410: 
+L1411: 【156†/english/monthly-revenue/2015】
+L1412: 
+L1413: April 16, 2015 (Thu)
+L1414: 
+L1415: 1Q15 Results - Earnings Conference and Conference Call
+L1416: 
+L1417: 【160†/english/quarterly-results/2015/q1】
+L1418: 
+L1419: April 10, 2015 (Fri)
+L1420: 
+L1421: Monthly Sales - March 2015
+L1422: 
+L1423: 【156†/english/monthly-revenue/2015】
+L1424: 
+L1425: March 10, 2015 (Tue)
+L1426: 
+L1427: Monthly Sales - February 2015
+L1428: 
+L1429: 【156†/english/monthly-revenue/2015】
+L1430: 
+L1431: February 10, 2015 (Tue)
+L1432: Monthly Sales - January 2015
+L1433: 
+L1434: 【156†/english/monthly-revenue/2015】
+L1435: 
+L1436: January 15, 2015 (Thu)
+L1437: 
+L1438: 4Q14 Results - Earnings Conference and Conference Call
+L1439: 
+L1440: 【161†/english/quarterly-results/2014/q4】
+L1441: 
+L1442: January 09, 2015 (Fri)
+L1443: 
+L1444: Monthly Sales - December 2014
+L1445: 
+L1446: 【162†/english/monthly-revenue/2014】
+L1447: 
+L1448: Important: This calendar is subject to change during the year as dates are adjusted.
+L1449: 
+L1450: December 10, 2014 (Wed)
+L1451: 
+L1452: Monthly Sales - November 2014
+L1453: 
+L1454: 【162†/english/monthly-revenue/2014】
+L1455: 
+L1456: November 10, 2014 (Mon)
+L1457: Monthly Sales - October 2014
+L1458: 
+L1459: 【162†/english/monthly-revenue/2014】
+L1460: 
+L1461: October 16, 2014 (Thu)
+L1462: 
+L1463: 3Q14 Results - Earnings Conference and Conference Call
+L1464: 
+L1465: 【163†/english/quarterly-results/2014/q3】
+L1466: 
+L1467: October 09, 2014 (Thu)
+L1468: 
+L1469: Monthly Sales - September 2014
+L1470: 
+L1471: 【162†/english/monthly-revenue/2014】
+L1472: 
+L1473: September 10, 2014 (Wed)
+L1474: 
+L1475: Monthly Sales - August 2014
+L1476: 
+L1477: 【162†/english/monthly-revenue/2014】
+L1478: 
+L1479: August 08, 2014 (Fri)
+L1480: 
+L1481: Monthly Sales - July 2014
+L1482: 
+L1483: 【162†/english/monthly-revenue/2014】
+L1484: 
+L1485: July 16, 2014 (Wed)
+L1486: 2Q14 Results - Earnings Conference and Conference Call
+L1487: 
+L1488: 【164†/english/quarterly-results/2014/q2】
+L1489: 
+L1490: July 10, 2014 (Thu)
+L1491: 
+L1492: Monthly Sales - June 2014
+L1493: 
+L1494: 【162†/english/monthly-revenue/2014】
+L1495: 
+L1496: June 10, 2014 (Tue)
+L1497: 
+L1498: Monthly Sales - May 2014
+L1499: 
+L1500: 【162†/english/monthly-revenue/2014】
+L1501: 
+L1502: May 09, 2014 (Fri)
+L1503: 
+L1504: Monthly Sales - April 2014
+L1505: 
+L1506: 【162†/english/monthly-revenue/2014】
+L1507: 
+L1508: April 17, 2014 (Thu)
+L1509: 
+L1510: 1Q14 Results - Earnings Conference and Conference Call
+L1511: 
+L1512: 【165†/english/quarterly-results/2014/q1】
+L1513: 
+L1514: April 10, 2014 (Thu)
+L1515: Monthly Sales - March 2014
+L1516: 
+L1517: 【162†/english/monthly-revenue/2014】
+L1518: 
+L1519: March 10, 2014 (Mon)
+L1520: 
+L1521: Monthly Sales - February 2014
+L1522: 
+L1523: 【162†/english/monthly-revenue/2014】
+L1524: 
+L1525: February 10, 2014 (Mon)
+L1526: 
+L1527: Monthly Sales - January 2014
+L1528: 
+L1529: 【162†/english/monthly-revenue/2014】
+L1530: 
+L1531: January 16, 2014 (Thu)
+L1532: 
+L1533: 4Q13 Results - Earnings Conference and Conference Call
+L1534: 
+L1535: 【166†/english/quarterly-results/2013/q4】
+L1536: 
+L1537: January 10, 2014 (Fri)
+L1538: 
+L1539: Monthly Sales - December 2013
+L1540: 
+L1541: 【167†/english/monthly-revenue/2013】
+L1542: Important: This calendar is subject to change during the year as dates are adjusted.
+L1543: 
+L1544: 【168†TSMC-Online Online information and transaction for our customers†online.tsmc.com】
+L1545: 
+L1546: 【169†TSMC-Supply Online 360 The web-based portal for TSMC suppliers†supply.tsmc.com.tw】
+L1547: 
+L1548: 【87†Document Center Find more information about TSMC†www.tsmc.com】
+L1549: 
+L1550: Copyright© Taiwan Semiconductor Manufacturing Company Limited 2010-2026, All Rights Reserved.
+L1551: 
+L1552: Hyperlinked-Disclaimer
+L1553: You are now leaving our web site. The web site you wish to link to is owned or operated by an entity other than Taiwan Semiconductor Manufacturing Company, Ltd.. We do not control this third party web site.
+L1554: We are providing this link for your convenience only and we are not responsible for the availability of or the content located on or through this third party web site, the accuracy, completeness, timeliness, or legality of any information contained in this third party web site, and any opinions expressed therein, nor for any link contained in this third party web site.
+L1555: This third party web site is not investigated, monitored, or checked for accuracy, completeness, timeliness, or legality, by Taiwan Semiconductor Manufacturing Company, Ltd.. The link from our web site to this third party web site does not imply that we approve of, endorse, or recommend this third party web site. We expressly disclaim all warranties, express or implied, as to the accuracy, legality, reliability, timeliness, quality, or validity of any content on this third party web site.
+
+Financial Calendar - Taiwan Semiconductor Manufacturing Company Limited (https://investor.tsmc.com/english/financial-calendar)
+citeturn262view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://investor.tsmc.com/english/financial-calendar","lineno":1350}); Total lines: 1559
+L760: 【121†/english/monthly-revenue/2022】
+L761: 
+L762: February 10, 2022 (Thu)
+L763: 
+L764: TSMC Monthly Sales - January 2022
+L765: 
+L766: 【121†/english/monthly-revenue/2022】
+L767: 
+L768: January 13, 2022 (Thu)
+L769: 
+L770: TSMC 4Q21 Results - Earnings Conference and Conference Call
+L771: 
+L772: 【125†/english/quarterly-results/2021/q4】
+L773: 
+L785: 【126†/english/monthly-revenue/2021】
+L786: 
+L787: November 10, 2021 (Wed)
+L788: 
+L789: TSMC Monthly Sales - October 2021
+L790: 
+L791: 【126†/english/monthly-revenue/2021】
+L792: 
+L793: October 14, 2021 (Thu)
+L794: 
+L795: TSMC 3Q21 Results - Earnings Conference and Conference Call
+L796: 
+L797: 【127†/english/quarterly-results/2021/q3】
+L798: 
+L799: October 08, 2021 (Fri)
+L800: 
+L801: TSMC Monthly Sales - September 2021
+L802: 
+L803: 【126†/english/monthly-revenue/2021】
+L804: 
+L805: September 10, 2021 (Fri)
+L806: 
+L807: TSMC Monthly Sales - August 2021
+L808: 
+L809: 【126†/english/monthly-revenue/2021】
+L810: 
+L811: August 10, 2021 (Tue)
+L812: 
+L813: TSMC Monthly Sales - July 2021
+L814: 【126†/english/monthly-revenue/2021】
+L815: 
+L816: July 15, 2021 (Thu)
+L817: 
+L818: TSMC 2Q21 Results - Earnings Conference and Conference Call
+L819: 
+L820: 【128†/english/quarterly-results/2021/q2】
+L821: 
+L822: July 09, 2021 (Fri)
+L823: 
+L824: TSMC Monthly Sales - June 2021
+L825: 
+L826: 【126†/english/monthly-revenue/2021】
+L827: 
+L828: June 10, 2021 (Thu)
+L829: 
+L830: TSMC Monthly Sales - May 2021
+L831: 
+L832: 【126†/english/monthly-revenue/2021】
+L833: 
+L834: May 10, 2021 (Mon)
+L835: 
+L836: TSMC Monthly Sales - April 2021
+L837: 
+L838: 【126†/english/monthly-revenue/2021】
+L839: 
+L840: April 15, 2021 (Thu)
+L841: TSMC 1Q21 Results - Earnings Conference and Conference Call
+L842: 
+L843: 【129†/english/quarterly-results/2021/q1】
+L844: 
+L845: April 09, 2021 (Fri)
+L846: 
+L847: TSMC Monthly Sales - March 2021
+L848: 
+L849: 【126†/english/monthly-revenue/2021】
+L850: 
+L851: March 10, 2021 (Wed)
+L852: 
+L853: TSMC Monthly Sales -  February 2021
+L854: 
+L855: 【126†/english/monthly-revenue/2021】
+L856: 
+L857: February 09, 2021 (Tue)
+L858: 
+L859: TSMC Monthly Sales - January 2021
+L860: 
+L861: 【126†/english/monthly-revenue/2021】
+L862: 
+L863: January 14, 2021 (Thu)
+L864: 
+L865: TSMC 4Q20 Results - Earnings Conference and Conference Call
+L866: 【130†/english/quarterly-results/2020/q4】
+L867: 
+L868: January 08, 2021 (Fri)
+L869: 
+L870: TSMC Monthly Sales - December 2020
+L871: 
+L872: 【131†/english/monthly-revenue/2020】
+L873: 
+L874: Important: This calendar is subject to change during the year as dates are adjusted.
+L875: 
+L876: December 10, 2020 (Thu)
+L877: 
+L878: TSMC Monthly Sales - November 2020
+L879: 
+L880: 【131†/english/monthly-revenue/2020】
+L881: 
+L882: November 10, 2020 (Tue)
+L883: 
+L884: TSMC Monthly Sales - October 2020
+L885: 
+L886: October 15, 2020 (Thu)
+L887: 
+L888: TSMC 3Q20 Results - Earnings Conference and Conference Call
+L889: 
+L890: October 08, 2020 (Thu)
+L891: TSMC Monthly Sales - September 2020
+L892: 
+L893: September 10, 2020 (Thu)
+L894: 
+L895: TSMC Monthly Sales - August 2020
+L896: 
+L897: August 10, 2020 (Mon)
+L898: 
+L899: TSMC Monthly Sales - July 2020
+L900: 
+L901: July 16, 2020 (Thu)
+L902: 
+L903: TSMC 2Q20 Results - Earnings Conference and Conference Call
+L904: 
+L905: July 10, 2020 (Fri)
+L906: 
+L907: TSMC Monthly Sales - June 2020
+L908: 
+L909: 【131†/english/monthly-revenue/2020】
+L910: 
+L911: June 10, 2020 (Wed)
+L912: 
+L913: TSMC Monthly Sales - May 2020
+L914: 
+L915: 【131†/english/monthly-revenue/2020】
+L916: 
+L917: May 08, 2020 (Fri)
+L918: 
+L919: TSMC Monthly Sales - April 2020
+L920: 
+L921: 【131†/english/monthly-revenue/2020】
+L922: April 16, 2020 (Thu)
+L923: 
+L924: TSMC 1Q20 Results - Earnings Conference and Conference Call
+L925: 
+L926: 【132†/english/quarterly-results/2020/q1】
+L927: 
+L928: April 10, 2020 (Fri)
+L929: 
+L930: TSMC Monthly Sales - March 2020
+L931: 
+L932: 【131†/english/monthly-revenue/2020】
+L933: 
+L934: March 10, 2020 (Tue)
+L935: 
+L936: TSMC Monthly Sales - February 2020
+L937: 
+L938: 【131†/english/monthly-revenue/2020】
+L939: 
+L940: February 10, 2020 (Mon)
+L941: 
+L942: TSMC Monthly Sales - January 2020
+L943: 
+L944: 【131†/english/monthly-revenue/2020】
+L945: 
+L946: January 16, 2020 (Thu)
+L947: 
+L948: TSMC 4Q19 Results - Earnings Conference and Conference Call
+L949: 【133†/english/quarterly-results/2019/q4】
+L950: 
+L951: January 10, 2020 (Fri)
+L952: 
+L953: TSMC Monthly Sales - December 2019
+L954: 
+L955: 【134†/english/monthly-revenue/2019】
+L956: 
+L957: Important: This calendar is subject to change during the year as dates are adjusted.
+L958: 
+L959: December 10, 2019 (Tue)
+L960: 
+L961: TSMC Monthly Sales - November 2019
+L962: 
+L963: 【134†/english/monthly-revenue/2019】
+L964: 
+L965: November 08, 2019 (Fri)
+L966: 
+L967: TSMC Monthly Sales - October 2019
+L968: 
+L969: 【134†/english/monthly-revenue/2019】
+L970: 
+L971: October 17, 2019 (Thu)
+L972: 
+L973: TSMC 3Q19 Results - Earnings Conference and Conference Call
+L974: 【135†/english/quarterly-results/2019/q3】
+L975: 
+L976: October 09, 2019 (Wed)
+L977: 
+L978: TSMC Monthly Sales - September 2019
+L979: 
+L980: 【134†/english/monthly-revenue/2019】
+L981: 
+L982: September 10, 2019 (Tue)
+L983: 
+L984: TSMC Monthly Sales - August 2019
+L985: 
+L986: 【134†/english/monthly-revenue/2019】
+L987: 
+L988: August 12, 2019 (Mon)
+L989: 
+L990: TSMC Monthly Sales - July 2019
+L991: 
+L992: 【134†/english/monthly-revenue/2019】
+L993: 
+L994: July 18, 2019 (Thu)
+L995: 
+L996: 2Q19 Results - Earnings Conference and Conference Call
+L997: 
+L998: 【136†/english/quarterly-results/2019/q2】
+L999: 
+L1000: July 10, 2019 (Wed)
+L1001: 
+L1002: TSMC Monthly Sales - June 2019
+L1003: 【134†/english/monthly-revenue/2019】
+L1004: 
+L1005: June 10, 2019 (Mon)
+L1006: 
+L1007: TSMC Monthly Sales - May 2019
+L1008: 
+L1009: 【134†/english/monthly-revenue/2019】
+L1010: 
+L1011: May 10, 2019 (Fri)
+L1012: 
+L1013: Monthly Sales - April 2019
+L1014: 
+L1015: 【134†/english/monthly-revenue/2019】
+L1016: 
+L1017: April 18, 2019 (Thu)
+L1018: 
+L1019: 1Q19 Results - Earnings Conference and Conference Call
+L1020: 
+L1021: 【137†/english/quarterly-results/2019/q1】
+L1022: 
+L1023: April 10, 2019 (Wed)
+L1024: 
+L1025: Monthly Sales - March 2019
+L1026: 
+L1027: 【134†/english/monthly-revenue/2019】
+L1028: 
+L1029: March 08, 2019 (Fri)
+L1030: 
+L1031: Monthly Sales - February 2019
+L1032: 
+L1033: 【134†/english/monthly-revenue/2019】
+L1034: February 15, 2019 (Fri)
+L1035: 
+L1036: Monthly Sales - January 2019
+L1037: 
+L1038: 【134†/english/monthly-revenue/2019】
+L1039: 
+L1040: January 17, 2019 (Thu)
+L1041: 
+L1042: 4Q18 Results - Earnings Conference and Conference Call
+L1043: 
+L1044: 【138†/english/quarterly-results/2018/q4】
+L1045: 
+L1046: January 10, 2019 (Thu)
+L1047: 
+L1048: Monthly Sales - Decebmer 2018
+L1049: 
+L1050: 【139†/english/monthly-revenue/2018】
+L1051: 
+L1052: Important: This calendar is subject to change during the year as dates are adjusted.
+L1053: 
+L1054: December 10, 2018 (Mon)
+L1055: 
+L1056: Monthly Sales - November 2018
+L1057: 
+L1058: 【139†/english/monthly-revenue/2018】
+L1059: 
+L1060: November 09, 2018 (Fri)
+L1061: Monthly Sales - October 2018
+L1062: 
+L1063: 【139†/english/monthly-revenue/2018】
+L1064: 
+L1065: October 18, 2018 (Thu)
+L1066: 
+L1067: 3Q18 Results - Earnings Conference and Conference Call
+L1068: 
+L1069: 【140†/english/quarterly-results/2018/q3】
+L1070: 
+L1071: October 09, 2018 (Tue)
+L1072: 
+L1073: Monthly Sales - September 2018
+L1074: 
+L1075: 【139†/english/monthly-revenue/2018】
+L1076: 
+L1077: September 10, 2018 (Mon)
+L1078: 
+L1079: Monthly Sales - August 2018
+L1080: 
+L1081: 【139†/english/monthly-revenue/2018】
+L1082: 
+L1083: August 10, 2018 (Fri)
+L1084: 
+L1085: Monthly Sales - July 2018
+L1086: 
+L1087: 【139†/english/monthly-revenue/2018】
+L1088: 
+L1089: July 19, 2018 (Thu)
+L1090: 2Q18 Results - Earnings Conference and Conference Call
+L1091: 
+L1092: 【141†/english/quarterly-results/2018/q2】
+L1093: 
+L1094: July 10, 2018 (Tue)
+L1095: 
+L1096: Monthly Sales - June 2018
+L1097: 
+L1098: 【139†/english/monthly-revenue/2018】
+L1099: 
+L1100: June 08, 2018 (Fri)
+L1101: 
+L1102: Monthly Sales - May 2018
+L1103: 
+L1104: 【139†/english/monthly-revenue/2018】
+L1105: 
+L1106: May 10, 2018 (Thu)
+L1107: 
+L1108: Monthly Sales - April 2018
+L1109: 
+L1110: 【139†/english/monthly-revenue/2018】
+L1111: 
+L1112: April 19, 2018 (Thu)
+L1113: 
+L1114: 1Q18 Results - Earnings Conference and Conference Call
+L1115: 
+L1116: 【142†/english/quarterly-results/2018/q1】
+L1117: 
+L1118: April 10, 2018 (Tue)
+L1119: Monthly Sales - March 2018
+L1120: 
+L1121: 【139†/english/monthly-revenue/2018】
+L1122: 
+L1123: March 09, 2018 (Fri)
+L1124: 
+L1125: Monthly Sales - February 2018
+L1126: 
+L1127: 【139†/english/monthly-revenue/2018】
+L1128: 
+L1129: February 09, 2018 (Fri)
+L1130: 
+L1131: Monthly Sales - January 2018
+L1132: 
+L1133: 【139†/english/monthly-revenue/2018】
+L1134: 
+L1135: January 18, 2018 (Thu)
+L1136: 
+L1137: 4Q17 Results - Earnings Conference and Conference Call
+L1138: 
+L1139: 【143†/english/quarterly-results/2017/q4】
+L1140: 
+L1141: January 10, 2018 (Wed)
+L1142: 
+L1143: Monthly Sales - December 2017
+L1144: 
+L1145: 【144†/english/monthly-revenue/2017】
+L1146: Important: This calendar is subject to change during the year as dates are adjusted.
+L1147: 
+L1148: December 08, 2017 (Fri)
+L1149: 
+L1150: Monthly Sales - November 2017
+L1151: 
+L1152: 【144†/english/monthly-revenue/2017】
+L1153: 
+L1154: November 10, 2017 (Fri)
+L1155: 
+L1156: Monthly Sales - October 2017
+L1157: 
+L1158: 【144†/english/monthly-revenue/2017】
+L1159: 
+L1160: October 19, 2017 (Thu)
+L1161: 
+L1162: 3Q17 Results - Earnings Conference and Conference Call
+L1163: 
+L1164: 【145†/english/quarterly-results/2017/q3】
+L1165: 
+L1166: October 06, 2017 (Fri)
+L1167: 
+L1168: Monthly Sales - September 2017
+L1169: 
+L1170: 【144†/english/monthly-revenue/2017】
+L1171: 
+L1172: September 08, 2017 (Fri)
+L1173: Monthly Sales - August 2017
+L1174: 
+L1175: 【144†/english/monthly-revenue/2017】
+L1176: 
+L1177: August 10, 2017 (Thu)
+L1178: 
+L1179: Monthly Sales - July 2017
+L1180: 
+L1181: 【144†/english/monthly-revenue/2017】
+L1182: 
+L1183: July 13, 2017 (Thu)
+L1184: 
+L1185: 2Q17 Results - Earnings Conference and Conference Call
+L1186: 
+L1187: 【146†/english/quarterly-results/2017/q2】
+L1188: 
+L1189: July 10, 2017 (Mon)
+L1190: 
+L1191: Monthly Sales - June 2017
+L1192: 
+L1193: 【144†/english/monthly-revenue/2017】
+L1194: 
+L1195: June 09, 2017 (Fri)
+L1196: 
+L1197: Monthly Sales - May 2017
+L1198: 
+L1199: 【144†/english/monthly-revenue/2017】
+L1200: 
+L1201: June 08, 2017 (Thu)
+L1202: 
+L1203: Annual General Shareholders' Meeting
+L1204: 【147†/english/shareholders-meeting/2017】
+L1205: 
+L1206: May 10, 2017 (Wed)
+L1207: 
+L1208: Monthly Sales - April 2017
+L1209: 
+L1210: 【144†/english/monthly-revenue/2017】
+L1211: 
+L1212: April 13, 2017 (Thu)
+L1213: 
+L1214: 1Q17 Results - Earnings Conference and Conference Call
+L1215: 
+L1216: 【148†/english/quarterly-results/2017/q1】
+L1217: 
+L1218: April 10, 2017 (Mon)
+L1219: 
+L1220: Monthly Sales - March 2017
+L1221: 
+L1222: 【144†/english/monthly-revenue/2017】
+L1223: 
+L1224: March 10, 2017 (Fri)
+L1225: 
+L1226: Monthly Sales - February 2017
+L1227: 
+L1228: 【144†/english/monthly-revenue/2017】
+L1229: 
+L1230: February 10, 2017 (Fri)
+L1231: 
+L1232: Monthly Sales - January 2017
+L1233: 【149†/english/monthly-revenue/2016】
+L1234: 
+L1235: January 12, 2017 (Thu)
+L1236: 
+L1237: 4Q16 Results - Earnings Conference and Conference Call
+L1238: 
+L1239: 【150†/english/quarterly-results/2016/q4】
+L1240: 
+L1241: January 10, 2017 (Tue)
+L1242: 
+L1243: Monthly Sales - December 2016
+L1244: 
+L1245: 【149†/english/monthly-revenue/2016】
+L1246: 
+L1247: Important: This calendar is subject to change during the year as dates are adjusted.
+L1248: 
+L1249: December 09, 2016 (Fri)
+L1250: 
+L1251: Monthly Sales - November 2016
+L1252: 
+L1253: 【149†/english/monthly-revenue/2016】
+L1254: 
+L1255: November 10, 2016 (Thu)
+L1256: 
+L1257: Monthly Sales - October 2016
+L1258: 【149†/english/monthly-revenue/2016】
+L1259: 
+L1260: October 13, 2016 (Thu)
+L1261: 
+L1262: 3Q16 Results - Earnings Conference and Conference Call
+L1263: 
+L1264: 【151†/english/quarterly-results/2016/q3】
+L1265: 
+L1266: October 07, 2016 (Fri)
+L1267: 
+L1268: Monthly Sales - September 2016
+L1269: 
+L1270: 【149†/english/monthly-revenue/2016】
+L1271: 
+L1272: September 09, 2016 (Fri)
+L1273: 
+L1274: Monthly Sales - August 2016
+L1275: 
+L1276: 【149†/english/monthly-revenue/2016】
+L1277: 
+L1278: August 10, 2016 (Wed)
+L1279: 
+L1280: Monthly Sales - July 2016
+L1281: 
+L1282: 【149†/english/monthly-revenue/2016】
+L1283: 
+L1284: July 14, 2016 (Thu)
+L1285: 
+L1286: 2Q16 Results - Earnings Conference and Conference Call
+L1287: 【152†/english/quarterly-results/2016/q2】
+L1288: 
+L1289: July 11, 2016 (Mon)
+L1290: 
+L1291: Monthly Sales - June 2016
+L1292: 
+L1293: 【149†/english/monthly-revenue/2016】
+L1294: 
+L1295: June 08, 2016 (Wed)
+L1296: 
+L1297: Monthly Sales - May 2016
+L1298: 
+L1299: 【149†/english/monthly-revenue/2016】
+L1300: 
+L1301: June 07, 2016 (Tue)
+L1302: 
+L1303: Annual General Shareholders' Meeting
+L1304: 
+L1305: 【153†/english/shareholders-meeting/2016】
+L1306: 
+L1307: May 10, 2016 (Tue)
+L1308: 
+L1309: Monthly Sales - April 2016
+L1310: 
+L1311: 【149†/english/monthly-revenue/2016】
+L1312: 
+L1313: April 14, 2016 (Thu)
+L1314: 
+L1315: 1Q16 Results - Earnings Conference and Conference Call
+L1316: 【154†/english/quarterly-results/2016/q1】
+L1317: 
+L1318: April 08, 2016 (Fri)
+L1319: 
+L1320: Monthly Sales - March 2016
+L1321: 
+L1322: 【149†/english/monthly-revenue/2016】
+L1323: 
+L1324: March 10, 2016 (Thu)
+L1325: 
+L1326: Monthly Sales - February 2016
+L1327: 
+L1328: 【149†/english/monthly-revenue/2016】
+L1329: 
+L1330: February 15, 2016 (Mon)
+L1331: 
+L1332: Monthly Sales - January 2016
+L1333: 
+L1334: 【149†/english/monthly-revenue/2016】
+L1335: 
+L1336: January 14, 2016 (Thu)
+L1337: 
+L1338: 4Q15 Results - Earnings Conference and Conference Call
+L1339: 
+L1340: 【155†/english/quarterly-results/2015/q4】
+L1341: 
+L1342: January 08, 2016 (Fri)
+L1343: 
+L1344: Monthly Sales - December 2015
+L1345: 【156†/english/monthly-revenue/2015】
+L1346: 
+L1347: Important: This calendar is subject to change during the year as dates are adjusted.
+L1348: 
+L1349: December 10, 2015 (Thu)
+L1350: 
+L1351: Monthly Sales - November 2015
+L1352: 
+L1353: 【156†/english/monthly-revenue/2015】
+L1354: 
+L1355: November 10, 2015 (Tue)
+L1356: 
+L1357: Monthly Sales - October 2015
+L1358: 
+L1359: 【156†/english/monthly-revenue/2015】
+L1360: 
+L1361: October 15, 2015 (Thu)
+L1362: 
+L1363: 3Q15 Results - Earnings Conference and Conference Call
+L1364: 
+L1365: 【157†/english/quarterly-results/2015/q3】
+L1366: 
+L1367: October 08, 2015 (Thu)
+L1368: 
+L1369: Monthly Sales - September 2015
+L1370: 【156†/english/monthly-revenue/2015】
+L1371: 
+L1372: September 10, 2015 (Thu)
+L1373: 
+L1374: Monthly Sales - August 2015
+L1375: 
+L1376: 【156†/english/monthly-revenue/2015】
+L1377: 
+L1378: August 10, 2015 (Mon)
+L1379: 
+L1380: Monthly Sales - July 2015
+L1381: 
+L1382: 【156†/english/monthly-revenue/2015】
+L1383: 
+L1384: July 16, 2015 (Thu)
+L1385: 
+L1386: 2Q15 Results - Earnings Conference and Conference Call
+L1387: 
+L1388: 【158†/english/quarterly-results/2015/q2】
+L1389: 
+L1390: July 10, 2015 (Fri)
+L1391: 
+L1392: Monthly Sales - June 2015
+L1393: 
+L1394: 【156†/english/monthly-revenue/2015】
+L1395: 
+L1396: June 10, 2015 (Wed)
+L1397: 
+L1398: Monthly Sales - May 2015
+L1399: 
+L1400: 【156†/english/monthly-revenue/2015】
+L1401: June 09, 2015 (Tue)
+L1402: 
+L1403: Annual General Shareholders' Meeting
+L1404: 
+L1405: 【159†/english/shareholders-meeting/2015】
+L1406: 
+L1407: May 08, 2015 (Fri)
+L1408: 
+L1409: Monthly Sales - April 2015
+L1410: 
+L1411: 【156†/english/monthly-revenue/2015】
+L1412: 
+L1413: April 16, 2015 (Thu)
+L1414: 
+L1415: 1Q15 Results - Earnings Conference and Conference Call
+L1416: 
+L1417: 【160†/english/quarterly-results/2015/q1】
+L1418: 
+L1419: April 10, 2015 (Fri)
+L1420: 
+L1421: Monthly Sales - March 2015
+L1422: 
+L1423: 【156†/english/monthly-revenue/2015】
+L1424: 
+L1425: March 10, 2015 (Tue)
+L1426: 
+L1427: Monthly Sales - February 2015
+L1428: 
+L1429: 【156†/english/monthly-revenue/2015】
+L1430: 
+L1431: February 10, 2015 (Tue)
+L1432: Monthly Sales - January 2015
+L1433: 
+L1434: 【156†/english/monthly-revenue/2015】
+L1435: 
+L1436: January 15, 2015 (Thu)
+L1437: 
+L1438: 4Q14 Results - Earnings Conference and Conference Call
+L1439: 
+L1440: 【161†/english/quarterly-results/2014/q4】
+L1441: 
+L1442: January 09, 2015 (Fri)
+L1443: 
+L1444: Monthly Sales - December 2014
+L1445: 
+L1446: 【162†/english/monthly-revenue/2014】
+L1447: 
+L1448: Important: This calendar is subject to change during the year as dates are adjusted.
+L1449: 
+L1450: December 10, 2014 (Wed)
+L1451: 
+L1452: Monthly Sales - November 2014
+L1453: 
+L1454: 【162†/english/monthly-revenue/2014】
+L1455: 
+L1456: November 10, 2014 (Mon)
+L1457: Monthly Sales - October 2014
+L1458: 
+L1459: 【162†/english/monthly-revenue/2014】
+L1460: 
+L1461: October 16, 2014 (Thu)
+L1462: 
+L1463: 3Q14 Results - Earnings Conference and Conference Call
+L1464: 
+L1465: 【163†/english/quarterly-results/2014/q3】
+L1466: 
+L1467: October 09, 2014 (Thu)
+L1468: 
+L1469: Monthly Sales - September 2014
+L1470: 
+L1471: 【162†/english/monthly-revenue/2014】
+L1472: 
+L1473: September 10, 2014 (Wed)
+L1474: 
+L1475: Monthly Sales - August 2014
+L1476: 
+L1477: 【162†/english/monthly-revenue/2014】
+L1478: 
+L1479: August 08, 2014 (Fri)
+L1480: 
+L1481: Monthly Sales - July 2014
+L1482: 
+L1483: 【162†/english/monthly-revenue/2014】
+L1484: 
+L1485: July 16, 2014 (Wed)
+L1486: 2Q14 Results - Earnings Conference and Conference Call
+L1487: 
+L1488: 【164†/english/quarterly-results/2014/q2】
+L1489: 
+L1490: July 10, 2014 (Thu)
+L1491: 
+L1492: Monthly Sales - June 2014
+L1493: 
+L1494: 【162†/english/monthly-revenue/2014】
+L1495: 
+L1496: June 10, 2014 (Tue)
+L1497: 
+L1498: Monthly Sales - May 2014
+L1499: 
+L1500: 【162†/english/monthly-revenue/2014】
+L1501: 
+L1502: May 09, 2014 (Fri)
+L1503: 
+L1504: Monthly Sales - April 2014
+L1505: 
+L1506: 【162†/english/monthly-revenue/2014】
+L1507: 
+L1508: April 17, 2014 (Thu)
+L1509: 
+L1510: 1Q14 Results - Earnings Conference and Conference Call
+L1511: 
+L1512: 【165†/english/quarterly-results/2014/q1】
+L1513: 
+L1514: April 10, 2014 (Thu)
+L1515: Monthly Sales - March 2014
+L1516: 
+L1517: 【162†/english/monthly-revenue/2014】
+L1518: 
+L1519: March 10, 2014 (Mon)
+L1520: 
+L1521: Monthly Sales - February 2014
+L1522: 
+L1523: 【162†/english/monthly-revenue/2014】
+L1524: 
+L1525: February 10, 2014 (Mon)
+L1526: 
+L1527: Monthly Sales - January 2014
+L1528: 
+L1529: 【162†/english/monthly-revenue/2014】
+L1530: 
+L1531: January 16, 2014 (Thu)
+L1532: 
+L1533: 4Q13 Results - Earnings Conference and Conference Call
+L1534: 
+L1535: 【166†/english/quarterly-results/2013/q4】
+L1536: 
+L1537: January 10, 2014 (Fri)
+L1538: 
+L1539: Monthly Sales - December 2013
+L1540: 
+L1541: 【167†/english/monthly-revenue/2013】
+L1542: Important: This calendar is subject to change during the year as dates are adjusted.
+L1543: 
+L1544: 【168†TSMC-Online Online information and transaction for our customers†online.tsmc.com】
+L1545: 
+L1546: 【169†TSMC-Supply Online 360 The web-based portal for TSMC suppliers†supply.tsmc.com.tw】
+L1547: 
+L1548: 【87†Document Center Find more information about TSMC†www.tsmc.com】
+L1549: 
+L1550: Copyright© Taiwan Semiconductor Manufacturing Company Limited 2010-2026, All Rights Reserved.
+L1551: 
+L1552: Hyperlinked-Disclaimer
+L1553: You are now leaving our web site. The web site you wish to link to is owned or operated by an entity other than Taiwan Semiconductor Manufacturing Company, Ltd.. We do not control this third party web site.
+L1554: We are providing this link for your convenience only and we are not responsible for the availability of or the content located on or through this third party web site, the accuracy, completeness, timeliness, or legality of any information contained in this third party web site, and any opinions expressed therein, nor for any link contained in this third party web site.
+L1555: This third party web site is not investigated, monitored, or checked for accuracy, completeness, timeliness, or legality, by Taiwan Semiconductor Manufacturing Company, Ltd.. The link from our web site to this third party web site does not imply that we approve of, endorse, or recommend this third party web site. We expressly disclaim all warranties, express or implied, as to the accuracy, legality, reliability, timeliness, quality, or validity of any content on this third party web site.
+L1556: :
+L1557: 
+L1558: [Button: CONTINUE][Button: CLOSE]
+

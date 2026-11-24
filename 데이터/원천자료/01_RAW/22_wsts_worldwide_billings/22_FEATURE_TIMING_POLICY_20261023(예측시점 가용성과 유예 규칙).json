@@ -1,0 +1,28 @@
+{
+  "policy": "CURRENT_REVISED_HISTORY_NEAR_RELEASE_ASSUMPTION_V1",
+  "source_id": 22,
+  "raw_file": "C:\\fgi_pilot\\data\\raw\\22_wsts_worldwide_billings\\22_wsts_worldwide_billings_RAW_20110101_20260801.csv",
+  "raw_sha256": "d856f11158928bd6e4af52f3c80c5191a3c61b44ec1283a3fa7cba5404db667d",
+  "raw_files": [
+    {
+      "path": "C:\\fgi_pilot\\data\\raw\\22_wsts_worldwide_billings\\22_wsts_worldwide_billings_RAW_20110101_20260801.csv",
+      "sha256": "d856f11158928bd6e4af52f3c80c5191a3c61b44ec1283a3fa7cba5404db667d"
+    }
+  ],
+  "processing": {
+    "rule": "M+2 month day10 08:00ET",
+    "meaning": "다다음달10일08ET 사용경계 가정;원시월별WSTS의최초공개입증아님;SIA3MA날짜와동일시안함",
+    "old": "M+2 month day15",
+    "zone": "America/New_York",
+    "max_age_days": 120
+  },
+  "output_directory": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023",
+  "lineage_file": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023\\LINEAGE_09ET.csv",
+  "release_calendar": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023\\RELEASE_EVENT_CALENDAR.csv",
+  "current_revised_history": true,
+  "original_vintage_verified": false,
+  "no_new_model": true,
+  "korean_processing_note": "관측월의 다다음달 10일 08:00 ET를 공개 가능 경계로 가정함. 원시 WSTS 월별 매출의 최초 공개일은 미확인임. SIA 3개월 평균의 발표일을 그대로 적용한 것이 아님.",
+  "variable_dictionary": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023\\변수목록_RAW_계산식_공개규칙.csv",
+  "report": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023\\적용기준_핵심정리.md"
+}

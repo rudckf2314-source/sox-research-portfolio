@@ -1,0 +1,17 @@
+{
+  "status": "288_POLICIES_FORECASTS_SEALED_BEFORE_Y",
+  "training_cutoff": "2026-09-30",
+  "new_fit": 0,
+  "original_forecast_replays": 288,
+  "original_replay_days": 5,
+  "maximum_replay_error": 0.0,
+  "additional_days": 12,
+  "source32_existing_rules_preserved": true,
+  "new_selection": false,
+  "Y_read_for_inference": false,
+  "forecast_hashes": {
+    "CLASSIFICATION_FORECASTS_NO_Y.npz": "12a9a8ce13734f0e12f7b44ef18158eea306c1152835185d5f0219283f9267e5",
+    "REGRESSION_FORECASTS_NO_Y.npz": "3d88066659cc4e9a92a162d58e5320762e71bc033cfa3de7b5fbb0e22467ae44",
+    "SAVED_MODEL_REPLAY_AND_INFERENCE_LOG.csv": "21524b8223814df423b9d8c60e975dc16b386dbf5f1dc2468a6ef0c4f7a09826"
+  }
+}

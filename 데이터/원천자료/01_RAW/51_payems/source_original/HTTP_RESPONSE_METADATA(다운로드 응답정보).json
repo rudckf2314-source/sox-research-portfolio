@@ -1,0 +1,26 @@
+{
+  "request_url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS",
+  "response_url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS",
+  "http_status": 200,
+  "headers": {
+    "Last-Modified": "Fri, 02 Oct 2026 13:24:33 GMT",
+    "Server": "Apache",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "Content-Type": "application/csv",
+    "content-disposition": "attachment; filename=\"PAYEMS.csv\"",
+    "Content-Length": "18405",
+    "Cache-Control": "public, max-age=274",
+    "Expires": "Fri, 16 Oct 2026 06:32:40 GMT",
+    "Date": "Fri, 16 Oct 2026 06:28:06 GMT",
+    "Connection": "keep-alive",
+    "Alt-Svc": "h3=\":443\"; ma=93600",
+    "Strict-Transport-Security": "max-age=86400",
+    "X-location": "cfs",
+    "Set-Cookie": "_abck=96D2F3C0C7664FF9A5845E054554FF88~-1~YAAQPzVDFzS+MzuhAQAAeXplQxBid/cDVK97/I5RZ7hkPtPzD8D2WEgS052rE09TOQePxCsyMnuQBUSCyWM6caWwq98IMChf+R3d9tuZBc0wwwg4KcvUtK5hgwrS+00wy4E2L1rwOI8ueHSiUDKNEmITHr2baY7Fc6fX7CWKdJ56uohYbHoNhE1JsUim+rAjSZs5nEl6YCd2ODV36zUzbDVDv4bRHrf1zMe+IqjcAicKNReFaEaxDiTliAQrBxZZUjTp2JUg/kXVv9wojIhCevXcBLyseo0u0XnMUTx/uC7bW4OVvmiEEFL/cexrV3zcWOSU4aQsJIum2zaIr1r9YeZWmf/6EddszeS5tZoGY73mPEjV9bD6fytsibbo7UqJvC4jyaDKEYd4lK75YCmMq9xiWl+o3DA+FBJrBv2QMT5VEsQxVWmaNcemFAnW0Nm/j5HGgkdFSSca~-1~-1~-1~-1~-1; Domain=.stlouisfed.org; Path=/; Expires=Sat, 16 Oct 2027 06:28:06 GMT; Max-Age=31536000; Secure, bm_sz=E7D6618364B7D778FA0CA383E7233DBE~YAAQPzVDFzW+MzuhAQAAeXplQwG+MWVTVK7wwaXzxVK/k7nyjrvZkXx72f00tzjYa46WEOh6UP+KkkyEJnS7gwb1ehjtyWc6vCXsIhfp7ejpYgECRU7prHKKVlPb4p2I+G1MWx3MOLpsKqqWVWeWcBcHBOy7Lp4JIHAAKxDTt823b5WpHFXwdKl44wXp9jXEMWsm8u194QclI3ajVdxTGlAbdC+A3ZivsagcrsyDvYVu9thth7p0oITAXhSRVX5Hcf8JGS0rEImeEanJdnpo0lLJGMQDFfqeXomhod1g678oy79h9xAbNno/NNZvx3MGZpAZlp2vd/wNFfaJDrVmKDyu8joct4Bdjqy2VN2ndwJ0Gg==~3424579~3359031; Domain=.stlouisfed.org; Path=/; Expires=Fri, 16 Oct 2026 10:28:06 GMT; Max-Age=14400"
+  },
+  "retrieved_at_utc": "2026-10-16T06:28:06.512283+00:00",
+  "bytes": 18405,
+  "file": "source_archive\\phase0_raw_audit\\additional_academic_raw_collection\\download_cache\\51_payems\\PAYEMS.csv",
+  "sha256": "c8c429818ed73de6db985f4ff565d64bd2a5ba66a6b651b39373a1532924fc0e"
+}

@@ -1,0 +1,9 @@
+{
+  "current_sha256": "8806acc3c5c8f82d9d8bfabc07ecb8bf7d87c9a02ec733f3aff5de73f7f8ef5f",
+  "recorded_refresh_output_sha256": "ba7bf8fa6721a1d2f298cf068057f88b44038d85149d12c03fd78587fde219c8",
+  "hash_matches": false,
+  "raw_rows": 3970,
+  "non_session_rows": 0,
+  "status": "HOLD",
+  "delay_does_not_cure_provenance": true
+}

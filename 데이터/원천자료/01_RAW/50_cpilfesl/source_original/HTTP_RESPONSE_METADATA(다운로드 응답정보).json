@@ -1,0 +1,26 @@
+{
+  "request_url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPILFESL",
+  "response_url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPILFESL",
+  "http_status": 200,
+  "headers": {
+    "Last-Modified": "Wed, 14 Oct 2026 13:08:29 GMT",
+    "Content-Type": "application/csv",
+    "Server": "Apache",
+    "content-disposition": "attachment; filename=\"CPILFESL.csv\"",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "Content-Length": "15603",
+    "Cache-Control": "public, max-age=460",
+    "Expires": "Fri, 16 Oct 2026 06:34:21 GMT",
+    "Date": "Fri, 16 Oct 2026 06:26:41 GMT",
+    "Connection": "keep-alive",
+    "Alt-Svc": "h3=\":443\"; ma=93600",
+    "Strict-Transport-Security": "max-age=86400",
+    "X-location": "cfs",
+    "Set-Cookie": "_abck=5BD92F72B3A419A5E1F66D043BAFE5CE~-1~YAAQPzVDFz2TMzuhAQAAdi1kQxDwLFBwzS14An2vtUBqvliGXJBPOY7jYzWJVBCprbJnKFNbJCIK6Jt/m99fJLTvcEQy6tXXulWL3S1Bm+d3n+zjvDvrMJjkDWwGs4DKiHGpcuS6Rror/GXexu8ZAQVPyGuE7esYuN3KohT8W7WA2eUXTbFJhy/rP7XglnEh2Q+5DcKyiYbZhlAasdK12lIrqSUB/6sMNWZmzv7yx4bZsJb3S5x7meBtofDNexoKEXWvUDWcfsfKGJEF8xQ8cucnIEmLNvLDpSGU7b1eMyS4LgwseR9FhYxg8Jkg7IeWyPfMfZ/kAfNUJdbm13B+FO//0NPL3pJiMhx2OZpVEXlg5YR3WVarEDC1C3ehyHwsVCknqbi40aQw/gYE+ozh155l7NZWgIs5pAXXGi1+YiNOkHsktsfb4uMUuNguR/Uh+6QM6dhNZ7JU~-1~-1~-1~-1~-1; Domain=.stlouisfed.org; Path=/; Expires=Sat, 16 Oct 2027 06:26:41 GMT; Max-Age=31536000; Secure, bm_sz=AAB589B1FB16B39508ACC3FEFDC7C7B0~YAAQPzVDFz6TMzuhAQAAdy1kQwGThFrWpGxA4Wrd8GlHVkqWMsQBnP/VGMz9SiO1dSjJAAumvXcsjcu8S9BqkSmTOELiRcYXzvR4lY8++mQerPxNKtB7zJk+X0tlOmTOXoxZvthNgV7WsPlyhl00TCvVtkjfCmQXne9wui8aVl6aGAcDdAEVtxdPGSv9Nf8Ms486b7b/tcTS+bbuxn5i8cv/THAStb7r8dq+emWhK1B0D5cmziQyx9smo/CoZ9ce1izrtM6MJta44jD19rxRFkOoRTg7IQfHj6ZK0iW5iL/5Qn7CbTFzVvTsUSdLEd/0bqr2kgjnAuVatV/HC3Leb8yrC9dCOOie3ZZhPrjWQQaS5A==~3420995~3553073; Domain=.stlouisfed.org; Path=/; Expires=Fri, 16 Oct 2026 10:26:41 GMT; Max-Age=14400"
+  },
+  "retrieved_at_utc": "2026-10-16T06:26:41.254930+00:00",
+  "bytes": 15603,
+  "file": "source_archive\\phase0_raw_audit\\additional_academic_raw_collection\\download_cache\\50_cpilfesl\\CPILFESL.csv",
+  "sha256": "182058ceeb094cb2af1dfe7474553c50d779e3907c9472302d30c0d64ea147d0"
+}

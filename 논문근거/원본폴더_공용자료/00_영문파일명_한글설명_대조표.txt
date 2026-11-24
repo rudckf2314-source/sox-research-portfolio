@@ -1,0 +1,541 @@
+﻿SOX 논문 연구 파일 안내
+통합 평가기간 2024.01.02~2026.10.23 706거래일
+본문 표 그림 최종 수치대조 완료
+파일 경로
+00_영문파일명_한글설명_대조표.txt
+00_자료안내.docx
+01_논문초고\SOX_논문초안.docx
+01_논문초고\논문용_그림\4등급_주요변수기여.png
+01_논문초고\논문용_그림\관측최고_주요변수기여.png
+01_논문초고\논문용_그림\관측최고_혼동행렬.png
+01_논문초고\논문용_그림\기준모형_주요변수기여.png
+01_논문초고\논문용_그림\모형간_성능차이_신뢰구간.png
+01_논문초고\논문용_그림\연도별_방향정확도.png
+01_논문초고\논문용_그림\연도별_정확도_비상승판별.png
+01_논문초고\논문용_그림\월별누적학습_흐름도.png
+01_논문초고\논문용_그림\회귀_주요변수기여.png
+01_논문초고\학회별_초안\SOX_DCS형식_2쪽_초안.docx
+01_논문초고\학회별_초안\SOX_KIIT형식_5쪽_초안.docx
+02_연구요약\연구핵심요약.docx
+03_선행연구\선행연구_학술적차별점.docx
+04_핵심근거\01_핵심성능_기준비교.csv
+04_핵심근거\02_연도별성능.csv
+04_핵심근거\03_실제등급분포.csv
+04_핵심근거\04_성능차이_블록신뢰구간.csv
+04_핵심근거\05_절대성능_참고신뢰구간.csv
+04_핵심근거\06_동일알고리즘_변수추가효과90.csv
+04_핵심근거\07_월별방향성능.csv
+04_핵심근거\08_연도별안정성.png
+04_핵심근거\09_분류_변수중요도.csv
+04_핵심근거\10_회귀_변수중요도.csv
+04_핵심근거\11_16개조합_변수목록.csv
+04_핵심근거\12_사전선정_보정구간.csv
+04_핵심근거\변수중요도_검증.json
+04_핵심근거\변수중요도_핵심해석.docx
+04_핵심근거\수치대조_검증.json
+04_핵심근거\수치대조_점검항목.csv
+04_핵심근거\최종수치대조_보고서.docx
+04_핵심근거\핵심근거_읽는방법.docx
+05_전체실험결과\01_분류_이진_4등급\16개조합_관측최고_비교표.csv
+05_전체실험결과\01_분류_이진_4등급\ADDITIONAL_METRICS(추가 성능지표).csv
+05_전체실험결과\01_분류_이진_4등급\BANK16(16개 변수조합 정의).json
+05_전체실험결과\01_분류_이진_4등급\confirm_METRICS(후보 확인단계 성능).csv
+05_전체실험결과\01_분류_이진_4등급\confirm_WINDOW_METRICS(후보 확인단계 구간별 성능).csv
+05_전체실험결과\01_분류_이진_4등급\CONFUSION_MATRICES(혼동행렬).csv
+05_전체실험결과\01_분류_이진_4등급\DECISION_PRE2024(2024년 이전 후보 선정 기록).json
+05_전체실험결과\01_분류_이진_4등급\ENVIRONMENT(실행환경과 라이브러리).json
+05_전체실험결과\01_분류_이진_4등급\FINAL16_VARIABLE_COMBINATIONS(최종 16개 변수조합).csv
+05_전체실험결과\01_분류_이진_4등급\FROZEN_PLAN(사전 고정 실험계획).json
+05_전체실험결과\01_분류_이진_4등급\LATE_DAILY_RESULTS(2024~2026년 일별 예측결과).csv
+05_전체실험결과\01_분류_이진_4등급\late_METRICS(2024~2026년 전체 성능).csv
+05_전체실험결과\01_분류_이진_4등급\late_WINDOW_METRICS(2024~2026년 구간별 성능).csv
+05_전체실험결과\01_분류_이진_4등급\LATE_YEARLY_METRICS(2024~2026년 연도별 성능).csv
+05_전체실험결과\01_분류_이진_4등급\MASKS(변수 선택 조합 정의).json
+05_전체실험결과\01_분류_이진_4등급\PAIRED_BLOCK_BOOTSTRAP(모형간 성능차이 블록 신뢰구간).csv
+05_전체실험결과\01_분류_이진_4등급\PER_CLASS_METRICS(등급별 정밀도와 재현율).csv
+05_전체실험결과\01_분류_이진_4등급\PRIMARY_FROZEN_COMPARISONS(사전 선정모형 기준 비교).csv
+05_전체실험결과\01_분류_이진_4등급\screen_METRICS(초기 탐색단계 성능).csv
+05_전체실험결과\01_분류_이진_4등급\screen_WINDOW_METRICS(초기 탐색단계 구간별 성능).csv
+05_전체실험결과\01_분류_이진_4등급\VARIABLE_MASKS(조합별 변수 포함 목록).csv
+05_전체실험결과\01_분류_이진_4등급\공통16개_조합목록_사전고정.csv
+05_전체실험결과\02_회귀_당일수익률\ALL96_AND_BASELINES_METRICS(96개 회귀모형과 기준모형 성능).csv
+05_전체실험결과\02_회귀_당일수익률\BASELINE_METRICS(단순 기준모형 성능).csv
+05_전체실험결과\02_회귀_당일수익률\BEST_PER_MASK_RMSE_RANKING(변수조합별 최소오차 순위).csv
+05_전체실험결과\02_회귀_당일수익률\DAILY_RESULTS(일별 예측값과 실제값).csv
+05_전체실험결과\02_회귀_당일수익률\ENVIRONMENT(실행환경과 라이브러리).json
+05_전체실험결과\02_회귀_당일수익률\FROZEN_PLAN(사전 고정 실험계획).json
+05_전체실험결과\02_회귀_당일수익률\PAIRED_LOSS_BLOCK_BOOTSTRAP(회귀오차 차이 블록 신뢰구간).csv
+05_전체실험결과\02_회귀_당일수익률\RMSE_ALL96(96개 회귀모형 오차 비교그림).png
+05_전체실험결과\02_회귀_당일수익률\YEARLY_METRICS(연도별 성능).csv
+05_전체실험결과\10월23일까지_전체결과.xlsx
+05_전체실험결과\전체실험_설계와결과_안내.docx
+05_전체실험결과\통합평가_검증기록\DELIVERY_VERIFIED(전달자료 검증).json
+05_전체실험결과\통합평가_검증기록\FINAL_VERIFICATION(연장실험 최종검증).json
+05_전체실험결과\통합평가_검증기록\FORECAST_SEAL(정답 대조 전 예측 봉인).json
+05_전체실험결과\통합평가_검증기록\PROTECTED_INPUT_HASHES(기존 설정과 모형 해시).json
+05_전체실험결과\통합평가_검증기록\SAVED_MODEL_REPLAY_AND_INFERENCE_LOG(저장모형 재현과 추론 기록).csv
+05_전체실험결과\파일목록_SHA256.json
+06_RAW와변수\01_RAW\01_kodex_091160\01_kodex_091160_RAW_20110101_20261023(KODEX 반도체 ETF 원천자료).csv
+06_RAW와변수\01_RAW\02_sox\02_sox_RAW_20110101_20261023(필라델피아 반도체지수 원천자료).csv
+06_RAW와변수\01_RAW\03_usdkrw\03_usdkrw_RAW_20110101_20261016(원달러 환율 원천자료).csv
+06_RAW와변수\01_RAW\04_sp500\04_sp500_RAW_20110101_20261023(미국 S&P500 지수 원천자료).csv
+06_RAW와변수\01_RAW\05_nyse_high_low\05_nyse_high_low_RAW_20110101_20261023(뉴욕증시 신고가와 신저가 원천자료).csv
+06_RAW와변수\01_RAW\06_nyse_breadth\06_nyse_breadth_RAW_20110101_20261023(뉴욕증시 시장폭 원천자료).csv
+06_RAW와변수\01_RAW\07_cboe_put_call\07_cboe_put_call_RAW_20110101_20261023(CBOE 풋콜 비율 원천자료).csv
+06_RAW와변수\01_RAW\08_vix\08_vix_RAW_20110101_20261022(미국 변동성지수 원천자료).csv
+06_RAW와변수\01_RAW\09_ief\09_ief_RAW_20110101_20261023(미국 중기국채 ETF 원천자료).csv
+06_RAW와변수\01_RAW\10_hyg\10_hyg_RAW_20110101_20261023(미국 고수익채권 ETF 원천자료).csv
+06_RAW와변수\01_RAW\11_cnn_fgi\11_cnn_fgi_RAW_20110101_20261023(CNN 공포탐욕지수 원천자료).csv
+06_RAW와변수\01_RAW\12_ndx\12_ndx_RAW_20100101_20261023(나스닥100 지수 원천자료).csv
+06_RAW와변수\01_RAW\13_twii\13_twii_RAW_20100101_20261022(대만 가권지수 원천자료).csv
+06_RAW와변수\01_RAW\14_tsm\14_tsm_RAW_20100101_20261023(TSMC 미국 상장주식 원천자료).csv
+06_RAW와변수\01_RAW\15_dgs10\15_dgs10_RAW_20100101_20261022(미국 10년 국채금리 원천자료).csv
+06_RAW와변수\01_RAW\16_dgs2\16_dgs2_RAW_20100101_20261022(미국 2년 국채금리 원천자료).csv
+06_RAW와변수\01_RAW\17_dfii10\17_dfii10_RAW_20100101_20261022(미국 10년 실질금리 원천자료).csv
+06_RAW와변수\01_RAW\18_dtwexbgs\18_dtwexbgs_RAW_20100101_20261016(미국 광의 달러지수 원천자료).csv
+06_RAW와변수\01_RAW\19_nfci\19_nfci_RAW_20100101_20261016(시카고 연준 금융여건지수 원천자료).csv
+06_RAW와변수\01_RAW\20_ipg3344s\20_ipg3344s_RAW_20100101_20260901(미국 반도체 산업생산 원천자료).csv
+06_RAW와변수\01_RAW\21_a34sno\21_a34sno_RAW_20100101_20260801(미국 반도체 관련 신규주문 원천자료).csv
+06_RAW와변수\01_RAW\22_wsts_worldwide_billings\22_FEATURE_TIMING_POLICY_20261023(예측시점 가용성과 유예 규칙).docx
+06_RAW와변수\01_RAW\22_wsts_worldwide_billings\22_FEATURE_TIMING_POLICY_20261023(예측시점 가용성과 유예 규칙).json
+06_RAW와변수\01_RAW\22_wsts_worldwide_billings\22_wsts_worldwide_billings_RAW_20110101_20260801(세계 반도체 판매액 원천자료).csv
+06_RAW와변수\01_RAW\22_wsts_worldwide_billings\source_original\WSTS-Historical-Billings-Report-Aug_2026(세계 반도체 판매액 원본).xlsx
+06_RAW와변수\01_RAW\23_twse_semiconductor_index\23_twse_semiconductor_index_RAW_20110101_20261022(대만 반도체지수 원천자료).csv
+06_RAW와변수\01_RAW\24_customs_semiconductor_trade\24_customs_semiconductor_trade_RAW_20110101_20260901(한국 반도체 수출입 원천자료).csv
+06_RAW와변수\01_RAW\24_customs_semiconductor_trade\24_FEATURE_TIMING_POLICY_20261023(예측시점 가용성과 유예 규칙).docx
+06_RAW와변수\01_RAW\24_customs_semiconductor_trade\24_FEATURE_TIMING_POLICY_20261023(예측시점 가용성과 유예 규칙).json
+06_RAW와변수\01_RAW\25_tsmc_monthly_revenue\25_FEATURE_TIMING_POLICY_20261023(예측시점 가용성과 유예 규칙).docx
+06_RAW와변수\01_RAW\25_tsmc_monthly_revenue\25_FEATURE_TIMING_POLICY_20261023(예측시점 가용성과 유예 규칙).json
+06_RAW와변수\01_RAW\25_tsmc_monthly_revenue\25_tsmc_monthly_revenue_RAW_20060401_20260901(TSMC 월별매출 원천자료).csv
+06_RAW와변수\01_RAW\25_tsmc_monthly_revenue\source_original\Historical_Monthly_Revenue September(TSMC 과거 월별매출 원본).xlsx
+06_RAW와변수\01_RAW\27_vxncls\27_vxncls_RAW_20010202_20261022(나스닥100 변동성지수 원천자료).csv
+06_RAW와변수\01_RAW\27_vxncls\source_original\VXNCLS(나스닥100 변동성지수).csv
+06_RAW와변수\01_RAW\28_stockcharts_cpce\28_stockcharts_cpce_RAW_20031017_20261023(개별주식 풋콜 비율 원천자료).csv
+06_RAW와변수\01_RAW\28_stockcharts_cpce\source_original\_CPCE(개별주식 풋콜 비율).csv
+06_RAW와변수\01_RAW\29_stockcharts_cpci\29_stockcharts_cpci_RAW_20031017_20261023(지수옵션 풋콜 비율 원천자료).csv
+06_RAW와변수\01_RAW\29_stockcharts_cpci\source_original\_CPCI(지수옵션 풋콜 비율).csv
+06_RAW와변수\01_RAW\30_stockcharts_bpspx\30_stockcharts_bpspx_RAW_19960111_20261023(S&P500 강세비율 원천자료).csv
+06_RAW와변수\01_RAW\30_stockcharts_bpspx\source_original\_BPSPX(S&P500 강세비율).csv
+06_RAW와변수\01_RAW\31_stockcharts_ndxa200r\31_stockcharts_ndxa200r_RAW_20011228_20261023(나스닥100 200일선 상회비율 원천자료).csv
+06_RAW와변수\01_RAW\31_stockcharts_ndxa200r\source_original\_NDXA200R(나스닥100 200일선 상회비율).csv
+06_RAW와변수\01_RAW\32_taiwan_electronics_export_orders\32_FEATURE_TIMING_POLICY_20261023(예측시점 가용성과 유예 규칙).docx
+06_RAW와변수\01_RAW\32_taiwan_electronics_export_orders\32_FEATURE_TIMING_POLICY_20261023(예측시점 가용성과 유예 규칙).json
+06_RAW와변수\01_RAW\32_taiwan_electronics_export_orders\32_taiwan_electronics_export_orders_RAW_19840101_20260701(대만 전자제품 수출주문 원천자료).csv
+06_RAW와변수\01_RAW\32_taiwan_electronics_export_orders\source_original\經濟部統計處_外銷訂單_電子產品(대만 전자제품 수출주문 원본).csv
+06_RAW와변수\01_RAW\33_fomc_calendar\33_fomc_calendar_RAW_20100101_20261016(연준 통화정책 회의일정 원천자료).csv
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\fomccalendars_original(연준 통화정책 회의일정 원문).html
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\fomchistorical2010_original(연준 연도별 통화정책 자료 원문).html
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\fomchistorical2011_original(연준 연도별 통화정책 자료 원문).html
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\fomchistorical2012_original(연준 연도별 통화정책 자료 원문).html
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\fomchistorical2013_original(연준 연도별 통화정책 자료 원문).html
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\fomchistorical2014_original(연준 연도별 통화정책 자료 원문).html
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\fomchistorical2015_original(연준 연도별 통화정책 자료 원문).html
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\fomchistorical2016_original(연준 연도별 통화정책 자료 원문).html
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\fomchistorical2017_original(연준 연도별 통화정책 자료 원문).html
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\fomchistorical2018_original(연준 연도별 통화정책 자료 원문).html
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\fomchistorical2019_original(연준 연도별 통화정책 자료 원문).html
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\fomchistorical2020_original(연준 연도별 통화정책 자료 원문).html
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\20100127a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\20100316a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\20100428a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\20100509a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\20100623a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\20100810a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\20100921a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\20101103a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\20101214a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20110126a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20110315a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20110427a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20110622a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20110809a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20110921a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20111102a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20111213a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20120125a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20120313a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20120425a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20120620a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20120801a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20120913a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20121024a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20121212a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20130130a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20130320a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20130501a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20130619a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20130731a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20130918a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20131030a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20131218a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20140129a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20140319a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20140430a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20140618a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20140730a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20140917a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20141029a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20141217a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20150128a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20150318a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20150429a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20150617a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20150729a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20150917a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20151028a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20151216a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20160127a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20160316a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20160427a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20160615a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20160727a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20160921a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20161102a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20161214a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20170201a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20170315a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20170503a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20170614a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20170726a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20170920a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20171101a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20171213a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20180131a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20180321a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20180502a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20180613a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20180801a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20180926a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20181108a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20181219a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20190130a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20190320a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20190501a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20190619a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20190731a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20190918a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20191011a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20191030a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20191211a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20200129a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20200303a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20200315a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20200319b(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20200323a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20200331a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20200429a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20200610a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20200729a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20200827a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20200916a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20201105a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20201216a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20210127a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20210317a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20210428a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20210616a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20210728a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20210922a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20211103a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20211215a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20220126a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20220316a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20220504a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20220615a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20220727a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20220921a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20221102a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20221214a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20230201a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20230322a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20230503a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20230614a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20230726a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20230920a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20231101a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20231213a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20240131a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20240320a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20240501a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20240612a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20240731a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20240918a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20241107a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20241218a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20250129a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20250319a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20250507a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20250618a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20250730a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20250822a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20250917a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20251029a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20251210a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20260128a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20260318a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20260429a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20260617a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20260729a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\33_fomc_calendar\source_original\statements\monetary20260916a(연준 통화정책 발표문 원문).htm
+06_RAW와변수\01_RAW\36_aaii_sentiment\36_aaii_sentiment_RAW_19870626_20261022(미국 개인투자자 심리조사 원천자료).csv
+06_RAW와변수\01_RAW\36_aaii_sentiment\36_FEATURE_TIMING_POLICY_20261023(예측시점 가용성과 유예 규칙).docx
+06_RAW와변수\01_RAW\36_aaii_sentiment\36_FEATURE_TIMING_POLICY_20261023(예측시점 가용성과 유예 규칙).json
+06_RAW와변수\01_RAW\36_aaii_sentiment\SOURCE_METADATA(출처와 수집정보).json
+06_RAW와변수\01_RAW\36_aaii_sentiment\source_original\sentiment(미국 개인투자자 심리조사 원본).xls
+06_RAW와변수\01_RAW\37_taiwan_ic_exports\37_FEATURE_TIMING_POLICY_20261023(예측시점 가용성과 유예 규칙).docx
+06_RAW와변수\01_RAW\37_taiwan_ic_exports\37_FEATURE_TIMING_POLICY_20261023(예측시점 가용성과 유예 규칙).json
+06_RAW와변수\01_RAW\37_taiwan_ic_exports\37_taiwan_ic_exports_RAW_201101_202609(대만 집적회로 수출 원천자료).csv
+06_RAW와변수\01_RAW\37_taiwan_ic_exports\converted_parts\FSC3030R_11,12_MONTHLY(대만 집적회로 수출 월별자료).csv
+06_RAW와변수\01_RAW\37_taiwan_ic_exports\converted_parts\FSC3030R_13,14_MONTHLY(대만 집적회로 수출 월별자료).csv
+06_RAW와변수\01_RAW\37_taiwan_ic_exports\converted_parts\FSC3030R_15,16_MONTHLY(대만 집적회로 수출 월별자료).csv
+06_RAW와변수\01_RAW\37_taiwan_ic_exports\converted_parts\FSC3030R_17,18_MONTHLY(대만 집적회로 수출 월별자료).csv
+06_RAW와변수\01_RAW\37_taiwan_ic_exports\converted_parts\FSC3030R_19,20_MONTHLY(대만 집적회로 수출 월별자료).csv
+06_RAW와변수\01_RAW\37_taiwan_ic_exports\converted_parts\FSC3030R_21,22_MONTHLY(대만 집적회로 수출 월별자료).csv
+06_RAW와변수\01_RAW\37_taiwan_ic_exports\converted_parts\FSC3030R_23,24_MONTHLY(대만 집적회로 수출 월별자료).csv
+06_RAW와변수\01_RAW\37_taiwan_ic_exports\converted_parts\FSC3030R_25,26_MONTHLY(대만 집적회로 수출 월별자료).csv
+06_RAW와변수\01_RAW\37_taiwan_ic_exports\SOURCE_METADATA(출처와 수집정보).json
+06_RAW와변수\01_RAW\37_taiwan_ic_exports\source_original\FSC3030R_11,12(대만 집적회로 수출 통계원본).xlsx
+06_RAW와변수\01_RAW\37_taiwan_ic_exports\source_original\FSC3030R_13,14(대만 집적회로 수출 통계원본).xlsx
+06_RAW와변수\01_RAW\37_taiwan_ic_exports\source_original\FSC3030R_15,16(대만 집적회로 수출 통계원본).xlsx
+06_RAW와변수\01_RAW\37_taiwan_ic_exports\source_original\FSC3030R_17,18(대만 집적회로 수출 통계원본).xlsx
+06_RAW와변수\01_RAW\37_taiwan_ic_exports\source_original\FSC3030R_19,20(대만 집적회로 수출 통계원본).xlsx
+06_RAW와변수\01_RAW\37_taiwan_ic_exports\source_original\FSC3030R_21,22(대만 집적회로 수출 통계원본).xlsx
+06_RAW와변수\01_RAW\37_taiwan_ic_exports\source_original\FSC3030R_23,24(대만 집적회로 수출 통계원본).xlsx
+06_RAW와변수\01_RAW\37_taiwan_ic_exports\source_original\FSC3030R_25,26(대만 집적회로 수출 통계원본).xlsx
+06_RAW와변수\01_RAW\40_stockcharts_nymo\40_stockcharts_nymo_RAW_19980603_20261023(맥클레런 시장폭 오실레이터 원천자료).csv
+06_RAW와변수\01_RAW\40_stockcharts_nymo\SOURCE_METADATA(출처와 수집정보).json
+06_RAW와변수\01_RAW\40_stockcharts_nymo\source_original\_NYMO(맥클레런 시장폭 오실레이터).csv
+06_RAW와변수\01_RAW\41_stockcharts_nysi\41_stockcharts_nysi_RAW_19980603_20261023(맥클레런 시장폭 누적지수 원천자료).csv
+06_RAW와변수\01_RAW\41_stockcharts_nysi\SOURCE_METADATA(출처와 수집정보).json
+06_RAW와변수\01_RAW\41_stockcharts_nysi\source_original\_NYSI(맥클레런 시장폭 누적지수).csv
+06_RAW와변수\01_RAW\42_nasdaqesox_fred\42_nasdaqesox_fred_RAW_20211109_20261023(FRED 제공 SOX 지수 원천자료).csv
+06_RAW와변수\01_RAW\42_nasdaqesox_fred\SOURCE_METADATA(출처와 수집정보).json
+06_RAW와변수\01_RAW\42_nasdaqesox_fred\source_original\NASDAQESOX(FRED 제공 SOX 지수).csv
+06_RAW와변수\01_RAW\43_ff49_industry_daily\43_FEATURE_TIMING_POLICY_20261023(예측시점 가용성과 유예 규칙).docx
+06_RAW와변수\01_RAW\43_ff49_industry_daily\43_FEATURE_TIMING_POLICY_20261023(예측시점 가용성과 유예 규칙).json
+06_RAW와변수\01_RAW\43_ff49_industry_daily\43_ff49_industry_daily_EW_RAW_20100104_20260831(프렌치 49개 산업 일별수익률 동일가중 원천자료).csv
+06_RAW와변수\01_RAW\43_ff49_industry_daily\43_ff49_industry_daily_VW_RAW_20100104_20260831(프렌치 49개 산업 일별수익률 시가총액가중 원천자료).csv
+06_RAW와변수\01_RAW\43_ff49_industry_daily\43_FRENCH_CONDITIONAL_EXPERIMENT_20261023(프렌치 조건부 사용 실험규칙).json
+06_RAW와변수\01_RAW\43_ff49_industry_daily\RAW_METADATA(원천자료 수집정보).json
+06_RAW와변수\01_RAW\43_ff49_industry_daily\source_original\49_Industry_Portfolios_Daily(프렌치 49개 산업 일별수익률 원본).csv
+06_RAW와변수\01_RAW\43_ff49_industry_daily\source_original\49_Industry_Portfolios_daily_CSV(프렌치 49개 산업 일별수익률 원본압축).zip
+06_RAW와변수\01_RAW\43_ff49_industry_daily\source_original\HTTP_RESPONSE_METADATA(다운로드 응답정보).json
+06_RAW와변수\01_RAW\44_ff5_daily\44_FEATURE_TIMING_POLICY_20261023(예측시점 가용성과 유예 규칙).docx
+06_RAW와변수\01_RAW\44_ff5_daily\44_FEATURE_TIMING_POLICY_20261023(예측시점 가용성과 유예 규칙).json
+06_RAW와변수\01_RAW\44_ff5_daily\44_ff5_daily_RAW_20100104_20260831(프렌치 5요인 일별수익률 원천자료).csv
+06_RAW와변수\01_RAW\44_ff5_daily\44_FRENCH_CONDITIONAL_EXPERIMENT_20261023(프렌치 조건부 사용 실험규칙).json
+06_RAW와변수\01_RAW\44_ff5_daily\RAW_METADATA(원천자료 수집정보).json
+06_RAW와변수\01_RAW\44_ff5_daily\source_original\F-F_Research_Data_5_Factors_2x3_daily(프렌치 5요인 일별자료 원본).csv
+06_RAW와변수\01_RAW\44_ff5_daily\source_original\F-F_Research_Data_5_Factors_2x3_daily_CSV(프렌치 5요인 일별자료 원본압축).zip
+06_RAW와변수\01_RAW\44_ff5_daily\source_original\HTTP_RESPONSE_METADATA(다운로드 응답정보).json
+06_RAW와변수\01_RAW\45_ff_momentum_daily\45_FEATURE_TIMING_POLICY_20261023(예측시점 가용성과 유예 규칙).docx
+06_RAW와변수\01_RAW\45_ff_momentum_daily\45_FEATURE_TIMING_POLICY_20261023(예측시점 가용성과 유예 규칙).json
+06_RAW와변수\01_RAW\45_ff_momentum_daily\45_ff_momentum_daily_RAW_20100104_20260831(프렌치 모멘텀 일별수익률 원천자료).csv
+06_RAW와변수\01_RAW\45_ff_momentum_daily\45_FRENCH_CONDITIONAL_EXPERIMENT_20261023(프렌치 조건부 사용 실험규칙).json
+06_RAW와변수\01_RAW\45_ff_momentum_daily\RAW_METADATA(원천자료 수집정보).json
+06_RAW와변수\01_RAW\45_ff_momentum_daily\source_original\F-F_Momentum_Factor_daily(프렌치 모멘텀 일별자료 원본).csv
+06_RAW와변수\01_RAW\45_ff_momentum_daily\source_original\F-F_Momentum_Factor_daily_CSV(프렌치 모멘텀 일별자료 원본압축).zip
+06_RAW와변수\01_RAW\45_ff_momentum_daily\source_original\HTTP_RESPONSE_METADATA(다운로드 응답정보).json
+06_RAW와변수\01_RAW\46_soxx\46_soxx_RAW_20100104_20261023(SOXX 반도체 ETF 원천자료).csv
+06_RAW와변수\01_RAW\46_soxx\actions\SOXX_CORPORATE_ACTIONS(배당과 주식분할 이력).csv
+06_RAW와변수\01_RAW\46_soxx\RAW_METADATA(원천자료 수집정보).json
+06_RAW와변수\01_RAW\46_soxx\source_original\SOXX_CHART_HTTP_001(야후금융 시세 응답원본).json
+06_RAW와변수\01_RAW\46_soxx\source_original\SOXX_CHART_HTTP_002(야후금융 시세 응답원본).json
+06_RAW와변수\01_RAW\46_soxx\source_original\SOXX_YFINANCE_RETURN(야후금융 시세 수집결과).csv
+06_RAW와변수\01_RAW\46_soxx\source_original\YFINANCE_FETCH_METADATA(야후금융 수집정보).json
+06_RAW와변수\01_RAW\47_smh\47_smh_RAW_20100104_20261023(SMH 반도체 ETF 원천자료).csv
+06_RAW와변수\01_RAW\47_smh\actions\SMH_CORPORATE_ACTIONS(배당과 주식분할 이력).csv
+06_RAW와변수\01_RAW\47_smh\RAW_METADATA(원천자료 수집정보).json
+06_RAW와변수\01_RAW\47_smh\source_original\SMH_CHART_HTTP_001(야후금융 시세 응답원본).json
+06_RAW와변수\01_RAW\47_smh\source_original\SMH_CHART_HTTP_002(야후금융 시세 응답원본).json
+06_RAW와변수\01_RAW\47_smh\source_original\SMH_YFINANCE_RETURN(야후금융 시세 수집결과).csv
+06_RAW와변수\01_RAW\47_smh\source_original\YFINANCE_FETCH_METADATA(야후금융 수집정보).json
+06_RAW와변수\01_RAW\48_icsa\48_icsa_RAW_20100102_20261017(미국 신규 실업수당 청구 원천자료).csv
+06_RAW와변수\01_RAW\48_icsa\RAW_METADATA(원천자료 수집정보).json
+06_RAW와변수\01_RAW\48_icsa\source_original\HTTP_RESPONSE_METADATA(다운로드 응답정보).json
+06_RAW와변수\01_RAW\48_icsa\source_original\ICSA(미국 신규 실업수당 청구).csv
+06_RAW와변수\01_RAW\49_cpiaucsl\49_cpiaucsl_RAW_20100101_20260901(미국 소비자물가지수 원천자료).csv
+06_RAW와변수\01_RAW\49_cpiaucsl\RAW_METADATA(원천자료 수집정보).json
+06_RAW와변수\01_RAW\49_cpiaucsl\source_original\CPIAUCSL(미국 소비자물가지수).csv
+06_RAW와변수\01_RAW\49_cpiaucsl\source_original\HTTP_RESPONSE_METADATA(다운로드 응답정보).json
+06_RAW와변수\01_RAW\50_cpilfesl\50_cpilfesl_RAW_20100101_20260901(미국 근원 소비자물가지수 원천자료).csv
+06_RAW와변수\01_RAW\50_cpilfesl\RAW_METADATA(원천자료 수집정보).json
+06_RAW와변수\01_RAW\50_cpilfesl\source_original\CPILFESL(미국 근원 소비자물가지수).csv
+06_RAW와변수\01_RAW\50_cpilfesl\source_original\HTTP_RESPONSE_METADATA(다운로드 응답정보).json
+06_RAW와변수\01_RAW\51_payems\51_payems_RAW_20100101_20260901(미국 비농업 취업자수 원천자료).csv
+06_RAW와변수\01_RAW\51_payems\RAW_METADATA(원천자료 수집정보).json
+06_RAW와변수\01_RAW\51_payems\source_original\HTTP_RESPONSE_METADATA(다운로드 응답정보).json
+06_RAW와변수\01_RAW\51_payems\source_original\PAYEMS(미국 비농업 취업자수).csv
+06_RAW와변수\01_RAW\52_unrate\52_unrate_RAW_20100101_20260901(미국 실업률 원천자료).csv
+06_RAW와변수\01_RAW\52_unrate\RAW_METADATA(원천자료 수집정보).json
+06_RAW와변수\01_RAW\52_unrate\source_original\HTTP_RESPONSE_METADATA(다운로드 응답정보).json
+06_RAW와변수\01_RAW\52_unrate\source_original\UNRATE(미국 실업률).csv
+06_RAW와변수\01_RAW\_derived_sox_rsi14_v1_20261020\DERIVATION_METADATA(파생지표 계산정보).json
+06_RAW와변수\01_RAW\_derived_sox_rsi14_v1_20261020\README(자료 사용 안내).docx
+06_RAW와변수\01_RAW\_derived_sox_rsi14_v1_20261020\SOX_RSI14_WILDER_DERIVED(SOX 14일 상대강도지수).csv
+06_RAW와변수\01_RAW\RAW_파일목록.csv
+06_RAW와변수\02_변수데이터\French_A_420_예측시점정렬_NO_Y.csv
+06_RAW와변수\02_변수데이터\French_B_420_예측시점정렬_NO_Y.csv
+06_RAW와변수\02_변수데이터\X216_예측시점정렬_NO_Y.csv
+06_RAW와변수\02_변수데이터\변수별_기간_결측목록.csv
+06_RAW와변수\03_Y\정답_수익률_이진_4등급.csv
+06_RAW와변수\04_설명_조합\16개조합_후보변수목록.csv
+06_RAW와변수\04_설명_조합\ATR_밴드_시점정렬.csv
+06_RAW와변수\04_설명_조합\BANK16(16개 변수조합 정의).json
+06_RAW와변수\04_설명_조합\FGI등_변수사전.csv
+06_RAW와변수\04_설명_조합\French420_변수사전.csv
+06_RAW와변수\04_설명_조합\French_공개일유예가정.csv
+06_RAW와변수\04_설명_조합\French_예측일별관측일_정렬.csv
+06_RAW와변수\04_설명_조합\GROUPS(변수군 구성).json
+06_RAW와변수\04_설명_조합\기존55_변수사전.csv
+06_RAW와변수\04_설명_조합\추가변수_RAW_계산식_공개규칙.csv
+06_RAW와변수\04_설명_조합\추가변수_공개달력.csv
+06_RAW와변수\04_설명_조합\추가변수_시점정렬_설명.docx
+06_RAW와변수\05_실제모델입력_월별\2024-01\FEATURES_16개조합.json
+06_RAW와변수\05_실제모델입력_월별\2024-01\X_eval(평가기간 입력변수).csv
+06_RAW와변수\05_실제모델입력_월별\2024-01\X_train_X_eval(학습과 평가 입력배열).npz
+06_RAW와변수\05_실제모델입력_월별\2024-02\FEATURES_16개조합.json
+06_RAW와변수\05_실제모델입력_월별\2024-02\X_eval(평가기간 입력변수).csv
+06_RAW와변수\05_실제모델입력_월별\2024-02\X_train_X_eval(학습과 평가 입력배열).npz
+06_RAW와변수\05_실제모델입력_월별\2024-03\FEATURES_16개조합.json
+06_RAW와변수\05_실제모델입력_월별\2024-03\X_eval(평가기간 입력변수).csv
+06_RAW와변수\05_실제모델입력_월별\2024-03\X_train_X_eval(학습과 평가 입력배열).npz
+06_RAW와변수\05_실제모델입력_월별\2024-04\FEATURES_16개조합.json
+06_RAW와변수\05_실제모델입력_월별\2024-04\X_eval(평가기간 입력변수).csv
+06_RAW와변수\05_실제모델입력_월별\2024-04\X_train_X_eval(학습과 평가 입력배열).npz
+06_RAW와변수\05_실제모델입력_월별\2024-05\FEATURES_16개조합.json
+06_RAW와변수\05_실제모델입력_월별\2024-05\X_eval(평가기간 입력변수).csv
+06_RAW와변수\05_실제모델입력_월별\2024-05\X_train_X_eval(학습과 평가 입력배열).npz
+06_RAW와변수\05_실제모델입력_월별\2024-06\FEATURES_16개조합.json
+06_RAW와변수\05_실제모델입력_월별\2024-06\X_eval(평가기간 입력변수).csv
+06_RAW와변수\05_실제모델입력_월별\2024-06\X_train_X_eval(학습과 평가 입력배열).npz
+06_RAW와변수\05_실제모델입력_월별\2024-07\FEATURES_16개조합.json
+06_RAW와변수\05_실제모델입력_월별\2024-07\X_eval(평가기간 입력변수).csv
+06_RAW와변수\05_실제모델입력_월별\2024-07\X_train_X_eval(학습과 평가 입력배열).npz
+06_RAW와변수\05_실제모델입력_월별\2024-08\FEATURES_16개조합.json
+06_RAW와변수\05_실제모델입력_월별\2024-08\X_eval(평가기간 입력변수).csv
+06_RAW와변수\05_실제모델입력_월별\2024-08\X_train_X_eval(학습과 평가 입력배열).npz
+06_RAW와변수\05_실제모델입력_월별\2024-09\FEATURES_16개조합.json
+06_RAW와변수\05_실제모델입력_월별\2024-09\X_eval(평가기간 입력변수).csv
+06_RAW와변수\05_실제모델입력_월별\2024-09\X_train_X_eval(학습과 평가 입력배열).npz
+06_RAW와변수\05_실제모델입력_월별\2024-10\FEATURES_16개조합.json
+06_RAW와변수\05_실제모델입력_월별\2024-10\X_eval(평가기간 입력변수).csv
+06_RAW와변수\05_실제모델입력_월별\2024-10\X_train_X_eval(학습과 평가 입력배열).npz
+06_RAW와변수\05_실제모델입력_월별\2024-11\FEATURES_16개조합.json
+06_RAW와변수\05_실제모델입력_월별\2024-11\X_eval(평가기간 입력변수).csv
+06_RAW와변수\05_실제모델입력_월별\2024-11\X_train_X_eval(학습과 평가 입력배열).npz
+06_RAW와변수\05_실제모델입력_월별\2024-12\FEATURES_16개조합.json
+06_RAW와변수\05_실제모델입력_월별\2024-12\X_eval(평가기간 입력변수).csv
+06_RAW와변수\05_실제모델입력_월별\2024-12\X_train_X_eval(학습과 평가 입력배열).npz
+06_RAW와변수\05_실제모델입력_월별\2025-01\FEATURES_16개조합.json
+06_RAW와변수\05_실제모델입력_월별\2025-01\X_eval(평가기간 입력변수).csv
+06_RAW와변수\05_실제모델입력_월별\2025-01\X_train_X_eval(학습과 평가 입력배열).npz
+06_RAW와변수\05_실제모델입력_월별\2025-02\FEATURES_16개조합.json
+06_RAW와변수\05_실제모델입력_월별\2025-02\X_eval(평가기간 입력변수).csv
+06_RAW와변수\05_실제모델입력_월별\2025-02\X_train_X_eval(학습과 평가 입력배열).npz
+06_RAW와변수\05_실제모델입력_월별\2025-03\FEATURES_16개조합.json
+06_RAW와변수\05_실제모델입력_월별\2025-03\X_eval(평가기간 입력변수).csv
+06_RAW와변수\05_실제모델입력_월별\2025-03\X_train_X_eval(학습과 평가 입력배열).npz
+06_RAW와변수\05_실제모델입력_월별\2025-04\FEATURES_16개조합.json
+06_RAW와변수\05_실제모델입력_월별\2025-04\X_eval(평가기간 입력변수).csv
+06_RAW와변수\05_실제모델입력_월별\2025-04\X_train_X_eval(학습과 평가 입력배열).npz
+06_RAW와변수\05_실제모델입력_월별\2025-05\FEATURES_16개조합.json
+06_RAW와변수\05_실제모델입력_월별\2025-05\X_eval(평가기간 입력변수).csv
+06_RAW와변수\05_실제모델입력_월별\2025-05\X_train_X_eval(학습과 평가 입력배열).npz
+06_RAW와변수\05_실제모델입력_월별\2025-06\FEATURES_16개조합.json
+06_RAW와변수\05_실제모델입력_월별\2025-06\X_eval(평가기간 입력변수).csv
+06_RAW와변수\05_실제모델입력_월별\2025-06\X_train_X_eval(학습과 평가 입력배열).npz
+06_RAW와변수\05_실제모델입력_월별\2025-07\FEATURES_16개조합.json
+06_RAW와변수\05_실제모델입력_월별\2025-07\X_eval(평가기간 입력변수).csv
+06_RAW와변수\05_실제모델입력_월별\2025-07\X_train_X_eval(학습과 평가 입력배열).npz
+06_RAW와변수\05_실제모델입력_월별\2025-08\FEATURES_16개조합.json
+06_RAW와변수\05_실제모델입력_월별\2025-08\X_eval(평가기간 입력변수).csv
+06_RAW와변수\05_실제모델입력_월별\2025-08\X_train_X_eval(학습과 평가 입력배열).npz
+06_RAW와변수\05_실제모델입력_월별\2025-09\FEATURES_16개조합.json
+06_RAW와변수\05_실제모델입력_월별\2025-09\X_eval(평가기간 입력변수).csv
+06_RAW와변수\05_실제모델입력_월별\2025-09\X_train_X_eval(학습과 평가 입력배열).npz
+06_RAW와변수\05_실제모델입력_월별\2025-10\FEATURES_16개조합.json
+06_RAW와변수\05_실제모델입력_월별\2025-10\X_eval(평가기간 입력변수).csv
+06_RAW와변수\05_실제모델입력_월별\2025-10\X_train_X_eval(학습과 평가 입력배열).npz
+06_RAW와변수\05_실제모델입력_월별\2025-11\FEATURES_16개조합.json
+06_RAW와변수\05_실제모델입력_월별\2025-11\X_eval(평가기간 입력변수).csv
+06_RAW와변수\05_실제모델입력_월별\2025-11\X_train_X_eval(학습과 평가 입력배열).npz
+06_RAW와변수\05_실제모델입력_월별\2025-12\FEATURES_16개조합.json
+06_RAW와변수\05_실제모델입력_월별\2025-12\X_eval(평가기간 입력변수).csv
+06_RAW와변수\05_실제모델입력_월별\2025-12\X_train_X_eval(학습과 평가 입력배열).npz
+06_RAW와변수\05_실제모델입력_월별\2026-01\FEATURES_16개조합.json
+06_RAW와변수\05_실제모델입력_월별\2026-01\X_eval(평가기간 입력변수).csv
+06_RAW와변수\05_실제모델입력_월별\2026-01\X_train_X_eval(학습과 평가 입력배열).npz
+06_RAW와변수\05_실제모델입력_월별\2026-02\FEATURES_16개조합.json
+06_RAW와변수\05_실제모델입력_월별\2026-02\X_eval(평가기간 입력변수).csv
+06_RAW와변수\05_실제모델입력_월별\2026-02\X_train_X_eval(학습과 평가 입력배열).npz
+06_RAW와변수\05_실제모델입력_월별\2026-03\FEATURES_16개조합.json
+06_RAW와변수\05_실제모델입력_월별\2026-03\X_eval(평가기간 입력변수).csv
+06_RAW와변수\05_실제모델입력_월별\2026-03\X_train_X_eval(학습과 평가 입력배열).npz
+06_RAW와변수\05_실제모델입력_월별\2026-04\FEATURES_16개조합.json
+06_RAW와변수\05_실제모델입력_월별\2026-04\X_eval(평가기간 입력변수).csv
+06_RAW와변수\05_실제모델입력_월별\2026-04\X_train_X_eval(학습과 평가 입력배열).npz
+06_RAW와변수\05_실제모델입력_월별\2026-05\FEATURES_16개조합.json
+06_RAW와변수\05_실제모델입력_월별\2026-05\X_eval(평가기간 입력변수).csv
+06_RAW와변수\05_실제모델입력_월별\2026-05\X_train_X_eval(학습과 평가 입력배열).npz
+06_RAW와변수\05_실제모델입력_월별\2026-06\FEATURES_16개조합.json
+06_RAW와변수\05_실제모델입력_월별\2026-06\X_eval(평가기간 입력변수).csv
+06_RAW와변수\05_실제모델입력_월별\2026-06\X_train_X_eval(학습과 평가 입력배열).npz
+06_RAW와변수\05_실제모델입력_월별\2026-07\FEATURES_16개조합.json
+06_RAW와변수\05_실제모델입력_월별\2026-07\X_eval(평가기간 입력변수).csv
+06_RAW와변수\05_실제모델입력_월별\2026-07\X_train_X_eval(학습과 평가 입력배열).npz
+06_RAW와변수\05_실제모델입력_월별\2026-08\FEATURES_16개조합.json
+06_RAW와변수\05_실제모델입력_월별\2026-08\X_eval(평가기간 입력변수).csv
+06_RAW와변수\05_실제모델입력_월별\2026-08\X_train_X_eval(학습과 평가 입력배열).npz
+06_RAW와변수\05_실제모델입력_월별\2026-09\FEATURES_16개조합.json
+06_RAW와변수\05_실제모델입력_월별\2026-09\X_eval(평가기간 입력변수).csv
+06_RAW와변수\05_실제모델입력_월별\2026-09\X_train_X_eval(학습과 평가 입력배열).npz
+06_RAW와변수\05_실제모델입력_월별\2026-10\FEATURES_16개조합.json
+06_RAW와변수\05_실제모델입력_월별\2026-10\X_eval(평가기간 입력변수).csv
+06_RAW와변수\05_실제모델입력_월별\2026-10\X_train_X_eval(학습과 평가 입력배열).npz
+06_RAW와변수\05_실제모델입력_월별\월별학습평가기간.csv
+06_RAW와변수\05_실제모델입력_월별\평가706일_월별변환입력_합본.csv
+06_RAW와변수\06_보조원천_시점근거\20261023_FRED_배포버전\A34SNO(수정시점별 원천 관측값).csv
+06_RAW와변수\06_보조원천_시점근거\20261023_FRED_배포버전\CPIAUCSL(수정시점별 원천 관측값).csv
+06_RAW와변수\06_보조원천_시점근거\20261023_FRED_배포버전\CPILFESL(수정시점별 원천 관측값).csv
+06_RAW와변수\06_보조원천_시점근거\20261023_FRED_배포버전\DEXKOUS(수정시점별 원천 관측값).csv
+06_RAW와변수\06_보조원천_시점근거\20261023_FRED_배포버전\DFII10(수정시점별 원천 관측값).csv
+06_RAW와변수\06_보조원천_시점근거\20261023_FRED_배포버전\DGS10(수정시점별 원천 관측값).csv
+06_RAW와변수\06_보조원천_시점근거\20261023_FRED_배포버전\DGS2(수정시점별 원천 관측값).csv
+06_RAW와변수\06_보조원천_시점근거\20261023_FRED_배포버전\DTWEXBGS(수정시점별 원천 관측값).csv
+06_RAW와변수\06_보조원천_시점근거\20261023_FRED_배포버전\ICSA(수정시점별 원천 관측값).csv
+06_RAW와변수\06_보조원천_시점근거\20261023_FRED_배포버전\IPG3344S(수정시점별 원천 관측값).csv
+06_RAW와변수\06_보조원천_시점근거\20261023_FRED_배포버전\NASDAQESOX(수정시점별 원천 관측값).csv
+06_RAW와변수\06_보조원천_시점근거\20261023_FRED_배포버전\NFCI(수정시점별 원천 관측값).csv
+06_RAW와변수\06_보조원천_시점근거\20261023_FRED_배포버전\PAYEMS(수정시점별 원천 관측값).csv
+06_RAW와변수\06_보조원천_시점근거\20261023_FRED_배포버전\UNRATE(수정시점별 원천 관측값).csv
+06_RAW와변수\06_보조원천_시점근거\20261023_FRED_배포버전\VIXCLS(수정시점별 원천 관측값).csv
+06_RAW와변수\06_보조원천_시점근거\20261023_FRED_배포버전\VXNCLS(수정시점별 원천 관측값).csv
+06_RAW와변수\06_보조원천_시점근거\FGI금리\FGI_PROVENANCE_REVIEW(공포탐욕지수 출처 검토).json
+06_RAW와변수\06_보조원천_시점근거\FGI금리\RATE_INPUT_LINEAGE(금리 입력값 출처 추적).csv
+06_RAW와변수\06_보조원천_시점근거\공개일근거\25_calendar_web_extract(TSMC 매출 공개일 웹 근거).txt
+06_RAW와변수\06_보조원천_시점근거\공개일근거\37_official(대만 무역통계 공식 근거).pdf
+06_RAW와변수\06_보조원천_시점근거\공개일근거\37_schedule_text(대만 무역통계 발표일 근거).txt
+06_RAW와변수\06_보조원천_시점근거\금리\RATE_09ET_ALIGNMENT_2011_2026(미국 오전9시 기준 금리 정렬).csv
+06_RAW와변수\06_보조원천_시점근거\금리\RATE_FIRST_NONMISSING_VINTAGES(금리 최초 관측 배포본).csv
+06_RAW와변수\06_보조원천_시점근거\금리\RATE_TIMING_COVERAGE_BY_YEAR(금리 시점검증 연도별 확보율).csv
+06_RAW와변수\06_보조원천_시점근거\금리\RATE_VINTAGE_VERSIONS(금리 과거 배포본 비교).csv
+06_RAW와변수\06_보조원천_시점근거\보조파일_경로대조.csv
+06_RAW와변수\06_보조원천_시점근거\원정렬\ARCHIVE_COVERAGE_STARTS(과거 배포본 확보 시작일).csv
+06_RAW와변수\06_보조원천_시점근거\원정렬\FROZEN_PLAN(사전 고정 실험계획).json
+06_RAW와변수\06_보조원천_시점근거\원정렬\LINEAGE_09ET(미국 오전9시 기준 입력값 추적).csv
+06_RAW와변수\06_보조원천_시점근거\원정렬\SOURCE_ALIGNMENT_STATUS(원천자료 시점정렬 상태).csv
+06_RAW와변수\06_보조원천_시점근거\추가변수정렬\EVIDENCE_MIX_BY_SOURCE(자료별 공개시점 근거 유형).csv
+06_RAW와변수\06_보조원천_시점근거\추가변수정렬\FROZEN_PLAN(사전 고정 실험계획).json
+06_RAW와변수\06_보조원천_시점근거\추가변수정렬\LINEAGE_09ET(미국 오전9시 기준 입력값 추적).csv
+06_RAW와변수\06_보조원천_시점근거\추가변수정렬\NEW_SOURCE_COVERAGE(추가 원천자료 확보범위).csv
+06_RAW와변수\10월23일_입력검증\대만수출주문_10월전체_동일규칙_대조.csv
+06_RAW와변수\10월23일_입력검증\동일규칙_최종검증.json
+06_RAW와변수\10월23일_입력검증\실업률_구조적결측_기존중앙값대치.csv
+06_RAW와변수\20261023_RAW갱신목록.csv
+06_RAW와변수\RAW와변수_사용안내.docx
+06_RAW와변수\파일목록_SHA256.json
+06_RAW와변수\패키지경로_원본경로_대조표.csv
+06_RAW와변수\패키지정보.json
+갱신_검증결과.json
+변수중요도_핵심해석.docx

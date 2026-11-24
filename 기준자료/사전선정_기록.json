@@ -1,0 +1,15 @@
+{
+  "selected": {
+    "BINARY": {
+      "mask": "G001000_MONTH2_FIRST",
+      "algo": "LR"
+    },
+    "FOUR": {
+      "mask": "G010110_NEXT20",
+      "algo": "HGB"
+    }
+  },
+  "selection_end": "2023-12-29",
+  "no_late_reselection": true,
+  "automatic_adoption": false
+}

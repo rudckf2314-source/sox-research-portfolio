@@ -1,0 +1,25 @@
+{
+  "policy": "CURRENT_REVISED_HISTORY_NEAR_RELEASE_ASSUMPTION_V1",
+  "source_id": 44,
+  "raw_file": "C:\\fgi_pilot\\data\\raw\\44_ff5_daily\\44_ff5_daily_RAW_20100104_20260831.csv",
+  "raw_sha256": "c766d152a2f8aef51fa6c15f0a3cff0a20c73a8b6d539cd2467221152a444725",
+  "raw_files": [
+    {
+      "path": "C:\\fgi_pilot\\data\\raw\\44_ff5_daily\\44_ff5_daily_RAW_20100104_20260831.csv",
+      "sha256": "c766d152a2f8aef51fa6c15f0a3cff0a20c73a8b6d539cd2467221152a444725"
+    }
+  ],
+  "processing": {
+    "rule": "BLOCKED",
+    "meaning": "French현재역사본은배포시각·당시파일불명으로계속제외.임의D+1적용안함"
+  },
+  "output_directory": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023",
+  "lineage_file": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023\\LINEAGE_09ET.csv",
+  "release_calendar": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023\\RELEASE_EVENT_CALENDAR.csv",
+  "current_revised_history": true,
+  "original_vintage_verified": false,
+  "no_new_model": true,
+  "korean_processing_note": "계속 제외함. 현재 역사본은 과거 배포 시각과 당시 파일이 확인되지 않았으므로 임의 D+1 유예로 투입하지 않음.",
+  "variable_dictionary": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023\\변수목록_RAW_계산식_공개규칙.csv",
+  "report": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023\\적용기준_핵심정리.md"
+}

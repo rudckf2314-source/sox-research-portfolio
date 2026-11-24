@@ -1,0 +1,28 @@
+{
+  "policy": "CURRENT_REVISED_HISTORY_NEAR_RELEASE_ASSUMPTION_V1",
+  "source_id": 36,
+  "raw_file": "C:\\fgi_pilot\\data\\raw\\36_aaii_sentiment\\36_aaii_sentiment_RAW_19870626_20261015.csv",
+  "raw_sha256": "54552ec70d64783300c817f49a6a7aaa77beb3ed526bab32966589952ab7b0fe",
+  "raw_files": [
+    {
+      "path": "C:\\fgi_pilot\\data\\raw\\36_aaii_sentiment\\36_aaii_sentiment_RAW_19870626_20261015.csv",
+      "sha256": "54552ec70d64783300c817f49a6a7aaa77beb3ed526bab32966589952ab7b0fe"
+    }
+  ],
+  "processing": {
+    "rule": "Thursday on/after rawDate, after Thursday date end ET",
+    "meaning": "목요일공개설명에따라다음미국거래일09시.원Date가수요일이면그다음목요일,목요일이면당일;나머지는다음목요일가정",
+    "old": "after confirmed Thursday publication, next US session",
+    "zone": "America/New_York",
+    "max_age_days": 21
+  },
+  "output_directory": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023",
+  "lineage_file": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023\\LINEAGE_09ET.csv",
+  "release_calendar": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023\\RELEASE_EVENT_CALENDAR.csv",
+  "current_revised_history": true,
+  "original_vintage_verified": false,
+  "no_new_model": true,
+  "korean_processing_note": "RAW 관측일 당일 또는 이후 첫 목요일이 끝난 뒤 첫 미국 09시부터 사용함. 목요일 발표 안내를 바탕으로 한 가정이며 각 과거 주의 실제 게시 시각은 미확인임.",
+  "variable_dictionary": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023\\변수목록_RAW_계산식_공개규칙.csv",
+  "report": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023\\적용기준_핵심정리.md"
+}

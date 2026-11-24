@@ -1,0 +1,13 @@
+﻿date,feature,imputed_value,median_training_start,median_training_end,n_train,method,structural_missing
+2026-10-08,s52_unrate_gap12_pp,-0.25,2011-02-03,2026-09-30,3937,original saved October training-only median; no refit,True
+2026-10-09,s52_unrate_gap12_pp,-0.25,2011-02-03,2026-09-30,3937,original saved October training-only median; no refit,True
+2026-10-12,s52_unrate_gap12_pp,-0.25,2011-02-03,2026-09-30,3937,original saved October training-only median; no refit,True
+2026-10-13,s52_unrate_gap12_pp,-0.25,2011-02-03,2026-09-30,3937,original saved October training-only median; no refit,True
+2026-10-14,s52_unrate_gap12_pp,-0.25,2011-02-03,2026-09-30,3937,original saved October training-only median; no refit,True
+2026-10-15,s52_unrate_gap12_pp,-0.25,2011-02-03,2026-09-30,3937,original saved October training-only median; no refit,True
+2026-10-16,s52_unrate_gap12_pp,-0.25,2011-02-03,2026-09-30,3937,original saved October training-only median; no refit,True
+2026-10-19,s52_unrate_gap12_pp,-0.25,2011-02-03,2026-09-30,3937,original saved October training-only median; no refit,True
+2026-10-20,s52_unrate_gap12_pp,-0.25,2011-02-03,2026-09-30,3937,original saved October training-only median; no refit,True
+2026-10-21,s52_unrate_gap12_pp,-0.25,2011-02-03,2026-09-30,3937,original saved October training-only median; no refit,True
+2026-10-22,s52_unrate_gap12_pp,-0.25,2011-02-03,2026-09-30,3937,original saved October training-only median; no refit,True
+2026-10-23,s52_unrate_gap12_pp,-0.25,2011-02-03,2026-09-30,3937,original saved October training-only median; no refit,True

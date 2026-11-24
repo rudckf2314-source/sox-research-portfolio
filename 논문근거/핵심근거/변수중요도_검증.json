@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "evaluation_start": "2024-01-02",
+  "evaluation_end": "2026-10-23",
+  "evaluation_days": 706,
+  "months": 34,
+  "October_days": 17,
+  "repeats": 5,
+  "method": "monthly within-month permutation; October jointly recomputed on all17days",
+  "classifier_cases": 3,
+  "regression_cases": 1,
+  "new_model_fits": 0,
+  "forecast_changes": 0,
+  "old_October_regression_per_repeat_maximum_replay_error": 1.1102230246251565e-16,
+  "regression_base_RMSE": 2.418756037538969,
+  "prior33months_inputs_unchanged": true,
+  "original_sources_unchanged": true,
+  "random_seed": 20261024,
+  "SHAP": false
+}

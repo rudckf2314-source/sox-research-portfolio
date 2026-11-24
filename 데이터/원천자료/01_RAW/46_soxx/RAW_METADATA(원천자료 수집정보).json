@@ -1,0 +1,70 @@
+{
+  "dataset_id": "46_soxx",
+  "status": "SUCCESS",
+  "provider": "Yahoo Finance",
+  "source_url": "https://finance.yahoo.com/quote/SOXX/history/",
+  "symbol": "SOXX",
+  "unit": "USD prices; shares volume",
+  "frequency": "Daily",
+  "administrator": "Yahoo Finance; exchange/vendor market data",
+  "outputs": [
+    {
+      "file": "data/raw/46_soxx/46_soxx_RAW_20100104_20261015.csv",
+      "table": "Daily",
+      "sha256": "49885772f91f66b6cdb3958a24cbaec8862625aa45ea2a6ae3c78bc385224392",
+      "rows": 4222,
+      "min_date": "2010-01-04",
+      "max_date": "2026-10-15",
+      "duplicate_dates": 0,
+      "missing_cells": 0,
+      "missing_by_column": {
+        "Open": 0,
+        "High": 0,
+        "Low": 0,
+        "Close": 0,
+        "Adj Close": 0,
+        "Volume": 0
+      },
+      "columns": [
+        "Date",
+        "Open",
+        "High",
+        "Low",
+        "Close",
+        "Adj Close",
+        "Volume"
+      ],
+      "max_calendar_gap_days": 5,
+      "absolute_values_over_100_cells": 11863,
+      "min_by_column": {
+        "Open": 13.903332710266112,
+        "High": 14.05666732788086,
+        "Low": 7.75333309173584,
+        "Close": 13.723333358764648,
+        "Adj Close": 11.613383293151855,
+        "Volume": 42000.0
+      },
+      "max_by_column": {
+        "Open": 653.9600219726562,
+        "High": 655.9500122070312,
+        "Low": 643.9299926757812,
+        "Close": 655.010009765625,
+        "Adj Close": 654.58203125,
+        "Volume": 26691200.0
+      }
+    }
+  ],
+  "details": {
+    "actions_rows": 66,
+    "auto_adjust": false,
+    "repair": false,
+    "end_exclusive_et_date": "2026-10-16"
+  },
+  "original_sha256": {
+    "SOXX_CHART_HTTP_001.json": "eadcf5ab066918eedb7e88b5ab15e57dfcd8376de167d05c80ba517c70a02f95",
+    "SOXX_CHART_HTTP_002.json": "c266934a0438e91e3ca02f26bc14e238e46eb669de6328e3564249cbe1ecc2c4",
+    "SOXX_YFINANCE_RETURN.csv": "dc9a53996729be1209b7f1be6cad587e1ac7fcc2a99166365df1b3a154c752f0",
+    "YFINANCE_FETCH_METADATA.json": "8eaff0bbb4b85246b88666922c01e78020ed8882f2cf22be153a149c646c62df"
+  },
+  "availability_status": "UNVERIFIED_HISTORICAL_PUBLICATION_AND_VINTAGE"
+}

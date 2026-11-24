@@ -1,0 +1,10 @@
+task,comparison,candidate,baseline,metric,difference,lo95,hi95,block,replicates,exploratory,selection_bias_removed
+BINARY,사전선정vs비교기준,분류사전선정,분류비교기준,accuracy_difference_pp,-1.13314447592068,-3.2577903682719547,0.84985835694051,20,5000,False,False
+BINARY,관측최고vs비교기준,분류관측최고,분류비교기준,accuracy_difference_pp,1.13314447592068,-2.5495750708215295,4.957507082152975,20,5000,True,False
+BINARY,관측최고vs항상상승,분류관측최고,항상상승,accuracy_difference_pp,5.94900849858357,1.2747875354107647,10.764872521246458,20,5000,True,False
+REGRESSION,관측최고vs항상0%,회귀관측최고,항상0%,MAE_improvement,0.11349309578526245,0.06610431576746029,0.16874678734800586,20,5000,True,False
+REGRESSION,관측최고vs항상0%,회귀관측최고,항상0%,RMSE_improvement,0.168029761105414,0.09217928384672297,0.2504326401989646,20,5000,True,False
+REGRESSION,관측최고vs과거학습평균,회귀관측최고,과거학습평균,MAE_improvement,0.10403164637962603,0.055559450165174294,0.16067415746798996,20,5000,True,False
+REGRESSION,관측최고vs과거학습평균,회귀관측최고,과거학습평균,RMSE_improvement,0.1639339781935707,0.08506262848245942,0.24987952899512875,20,5000,True,False
+REGRESSION,관측최고vs과거학습중앙값,회귀관측최고,과거학습중앙값,MAE_improvement,0.1016122219400768,0.05274255452897248,0.1588213254164667,20,5000,True,False
+REGRESSION,관측최고vs과거학습중앙값,회귀관측최고,과거학습중앙값,RMSE_improvement,0.1629806888616412,0.08307379927668702,0.25058031223831756,20,5000,True,False

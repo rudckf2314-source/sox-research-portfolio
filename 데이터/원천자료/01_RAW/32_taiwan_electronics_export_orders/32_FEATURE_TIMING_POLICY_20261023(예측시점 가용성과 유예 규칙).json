@@ -1,0 +1,28 @@
+{
+  "policy": "CURRENT_REVISED_HISTORY_NEAR_RELEASE_ASSUMPTION_V1",
+  "source_id": 32,
+  "raw_file": "C:\\fgi_pilot\\data\\raw\\32_taiwan_electronics_export_orders\\32_taiwan_electronics_export_orders_RAW_19840101_20260701.csv",
+  "raw_sha256": "0da9d3fc5a808d1646427c38c434095a9e66f4ef8b58fe029989761b0fae4dbf",
+  "raw_files": [
+    {
+      "path": "C:\\fgi_pilot\\data\\raw\\32_taiwan_electronics_export_orders\\32_taiwan_electronics_export_orders_RAW_19840101_20260701.csv",
+      "sha256": "0da9d3fc5a808d1646427c38c434095a9e66f4ef8b58fe029989761b0fae4dbf"
+    }
+  ],
+  "processing": {
+    "rule": "verified16:00Taipei +30min; fallback M+1 day23 +2 local weekdays, date end Taipei",
+    "meaning": "시각있는공식월보는30분처리여유.나머지통상익월23일+2평일가정.확인된늦은실제발표일이우선",
+    "old": "M+2 month day5",
+    "zone": "Asia/Taipei",
+    "max_age_days": 120
+  },
+  "output_directory": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023",
+  "lineage_file": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023\\LINEAGE_09ET.csv",
+  "release_calendar": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023\\RELEASE_EVENT_CALENDAR.csv",
+  "current_revised_history": true,
+  "original_vintage_verified": false,
+  "no_new_model": true,
+  "korean_processing_note": "공식 발표 시각이 확인된 행은 16:00 대만 시각에 30분 여유를 적용함. 그 외에는 다음달 23일에서 2평일 뒤의 대만 현지 날짜 종료를 적용함.",
+  "variable_dictionary": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023\\변수목록_RAW_계산식_공개규칙.csv",
+  "report": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023\\적용기준_핵심정리.md"
+}

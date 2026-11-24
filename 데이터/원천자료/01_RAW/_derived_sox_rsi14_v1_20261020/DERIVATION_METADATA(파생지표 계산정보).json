@@ -1,0 +1,18 @@
+{
+  "artifact_type": "DERIVED_NOT_NEW_RAW",
+  "source_path": "C:\\fgi_pilot\\data\\raw\\02_sox\\02_sox_RAW_20110101_20261009.csv",
+  "source_sha256": "00aecd96d4501eee1ad9e36f24a282239e03982612df931287505aa37c37faa5",
+  "output_csv": "SOX_RSI14_WILDER_DERIVED.csv",
+  "output_sha256": "aa10f5a2bfed648408ac2a1abeea8a737934fbeeeb93582f9a320eebe36644bc",
+  "source_min_date": "2011-01-03",
+  "source_max_date": "2026-10-09",
+  "native_rows": 3966,
+  "period": 14,
+  "method": "Wilder arithmetic seed then recursive alpha1/14",
+  "initial_nan_rows": 14,
+  "flat_gain_and_loss_rule": 50,
+  "future_data_used": false,
+  "historical_delivery_verified": false,
+  "evaluation_end": "2020-12-31",
+  "intended_publish_directory": "C:\\fgi_pilot\\data\\raw\\_derived_sox_rsi14_v1_20261020"
+}

@@ -1,0 +1,26 @@
+{
+  "request_url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL",
+  "response_url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL",
+  "http_status": 200,
+  "headers": {
+    "Last-Modified": "Wed, 14 Oct 2026 13:08:29 GMT",
+    "Content-Type": "application/csv",
+    "Server": "Apache",
+    "content-disposition": "attachment; filename=\"CPIAUCSL.csv\"",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "Content-Length": "17763",
+    "Cache-Control": "public, max-age=171",
+    "Expires": "Fri, 16 Oct 2026 06:29:32 GMT",
+    "Date": "Fri, 16 Oct 2026 06:26:41 GMT",
+    "Connection": "keep-alive",
+    "Alt-Svc": "h3=\":443\"; ma=93600",
+    "Strict-Transport-Security": "max-age=86400",
+    "X-location": "cfs",
+    "Set-Cookie": "_abck=FDADE8D86C91770BEB8173B1B6B07A97~-1~YAAQPzVDFzmTMzuhAQAAdC1kQxAI0ML7zIvVOy94VuZy+0bCrXx5KcH9agz3paNv/cVeWe+p2KgZYAkg+sUINZta6Bn2F1R3+IUAqtSitKVIgU/O/h8vpFd6zFDhWFQnYOik5MBb2pkvM57p8v6Fdvr3Lnb8X4lZ8nyts8JIPzNOVumCBEqO0SA3RKqiT5zOxfvGue6tWX4YyUIRLeOdl3pgBPgriiSNar8b8I9gGCDfyDHIsxtTKlXJkMG8Rh8PdQFccnE0VGrj4MR1TRJGN3/fh1O8LihhM8NydW0tK4/pO3NU4OPQeGo6lYAU1TxkaBvBZrDlZBJsJbEENUPrTHmaJYvsl6pk7/KvWKKe1wuIrt1uOT4UeQtdN8UdTZosA+q/v+YHWh8r8Y9Q8AzbA+johqh80exbLF+vjnO5PxeJ4p3tivGJ79ISQPo/S6+jJiQsEZbSiWTz~-1~-1~-1~-1~-1; Domain=.stlouisfed.org; Path=/; Expires=Sat, 16 Oct 2027 06:26:41 GMT; Max-Age=31536000; Secure, bm_sz=3FFCFB0F9216D54E29D003C1196D8AFB~YAAQPzVDFzuTMzuhAQAAdC1kQwGKafyLmGiqv+OzPjQm/Y3Y3TT0003+iabkKKJ4vfOXuSRodNeiWoVSVCgN2I6ZDFtnkQ/71zmzAfUe8H0MjuziGBIbDVVjY2COjPTXnE5Q/spQanE96hhPumIFnUewb6a4sW3fVAAlUwSa1sp/9HL5fx5MzvpNQ3TN5ef8utbnWGkwKwzMovbkTE42eIKLj9i+eYpvh9hMNXKfoNxKYLtNPIlzUwQEkKd8X6aKNVsoedZ6rwRy0zXREgX4MRp7h8a3E3Au/TYPx/4X+00CbjYVD6YapFw0BjGEhITFya+yg3lqWcCQu3J+DoSHDOf3Dj7/8pZKsXP9FeYXm5k11Q==~3420995~3553073; Domain=.stlouisfed.org; Path=/; Expires=Fri, 16 Oct 2026 10:26:41 GMT; Max-Age=14400"
+  },
+  "retrieved_at_utc": "2026-10-16T06:26:41.259580+00:00",
+  "bytes": 17763,
+  "file": "source_archive\\phase0_raw_audit\\additional_academic_raw_collection\\download_cache\\49_cpiaucsl\\CPIAUCSL.csv",
+  "sha256": "8556b710094027fa4724641d48be620cc37c04abfa15a0c496378cf1146c1549"
+}

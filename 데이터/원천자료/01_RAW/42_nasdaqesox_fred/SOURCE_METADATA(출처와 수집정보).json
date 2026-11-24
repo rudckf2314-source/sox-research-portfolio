@@ -1,0 +1,27 @@
+{
+  "dataset_id": "42_nasdaqesox_fred",
+  "name": "PHLX Semiconductor Equal Weighted Index",
+  "symbol": "NASDAQESOX",
+  "rows": 1288,
+  "min_date": "2021-11-09",
+  "max_date": "2026-10-15",
+  "duplicate_dates": 0,
+  "missing_cells": 50,
+  "missing_by_column": {
+    "Date": 0,
+    "NASDAQESOX": 50
+  },
+  "ascending": true,
+  "nonfinite_nonmissing_values": 0,
+  "output_file": "data\\raw\\42_nasdaqesox_fred\\42_nasdaqesox_fred_RAW_20211109_20261015.csv",
+  "output_sha256": "c509b5d503a474cc7881c46bc06b004460ad05d6543e4f06f4464a53d077bc05",
+  "original_copy": "data\\raw\\42_nasdaqesox_fred\\source_original\\NASDAQESOX.csv",
+  "source_sha256": "169f0ad39419113e2457f45c3e4a5ea95298307ee942048d5584fbdf430c3426",
+  "source_url": "https://fred.stlouisfed.org/series/NASDAQESOX",
+  "first_valid_date": "2021-11-09",
+  "last_valid_date": "2026-10-15",
+  "historical_publication_time": "UNVERIFIED",
+  "historical_vintage": "UNVERIFIED",
+  "history_limitation": "Supplied file begins 2021-11-09; does not cover 2011-2020; not extended using NASDAQSOX",
+  "official_license_note": "FRED tags Copyrighted: Pre-Approval Required; this local import does not establish reuse or redistribution rights"
+}

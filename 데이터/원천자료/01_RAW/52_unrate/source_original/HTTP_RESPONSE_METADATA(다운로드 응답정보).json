@@ -1,0 +1,26 @@
+{
+  "request_url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE",
+  "response_url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE",
+  "http_status": 200,
+  "headers": {
+    "Last-Modified": "Fri, 02 Oct 2026 13:24:37 GMT",
+    "Content-Type": "application/csv",
+    "Server": "Apache",
+    "content-disposition": "attachment; filename=\"UNRATE.csv\"",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "Content-Length": "14211",
+    "Cache-Control": "public, max-age=465",
+    "Expires": "Fri, 16 Oct 2026 06:38:22 GMT",
+    "Date": "Fri, 16 Oct 2026 06:30:37 GMT",
+    "Connection": "keep-alive",
+    "Alt-Svc": "h3=\":443\"; ma=93600",
+    "Strict-Transport-Security": "max-age=86400",
+    "X-location": "cfs",
+    "Set-Cookie": "_abck=E477C91627BC626ABBFA4C6AEF9B4AE1~-1~YAAQPzVDF/UFNDuhAQAAgspnQxC9x+XbzlA+Y0Rs5iqVpWzDWD4Vvq5a74+pDh/rJi4Y5Ycw9hwKeS/6ln0UhhLCNqqJlla+wt+zXcz3ZuIMZRxAB2OxYZQ/Z90S99R2BW6HbVOX3JBrK8B2UbT3wFEn9MXXs4c8r3jCU+5LNnGtzg/TIG0GkrkoOfkHfSI2igWkHBHRwsZHqX+FLag435WagvdtOCFsZ19o7S5k5pWIn86puWQ9rJueWhDvmjLJ0SYgak4EbxaaoJ+bzjVx5KllohYeMz79oTppj5EN/6OWTyLTa13246pOal58FemCYIYgmxjxALD9khhaXTbZV+Yk/qGsafcbFDHDP8CyAzkzGZK9/oVRjE9hBrIukNrIbLxBpPgiMEcIbnQKI/XDLf3N/qEepUmleHnCHOtfnHoXFYIM4OjXEWpT1pkwXZHMqI3rdK9ttzoj~-1~-1~-1~-1~-1; Domain=.stlouisfed.org; Path=/; Expires=Sat, 16 Oct 2027 06:30:37 GMT; Max-Age=31536000; Secure, bm_sz=B0DD77A6077BD6FDC1FCDBFF123410EA~YAAQPzVDF/YFNDuhAQAAgspnQwGMKraC+fzczs9RUysNoYcydxem530lCRVxRi2AB2yQar8STd8giBbgiQffrZkjiwLSAGbRUlOszBhV1AND+SEINkfF8N00RU6M4s76av+fqviHdQypohSc15IPDqaezD+rAZGGGXABdSFBJPElCSOHqtGWHib/MIhpkR1o2Fa8S/Yyd9I2qDOO4vA2sPuOPdOZgscq9O6GzwyNFGnM1Fk+Ey0VAN51X4d1HzKmplbRuzpEVDOiljeCXYTAi2WNkcJJU7QBW06/gFOfVt3t10+2YDhA20WPsL5qRFsWf/LwZfni4Ya/6Y6iIps/Y8628ZATGRnWUqikYj3lTYQxog==~3748661~3752769; Domain=.stlouisfed.org; Path=/; Expires=Fri, 16 Oct 2026 10:30:37 GMT; Max-Age=14400"
+  },
+  "retrieved_at_utc": "2026-10-16T06:30:38.067992+00:00",
+  "bytes": 14211,
+  "file": "source_archive\\phase0_raw_audit\\additional_academic_raw_collection\\download_cache\\52_unrate\\UNRATE.csv",
+  "sha256": "621ff6fadf50910cb7a21ee20ba610c247cb043b29b4e05c4c1a72fadca2a06c"
+}

@@ -1,0 +1,22 @@
+{
+  "status": "PASS_FROZEN_288_POLICIES_EXTENDED",
+  "binary_policies": 96,
+  "four_policies": 96,
+  "regression_policies": 96,
+  "regression_baselines": 3,
+  "original_evaluation_days": 694,
+  "additional_days": 12,
+  "total_evaluation_days": 706,
+  "evaluation_end": "2026-10-23",
+  "new_fit": 0,
+  "training_cutoff": "2026-09-30",
+  "replayed_original_models": 288,
+  "original_scores_reconciled": true,
+  "forecasts_sealed_before_Y": true,
+  "four_threshold_reference_year": 2025,
+  "four_threshold_pct": 1.111732710424207,
+  "all_original_artifacts_unchanged": true,
+  "independent_unseen_test": false,
+  "source_time_and_vintage_assumptions_remain": true,
+  "no_automatic_model_adoption": true
+}

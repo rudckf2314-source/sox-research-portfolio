@@ -1,0 +1,19 @@
+{
+  "attempt": 1,
+  "http_status": 200,
+  "request_url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/49_Industry_Portfolios_daily_CSV.zip",
+  "response_url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/49_Industry_Portfolios_daily_CSV.zip",
+  "retrieved_at_utc": "2026-10-16T06:15:10.331713+00:00",
+  "headers": {
+    "content-type": "application/x-zip-compressed",
+    "last-modified": "Fri, 25 Sep 2026 21:55:14 GMT",
+    "accept-ranges": "bytes",
+    "etag": "\"78d36c8b384ddd1:0\"",
+    "server": "Microsoft-IIS/10.0",
+    "date": "Fri, 16 Oct 2026 06:15:07 GMT",
+    "content-length": "4173817"
+  },
+  "bytes": 4173817,
+  "file": "source_archive\\phase0_raw_audit\\additional_academic_raw_collection\\download_cache\\43_ff49_industry_daily\\49_Industry_Portfolios_daily_CSV.zip",
+  "sha256": "8f394fe34bea54d41b9aafed410425ee8f8e252ede3c71a7c1cd20bab83040de"
+}

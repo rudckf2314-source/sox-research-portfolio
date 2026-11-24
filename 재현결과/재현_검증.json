@@ -1,0 +1,26 @@
+{
+  "mode": "key",
+  "selected_masks": 16,
+  "pre2024_selection": {
+    "BINARY": {
+      "mask": "G001000_MONTH2_FIRST",
+      "algo": "LR"
+    },
+    "FOUR": {
+      "mask": "G010110_NEXT20",
+      "algo": "HGB"
+    }
+  },
+  "sessions": 706,
+  "classification_and_regression_series": 291,
+  "baseline_correct": 400,
+  "reference_correct": 434,
+  "preselected_correct": 426,
+  "observed_best_correct": 442,
+  "contrasts_verified": 90,
+  "holm30_verified": true,
+  "soxq_strategies_verified": 3,
+  "fits": 170,
+  "max_forecast_error": 2.220446049250313e-16,
+  "importance_rows_verified": 203
+}

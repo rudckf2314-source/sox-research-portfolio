@@ -1,0 +1,45 @@
+{
+  "symbol": "SOXX",
+  "requested_start": "2010-01-01",
+  "end_exclusive_et_date": "2026-10-16",
+  "current_et_date_excluded": true,
+  "auto_adjust": false,
+  "actions": true,
+  "repair": false,
+  "fetched_at_utc": "2026-10-16T06:15:18.471974+00:00",
+  "rows": 4222,
+  "index_timezone": "America/New_York",
+  "client_snapshot": "source_archive\\phase0_raw_audit\\additional_academic_raw_collection\\download_cache\\46_soxx\\SOXX_YFINANCE_RETURN.csv",
+  "client_snapshot_sha256": "dc9a53996729be1209b7f1be6cad587e1ac7fcc2a99166365df1b3a154c752f0",
+  "chart_http_responses": [
+    {
+      "method": "GET",
+      "url": "https://query2.finance.yahoo.com/v8/finance/chart/SOXX",
+      "params_without_tokens": {
+        "range": "1d",
+        "interval": "1d"
+      },
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-16T06:15:16.936785+00:00",
+      "content_type": "application/json;charset=utf-8",
+      "file": "source_archive\\phase0_raw_audit\\additional_academic_raw_collection\\download_cache\\46_soxx\\SOXX_CHART_HTTP_001.json",
+      "sha256": "eadcf5ab066918eedb7e88b5ab15e57dfcd8376de167d05c80ba517c70a02f95"
+    },
+    {
+      "method": "GET",
+      "url": "https://query2.finance.yahoo.com/v8/finance/chart/SOXX",
+      "params_without_tokens": {
+        "period1": 1262322000,
+        "period2": 1792123200,
+        "interval": "1d",
+        "includePrePost": false,
+        "events": "div,splits,capitalGains"
+      },
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-16T06:15:18.272395+00:00",
+      "content_type": "application/json;charset=utf-8",
+      "file": "source_archive\\phase0_raw_audit\\additional_academic_raw_collection\\download_cache\\46_soxx\\SOXX_CHART_HTTP_002.json",
+      "sha256": "c266934a0438e91e3ca02f26bc14e238e46eb669de6328e3564249cbe1ecc2c4"
+    }
+  ]
+}

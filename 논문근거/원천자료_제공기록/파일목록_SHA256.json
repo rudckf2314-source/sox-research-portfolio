@@ -1,0 +1,2652 @@
+{
+  "01_RAW/01_kodex_091160/01_kodex_091160_RAW_20110101_20261007.csv": {
+    "bytes": 247197,
+    "sha256": "af5ab1eda3f0eee84e9ab0ec59605a2e63dc86c790e699c7d67e1169b54e669a",
+    "origin": "C:\\fgi_pilot\\data\\raw\\01_kodex_091160\\01_kodex_091160_RAW_20110101_20261007.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/02_sox/02_sox_RAW_20110101_20261009.csv": {
+    "bytes": 394651,
+    "sha256": "00aecd96d4501eee1ad9e36f24a282239e03982612df931287505aa37c37faa5",
+    "origin": "C:\\fgi_pilot\\data\\raw\\02_sox\\02_sox_RAW_20110101_20261009.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/03_usdkrw/03_usdkrw_RAW_20110101_20261009.csv": {
+    "bytes": 77718,
+    "sha256": "f3d3e3da716f0fb765a3e00b53a08c1ab268750876c7ceeaa7c4e251920a920d",
+    "origin": "C:\\fgi_pilot\\data\\raw\\03_usdkrw\\03_usdkrw_RAW_20110101_20261009.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/04_sp500/04_sp500_RAW_20110101_20261009.csv": {
+    "bytes": 424187,
+    "sha256": "e7d98d15efbb6a07982dbc9e83f889419621c056434ff707f8d99d9a5cb8f586",
+    "origin": "C:\\fgi_pilot\\data\\raw\\04_sp500\\04_sp500_RAW_20110101_20261009.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/05_nyse_high_low/05_nyse_high_low_RAW_20110101_20261015.csv": {
+    "bytes": 102371,
+    "sha256": "9c66513c059d183b9a5d465ba5ad5c2b2f092e2f3d597a4e01143e339e8f2fcf",
+    "origin": "C:\\fgi_pilot\\data\\raw\\05_nyse_high_low\\05_nyse_high_low_RAW_20110101_20261015.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/06_nyse_breadth/06_nyse_breadth_RAW_20110101_20261015.csv": {
+    "bytes": 107749,
+    "sha256": "8cef4810aceed411d1343f9b3222e151310f3cf97d2bd160e773333491767a62",
+    "origin": "C:\\fgi_pilot\\data\\raw\\06_nyse_breadth\\06_nyse_breadth_RAW_20110101_20261015.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/07_cboe_put_call/07_cboe_put_call_RAW_20110101_20261015.csv": {
+    "bytes": 71877,
+    "sha256": "92bd28299c11c6c0b77ee715941ac6a1a7ec02da19136947175445ab22451c7b",
+    "origin": "C:\\fgi_pilot\\data\\raw\\07_cboe_put_call\\07_cboe_put_call_RAW_20110101_20261015.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/08_vix/08_vix_RAW_20110101_20261009.csv": {
+    "bytes": 69977,
+    "sha256": "9dab052c7e18f371a893f13a7777d7b1da09f11affbbb2250511abb221a4f54c",
+    "origin": "C:\\fgi_pilot\\data\\raw\\08_vix\\08_vix_RAW_20110101_20261009.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/09_ief/09_ief_RAW_20110101_20261009.csv": {
+    "bytes": 435573,
+    "sha256": "ea33af2fdbee64bf056facff13707f0fbaf2e1b15f60ffde1d4cad2a56dfbf11",
+    "origin": "C:\\fgi_pilot\\data\\raw\\09_ief\\09_ief_RAW_20110101_20261009.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/10_hyg/10_hyg_RAW_20110101_20261009.csv": {
+    "bytes": 427393,
+    "sha256": "45508b90248470eaff54adb87da9b12f9d12ab8578b9d68ff56c3af3c0e7ea78",
+    "origin": "C:\\fgi_pilot\\data\\raw\\10_hyg\\10_hyg_RAW_20110101_20261009.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/11_cnn_fgi/11_cnn_fgi_RAW_20110101_20261015.csv": {
+    "bytes": 112095,
+    "sha256": "8806acc3c5c8f82d9d8bfabc07ecb8bf7d87c9a02ec733f3aff5de73f7f8ef5f",
+    "origin": "C:\\fgi_pilot\\data\\raw\\11_cnn_fgi\\11_cnn_fgi_RAW_20110101_20261015.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/12_ndx/12_ndx_RAW_20100101_20261015.csv": {
+    "bytes": 345117,
+    "sha256": "d708902a4c618195de0784d25c947a025a7362dca819b51538dc5d9e3fdccd23",
+    "origin": "C:\\fgi_pilot\\data\\raw\\12_ndx\\12_ndx_RAW_20100101_20261015.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/13_twii/13_twii_RAW_20100101_20261016.csv": {
+    "bytes": 323263,
+    "sha256": "28a736eb11423a870f7b6cbfd48c1050dcc3fc61c413c30334f6ec13cb6af0c1",
+    "origin": "C:\\fgi_pilot\\data\\raw\\13_twii\\13_twii_RAW_20100101_20261016.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/14_tsm/14_tsm_RAW_20100101_20261015.csv": {
+    "bytes": 332058,
+    "sha256": "138f06b1081165677a31bd93bbd2c6f23e8b1118886e13783be6a1cd1bf54597",
+    "origin": "C:\\fgi_pilot\\data\\raw\\14_tsm\\14_tsm_RAW_20100101_20261015.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/15_dgs10/15_dgs10_RAW_20100101_20261014.csv": {
+    "bytes": 69858,
+    "sha256": "04c9f287fb1e39f60e677db71b2d31df1fd2bd614637e7d490965a5f8a95409d",
+    "origin": "C:\\fgi_pilot\\data\\raw\\15_dgs10\\15_dgs10_RAW_20100101_20261014.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/16_dgs2/16_dgs2_RAW_20100101_20261014.csv": {
+    "bytes": 69853,
+    "sha256": "1ce2ec886485fb6fd301a91559f3a941c7cfbad0308580065348d729f4d54309",
+    "origin": "C:\\fgi_pilot\\data\\raw\\16_dgs2\\16_dgs2_RAW_20100101_20261014.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/17_dfii10/17_dfii10_RAW_20100101_20261014.csv": {
+    "bytes": 70818,
+    "sha256": "ac503019b5e7926c31f758f0f2ec05563b5046ff8694dca626514c5fa638a748",
+    "origin": "C:\\fgi_pilot\\data\\raw\\17_dfii10\\17_dfii10_RAW_20100101_20261014.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/18_dtwexbgs/18_dtwexbgs_RAW_20100101_20261009.csv": {
+    "bytes": 85349,
+    "sha256": "5512519151db96d307b0b8d9defdc0c9158d587a1c1b9621cb98a3f1c2bca5c0",
+    "origin": "C:\\fgi_pilot\\data\\raw\\18_dtwexbgs\\18_dtwexbgs_RAW_20100101_20261009.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/19_nfci/19_nfci_RAW_20100101_20261009.csv": {
+    "bytes": 16405,
+    "sha256": "1b0f386790d136b98119ea70371e5822672ac85e7837b860e2b3defc1c5839cb",
+    "origin": "C:\\fgi_pilot\\data\\raw\\19_nfci\\19_nfci_RAW_20100101_20261009.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/20_ipg3344s/20_ipg3344s_RAW_20100101_20260801.csv": {
+    "bytes": 4562,
+    "sha256": "9e905ebb4225e4df016142089cd28671b5a01fcf1783e31bd26edfe3e51ff131",
+    "origin": "C:\\fgi_pilot\\data\\raw\\20_ipg3344s\\20_ipg3344s_RAW_20100101_20260801.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/21_a34sno/21_a34sno_RAW_20100101_20260801.csv": {
+    "bytes": 4042,
+    "sha256": "167a536fa22a02e7af2ffe9830cc9c3953285db4862a76a34ac881faa30a0f8f",
+    "origin": "C:\\fgi_pilot\\data\\raw\\21_a34sno\\21_a34sno_RAW_20100101_20260801.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/22_wsts_worldwide_billings/22_FEATURE_TIMING_POLICY_20261023.json": {
+    "bytes": 2061,
+    "sha256": "8d60ee7cbc7c4bec4436da93e8bbec6a2937861096f4f63fd22ff826cf61691c",
+    "origin": "C:\\fgi_pilot\\data\\raw\\22_wsts_worldwide_billings\\22_FEATURE_TIMING_POLICY_20261023.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/22_wsts_worldwide_billings/22_FEATURE_TIMING_POLICY_20261023.md": {
+    "bytes": 2703,
+    "sha256": "866be88cd2831e01b7ef70c8a511c819a7920c8a7ff13bc0733f41b1571c48ca",
+    "origin": "C:\\fgi_pilot\\data\\raw\\22_wsts_worldwide_billings\\22_FEATURE_TIMING_POLICY_20261023.md",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/22_wsts_worldwide_billings/22_wsts_worldwide_billings_RAW_20110101_20260801.csv": {
+    "bytes": 4482,
+    "sha256": "d856f11158928bd6e4af52f3c80c5191a3c61b44ec1283a3fa7cba5404db667d",
+    "origin": "C:\\fgi_pilot\\data\\raw\\22_wsts_worldwide_billings\\22_wsts_worldwide_billings_RAW_20110101_20260801.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/22_wsts_worldwide_billings/source_original/WSTS-Historical-Billings-Report-Aug_2026.xlsx": {
+    "bytes": 154476,
+    "sha256": "7d427b3048c1becb9704a24101f3b0737534e12e2ef8b2a5999c5052fa309265",
+    "origin": "C:\\fgi_pilot\\data\\raw\\22_wsts_worldwide_billings\\source_original\\WSTS-Historical-Billings-Report-Aug_2026.xlsx",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/23_twse_semiconductor_index/23_twse_semiconductor_index_RAW_20110101_20261015.csv": {
+    "bytes": 69626,
+    "sha256": "59d67074728329a9063a49936519dcb6e7b3494b0c833e5ba151f4236cdf8afb",
+    "origin": "C:\\fgi_pilot\\data\\raw\\23_twse_semiconductor_index\\23_twse_semiconductor_index_RAW_20110101_20261015.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/24_customs_semiconductor_trade/24_customs_semiconductor_trade_RAW_20110101_20260901.csv": {
+    "bytes": 900751,
+    "sha256": "8f19c942944c2e92cb17cc6ce7da4000b9bf6ecd388b891768660b738497f37a",
+    "origin": "C:\\fgi_pilot\\data\\raw\\24_customs_semiconductor_trade\\24_customs_semiconductor_trade_RAW_20110101_20260901.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/24_customs_semiconductor_trade/24_FEATURE_TIMING_POLICY_20261023.json": {
+    "bytes": 2136,
+    "sha256": "bd68d6c555a6667416c9b9ed24a4c185bd563da4a240779cee3739288318dad6",
+    "origin": "C:\\fgi_pilot\\data\\raw\\24_customs_semiconductor_trade\\24_FEATURE_TIMING_POLICY_20261023.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/24_customs_semiconductor_trade/24_FEATURE_TIMING_POLICY_20261023.md": {
+    "bytes": 2759,
+    "sha256": "b25212e9af21140df5eb126f61d46458646742cf7e27cc86b469781e9cd5087a",
+    "origin": "C:\\fgi_pilot\\data\\raw\\24_customs_semiconductor_trade\\24_FEATURE_TIMING_POLICY_20261023.md",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/25_tsmc_monthly_revenue/25_FEATURE_TIMING_POLICY_20261023.json": {
+    "bytes": 2096,
+    "sha256": "58b663ffa3ebf42d4712dfde91ca4e1cc2ba45254dbc2fd8b6d89bc73532648e",
+    "origin": "C:\\fgi_pilot\\data\\raw\\25_tsmc_monthly_revenue\\25_FEATURE_TIMING_POLICY_20261023.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/25_tsmc_monthly_revenue/25_FEATURE_TIMING_POLICY_20261023.md": {
+    "bytes": 2745,
+    "sha256": "5457140bda55cbaabf5868df773413164fc166f32307b9b6e120e782fed92e46",
+    "origin": "C:\\fgi_pilot\\data\\raw\\25_tsmc_monthly_revenue\\25_FEATURE_TIMING_POLICY_20261023.md",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/25_tsmc_monthly_revenue/25_tsmc_monthly_revenue_RAW_20060401_20260901.csv": {
+    "bytes": 4992,
+    "sha256": "0ab1da7a6439d4d4cde2cdd0a2f4dc2622129a1a8f632824c6f8b0564120652a",
+    "origin": "C:\\fgi_pilot\\data\\raw\\25_tsmc_monthly_revenue\\25_tsmc_monthly_revenue_RAW_20060401_20260901.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/25_tsmc_monthly_revenue/source_original/Historical_Monthly_Revenue September.xlsx": {
+    "bytes": 40789,
+    "sha256": "f6cc99ea7490b978fd4fab15ec4a09dc0dcdfa0b98d2697bea7f53026dfe7292",
+    "origin": "C:\\fgi_pilot\\data\\raw\\25_tsmc_monthly_revenue\\source_original\\Historical_Monthly_Revenue September.xlsx",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/27_vxncls/27_vxncls_RAW_20010202_20261014.csv": {
+    "bytes": 113251,
+    "sha256": "371b5f7208a71f1cb923c780147e7d27e0c832022ce1c13ca963dfc0c733bba2",
+    "origin": "C:\\fgi_pilot\\data\\raw\\27_vxncls\\27_vxncls_RAW_20010202_20261014.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/27_vxncls/source_original/VXNCLS.csv": {
+    "bytes": 112799,
+    "sha256": "ccc8752e82585225273d4524e33fb27d551f0a13086a8b51b2466fb06a59cbd0",
+    "origin": "C:\\fgi_pilot\\data\\raw\\27_vxncls\\source_original\\VXNCLS.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/28_stockcharts_cpce/28_stockcharts_cpce_RAW_20031017_20261015.csv": {
+    "bytes": 237726,
+    "sha256": "cb0ef1d7f48fc1c897a44f27318e0a72d1f4f1e659957fb093349bd95ae7f8aa",
+    "origin": "C:\\fgi_pilot\\data\\raw\\28_stockcharts_cpce\\28_stockcharts_cpce_RAW_20031017_20261015.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/28_stockcharts_cpce/source_original/_CPCE.csv": {
+    "bytes": 433963,
+    "sha256": "0c79dc9c5b56f9b2e61849d747f5afe2a37ae360bb51d20ec0567853a010ace7",
+    "origin": "C:\\fgi_pilot\\data\\raw\\28_stockcharts_cpce\\source_original\\_CPCE.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/29_stockcharts_cpci/29_stockcharts_cpci_RAW_20031017_20261015.csv": {
+    "bytes": 237725,
+    "sha256": "2e59a52590b57098b4d9ea8b5e9b7fb139c04591f4e510bfc82f44828558483f",
+    "origin": "C:\\fgi_pilot\\data\\raw\\29_stockcharts_cpci\\29_stockcharts_cpci_RAW_20031017_20261015.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/29_stockcharts_cpci/source_original/_CPCI.csv": {
+    "bytes": 433963,
+    "sha256": "ed5628351c2cedc04808a9d561cc598053bcf41e18d691dfc9359017fcdf8136",
+    "origin": "C:\\fgi_pilot\\data\\raw\\29_stockcharts_cpci\\source_original\\_CPCI.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/30_stockcharts_bpspx/30_stockcharts_bpspx_RAW_19960111_20261015.csv": {
+    "bytes": 317893,
+    "sha256": "2464575a3b00e133545fc0e1f995fa683d2f27d27f784d7592eb2a7382142331",
+    "origin": "C:\\fgi_pilot\\data\\raw\\30_stockcharts_bpspx\\30_stockcharts_bpspx_RAW_19960111_20261015.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/30_stockcharts_bpspx/source_original/_BPSPX.csv": {
+    "bytes": 580589,
+    "sha256": "e5f535be5859c8acb6cb70132943543f5442afd1ced5f6cf2c9a4d04583a5386",
+    "origin": "C:\\fgi_pilot\\data\\raw\\30_stockcharts_bpspx\\source_original\\_BPSPX.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/31_stockcharts_ndxa200r/31_stockcharts_ndxa200r_RAW_20011228_20261015.csv": {
+    "bytes": 256335,
+    "sha256": "fcfd9761d97653028f413b58ae0bb03085fd86b317a4d99e4859d674c671eec5",
+    "origin": "C:\\fgi_pilot\\data\\raw\\31_stockcharts_ndxa200r\\31_stockcharts_ndxa200r_RAW_20011228_20261015.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/31_stockcharts_ndxa200r/source_original/_NDXA200R.csv": {
+    "bytes": 467942,
+    "sha256": "ac3eb81c7b143a5ef5b1db57ab71377d6829656e570a5b7b4328921c48a3671b",
+    "origin": "C:\\fgi_pilot\\data\\raw\\31_stockcharts_ndxa200r\\source_original\\_NDXA200R.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/32_taiwan_electronics_export_orders/32_FEATURE_TIMING_POLICY_20261023.json": {
+    "bytes": 2130,
+    "sha256": "d011cc30c7c1390216acd0a09352e136e92b72298c8854cd8b8ee41602f11fdd",
+    "origin": "C:\\fgi_pilot\\data\\raw\\32_taiwan_electronics_export_orders\\32_FEATURE_TIMING_POLICY_20261023.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/32_taiwan_electronics_export_orders/32_FEATURE_TIMING_POLICY_20261023.md": {
+    "bytes": 2755,
+    "sha256": "23a29a20a10bc23bdab2330ff1ba2772ae4157db6c84a59c9d38460642af75c5",
+    "origin": "C:\\fgi_pilot\\data\\raw\\32_taiwan_electronics_export_orders\\32_FEATURE_TIMING_POLICY_20261023.md",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/32_taiwan_electronics_export_orders/32_taiwan_electronics_export_orders_RAW_19840101_20260701.csv": {
+    "bytes": 38487,
+    "sha256": "0da9d3fc5a808d1646427c38c434095a9e66f4ef8b58fe029989761b0fae4dbf",
+    "origin": "C:\\fgi_pilot\\data\\raw\\32_taiwan_electronics_export_orders\\32_taiwan_electronics_export_orders_RAW_19840101_20260701.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/32_taiwan_electronics_export_orders/source_original/經濟部統計處_外銷訂單_電子產品.csv": {
+    "bytes": 32777,
+    "sha256": "bf9dd408799dc677a37e512d22cec1100d43ae1c028d89af308c26da221af60d",
+    "origin": "C:\\fgi_pilot\\data\\raw\\32_taiwan_electronics_export_orders\\source_original\\經濟部統計處_外銷訂單_電子產品.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/33_fomc_calendar_RAW_20100101_20261016.csv": {
+    "bytes": 43061,
+    "sha256": "5408e491a0ee63414765a8f1f40f2ba9d809e839b4d4c337270adcd55f0045a2",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\33_fomc_calendar_RAW_20100101_20261016.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/fomccalendars_original.html": {
+    "bytes": 165751,
+    "sha256": "82169e62815bf46d9a099414f2042e7cebe38ca51099c84161fefba2f01485e8",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\fomccalendars_original.html",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/fomchistorical2010_original.html": {
+    "bytes": 96220,
+    "sha256": "e72e4a8ec334fdcaa7fc94d981f573dc4dd57dd8552390aa10706b1692e6c39d",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\fomchistorical2010_original.html",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/fomchistorical2011_original.html": {
+    "bytes": 98227,
+    "sha256": "db93d16b446561072e0b70544e7b328f840a4c4c4bfc7bddbf2cca6e1dd65dc2",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\fomchistorical2011_original.html",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/fomchistorical2012_original.html": {
+    "bytes": 98148,
+    "sha256": "1a7fb425920133e091f5ec92825f70453486e275427d7ce56ee768065b15d728",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\fomchistorical2012_original.html",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/fomchistorical2013_original.html": {
+    "bytes": 95809,
+    "sha256": "0427f85bbd4b219830631d3e0e9356dc140d40d781ef358cbd053e2815e4d36d",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\fomchistorical2013_original.html",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/fomchistorical2014_original.html": {
+    "bytes": 96089,
+    "sha256": "0ddcc6ed2f56ed43bba16797af3fedb3a9bcc86d2e1d0878ca2a87c87f36bb35",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\fomchistorical2014_original.html",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/fomchistorical2015_original.html": {
+    "bytes": 95241,
+    "sha256": "5af5ff5ac1963e5c7489fa1f2a57d97e02444d929ed50827bf706fab217a2219",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\fomchistorical2015_original.html",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/fomchistorical2016_original.html": {
+    "bytes": 95829,
+    "sha256": "4593e745c2bd2ebf96ea8be77d173e6b3b6db3980a64b38b470a0d7438249980",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\fomchistorical2016_original.html",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/fomchistorical2017_original.html": {
+    "bytes": 95200,
+    "sha256": "33b832162332af94107e54743cd0e1137ac04d164015f7be9bbe8bc3842ee8ad",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\fomchistorical2017_original.html",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/fomchistorical2018_original.html": {
+    "bytes": 95705,
+    "sha256": "856e43465a11ea86bb898eb292d445b2cc68eb4afa8d53cfadd861205943f28a",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\fomchistorical2018_original.html",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/fomchistorical2019_original.html": {
+    "bytes": 97344,
+    "sha256": "849cc06567df9e39d982f3f9071d68192b5e2c07ff363e997a8cb4a0d29cbee6",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\fomchistorical2019_original.html",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/fomchistorical2020_original.html": {
+    "bytes": 98555,
+    "sha256": "90b37d876fe2fa967310b7763d6116787446a32f0f6965e090b407ba771dc3cc",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\fomchistorical2020_original.html",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/20100127a.htm": {
+    "bytes": 82929,
+    "sha256": "19416032644455f905133fb1a1434386a47e99263f58b12f039fc28da7cb9b5d",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\20100127a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/20100316a.htm": {
+    "bytes": 82388,
+    "sha256": "bf779e72c6eb8ddfbc4d940b481ef02edf860657399143879240a9b8cb4a2525",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\20100316a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/20100428a.htm": {
+    "bytes": 82130,
+    "sha256": "35a502ca92c43bd8ed2b4e1f6615919a112ccf7e3912630c5b1658b98a899370",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\20100428a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/20100509a.htm": {
+    "bytes": 83374,
+    "sha256": "15fd30c7171fe10e3e769b5402883312f0eb1f5d9a74121fab36f750853d3351",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\20100509a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/20100623a.htm": {
+    "bytes": 81850,
+    "sha256": "03d9f8ad0030c02f8d46b4b9094045d95e1254161f3b37701e77e875fd1342ec",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\20100623a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/20100810a.htm": {
+    "bytes": 82844,
+    "sha256": "dd98e00a37609a89343bdbdd0b343ef78b5c774516bf2422ef9e82428a34eeed",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\20100810a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/20100921a.htm": {
+    "bytes": 82302,
+    "sha256": "93868e8196580f3036bbf89f8b474a028b6013010bb920b6bc81be0cdbf25a4f",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\20100921a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/20101103a.htm": {
+    "bytes": 82891,
+    "sha256": "ec606b2243dcc2c68adef257a9ac4553bb94d3ac88a4477139915f91d53bf607",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\20101103a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/20101214a.htm": {
+    "bytes": 82740,
+    "sha256": "c5e66c615f7526f1cb09194ee8b393c33cd339fcbf66dc35b6cf3ac78555d51d",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\20101214a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20110126a.htm": {
+    "bytes": 82373,
+    "sha256": "47fecb255099bbd745b894fbee6507b615ed1dec7800eabeb5eb284607b3e4af",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20110126a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20110315a.htm": {
+    "bytes": 82515,
+    "sha256": "b4c745fc6d473a2a1d4af1d7559e901cd2bf703404f232d3a878d12cbebd7767",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20110315a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20110427a.htm": {
+    "bytes": 82580,
+    "sha256": "1664293b41efe4a074578f60dca65e235c53c5c2e7db165b9022452c2863c913",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20110427a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20110622a.htm": {
+    "bytes": 82525,
+    "sha256": "34ce540264740b882d58fa8b5b98223a85e86838cea019a6ad57d5d397951de8",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20110622a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20110809a.htm": {
+    "bytes": 82998,
+    "sha256": "0331ae8fd89e63241c5a763048ac7b6444cb15fb2f5f51c69d1373f61006b363",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20110809a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20110921a.htm": {
+    "bytes": 84231,
+    "sha256": "173d3df82a1fe876687cf06d1011e8c375b5dbcaf8a38a09e9415f4f155a6e4b",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20110921a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20111102a.htm": {
+    "bytes": 82945,
+    "sha256": "2d3f086cbd4819ce0c8154ba29ef10f2e5ca145d58819cd59a41eed26b30a28d",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20111102a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20111213a.htm": {
+    "bytes": 82588,
+    "sha256": "c256b90f5f7bd5aca2c47a36cfbbc627e496e3239761b0fd17bac8e55d216faf",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20111213a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20120125a.htm": {
+    "bytes": 82474,
+    "sha256": "ceedaa502c5527b9c7743a174b93585f26c8eb7dc255841de7f6d64295a351f3",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20120125a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20120313a.htm": {
+    "bytes": 82523,
+    "sha256": "7c51941e165a43027e8ceda1fa01b31ddce39580998b0b5cac1f9cbfbd9559a5",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20120313a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20120425a.htm": {
+    "bytes": 82574,
+    "sha256": "feb2dded40653915bf096d798ad3600a09f6ff46052d4aca508a743bdb8b6257",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20120425a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20120620a.htm": {
+    "bytes": 83684,
+    "sha256": "f36c813259a1e6b84b80a9dd8d67237f2e11172e4f6992132056397f47519732",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20120620a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20120801a.htm": {
+    "bytes": 82652,
+    "sha256": "0529c000a54d9da4da02e4fab45ac5a8ae7818599b465cefcee9f4bd5d7745d1",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20120801a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20120913a.htm": {
+    "bytes": 83481,
+    "sha256": "6a0ca89fea71950ec5f734286211cdf503d95284c4124f89daedfbc3fecb1d91",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20120913a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20121024a.htm": {
+    "bytes": 83465,
+    "sha256": "18730a3d20903d562b78e034bfc3a3d346c70ea5a279d59a42290831251dece4",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20121024a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20121212a.htm": {
+    "bytes": 84517,
+    "sha256": "a545e7357f2d4ce797eff0f0b7de800d053774fe78844e51771b1e2f7cd0d7cf",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20121212a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20130130a.htm": {
+    "bytes": 84103,
+    "sha256": "bd6ce1e00764d932dfe2b7cb96008471c89a5a245182ef97383a310058552ac1",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20130130a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20130320a.htm": {
+    "bytes": 84140,
+    "sha256": "ab738ca5ff6cc41bde3a1bb66373d6705f242800d971a6bba23ad5d3a50eb4f8",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20130320a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20130501a.htm": {
+    "bytes": 84215,
+    "sha256": "6a55feb89368fb2aaa36396e4ebb54deae905b257630c2db6dda27f81cdba5d7",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20130501a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20130619a.htm": {
+    "bytes": 84427,
+    "sha256": "3cea7b346d2bba4247c24b0fcf0c0a0a0117300c81c2fe0ac0ff9de5a8c6a496",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20130619a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20130731a.htm": {
+    "bytes": 84403,
+    "sha256": "63765313929e498e626411c877ee85386afb9146c98692bb72f355d0c9795136",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20130731a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20130918a.htm": {
+    "bytes": 85071,
+    "sha256": "f775bb2c5d700c0a30f91a599ba28350efb907b8e29e91eced6dcfa75b12989e",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20130918a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20131030a.htm": {
+    "bytes": 84940,
+    "sha256": "24a471cc9f7cae51fa04dbcfaec5405fee89128720d227682e7c97497f8bdbf9",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20131030a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20131218a.htm": {
+    "bytes": 85728,
+    "sha256": "6247672ed925d423610a165d038ef887fa5bf9f174658f0f9eae91798fb3e817",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20131218a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20140129a.htm": {
+    "bytes": 85653,
+    "sha256": "3975851755b551638de89306098afda0540a465d2e147d1d6226f96b7739a8f6",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20140129a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20140319a.htm": {
+    "bytes": 85949,
+    "sha256": "f353fd549130101f35a049c5c2d433c97862dbe0181a4f9f77b2bd544545d446",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20140319a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20140430a.htm": {
+    "bytes": 85437,
+    "sha256": "300ef6da72567d6bdb37ba1e2990ab2621e91526faf66a22dee1810dcdc3b4d0",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20140430a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20140618a.htm": {
+    "bytes": 85367,
+    "sha256": "f6e6fb75cf419e5f9c36dabb835bca3579bc94ecc4f40888a490154e17def97b",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20140618a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20140730a.htm": {
+    "bytes": 86286,
+    "sha256": "d0bf09761dfa013cb5bd9e78a36df57428755d04429993bbb25e66546dc9b40f",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20140730a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20140917a.htm": {
+    "bytes": 86015,
+    "sha256": "351130aa42bf6a15f27114032e483751e6f4295b8dbb9350ead4b45b9fd6e7f9",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20140917a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20141029a.htm": {
+    "bytes": 85398,
+    "sha256": "080e144ff5bc393b65f10f64511d46a8cb72042c943a2946126f569497014b73",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20141029a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20141217a.htm": {
+    "bytes": 84752,
+    "sha256": "1c974aefb51ad0fdaa42db693f44d546fcae9e8dec383b3a362a57e0762b749b",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20141217a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20150128a.htm": {
+    "bytes": 83753,
+    "sha256": "ec941ced30433ba886d592b615b76abd0fd3712644f07d6d8acbd88dad5cabd7",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20150128a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20150318a.htm": {
+    "bytes": 83666,
+    "sha256": "9a12f57120e3a496a8cbf8d7dc510d93d490b8b4e2b05b5058d9318073aa3b50",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20150318a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20150429a.htm": {
+    "bytes": 83557,
+    "sha256": "441760bbeead44a4b7d6b0b9547dbc4760c1d70c6e57ee4931359061e59b9aa4",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20150429a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20150617a.htm": {
+    "bytes": 83413,
+    "sha256": "55a8081e43e917629139ae286d060cabaa3d46495eea7ca92b6f2102f0a9fb0b",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20150617a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20150729a.htm": {
+    "bytes": 83382,
+    "sha256": "44c2302300c8e75f09508fcc3b4ca638527a4ee1486c29d147b7165912fdc7b6",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20150729a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20150917a.htm": {
+    "bytes": 83683,
+    "sha256": "1334539cb6567a0762f1a30829115893a86defc62edc3a602053b75cf8d289ff",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20150917a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20151028a.htm": {
+    "bytes": 83593,
+    "sha256": "d62747a6cd8ae1dc2f61939b84b26f767ee192681bdd629617744aff647c1675",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20151028a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20151216a.htm": {
+    "bytes": 83621,
+    "sha256": "4709d462d3a90b9d671a21fa26809dd19ffb9e4016078c2ef11e9d91821e719c",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20151216a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20160127a.htm": {
+    "bytes": 83480,
+    "sha256": "c69328dbf12978e7e12d1b7d4c64ac89e19b37f157501fefafd19f5af87d1f78",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20160127a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20160316a.htm": {
+    "bytes": 83538,
+    "sha256": "06f57d6c18ec5f9d42487e9d13598941481a0b117c21f23a98575a5c0bee0762",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20160316a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20160427a.htm": {
+    "bytes": 83564,
+    "sha256": "2aff9ef04c7bd9d8ef74d57df201b1fe98c6d6d045931c54b94919e00bdc5c69",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20160427a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20160615a.htm": {
+    "bytes": 83334,
+    "sha256": "382dd3faae82c4a17e8fee93b57344084ec96bf957c4607352d00d6ef3680139",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20160615a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20160727a.htm": {
+    "bytes": 83478,
+    "sha256": "d304c73b765b8d76f1c54f6e51dbbd6b3377073432748b9d2e9e1305cf101096",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20160727a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20160921a.htm": {
+    "bytes": 83694,
+    "sha256": "33f0ec0319ff77d0bd5e7faa875473836950ced3fc02a569d573d2d8d7c90c01",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20160921a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20161102a.htm": {
+    "bytes": 83666,
+    "sha256": "e099c76a2827dd34bacacd7bba10d5ebc8f5572fcd8df7975ebca8b5f6e5c9a0",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20161102a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20161214a.htm": {
+    "bytes": 83325,
+    "sha256": "2fb8eb908790421f6d3ab5b1f7f2da2f0db556156c5cd2047ae5ede0f94ef0ab",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20161214a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20170201a.htm": {
+    "bytes": 83773,
+    "sha256": "12574a5ad131c47dbc118e76292437cf6aae796546f294fb3f058a146c6feb42",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20170201a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20170315a.htm": {
+    "bytes": 83508,
+    "sha256": "1fc523900b6058b8736fd4309dde5d34bec30526fb9b13aa21306a2fe4c49305",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20170315a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20170503a.htm": {
+    "bytes": 83489,
+    "sha256": "97cd58544002ffd026a6d5a639750c6dfb285a42c36c8ff284f18e53d2a110df",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20170503a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20170614a.htm": {
+    "bytes": 83685,
+    "sha256": "d1b38c2b8f1802bd0c432563ef0dac80793d8aafc72cb73a0c683b4cffc98c20",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20170614a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20170726a.htm": {
+    "bytes": 83373,
+    "sha256": "5c6cdccb90b420557d9362a02ab1f1e69caa6b7cb47cec07e077068d2ae67331",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20170726a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20170920a.htm": {
+    "bytes": 83549,
+    "sha256": "90a21874ade953213fd3330ab6018f485ef8056e107659a4aac32d2e234d6bc9",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20170920a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20171101a.htm": {
+    "bytes": 83429,
+    "sha256": "74f98db679a0982ab6578dc4fc9761c2b525494582e0ce312264375f4fc28b67",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20171101a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20171213a.htm": {
+    "bytes": 83208,
+    "sha256": "1a7acdd36767bdeb5f1823614185fa10d395f4b62cfaa7964a0dc4a3a4749cec",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20171213a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20180131a.htm": {
+    "bytes": 82749,
+    "sha256": "de8fee5d967613ac090016aceb307c559359595eb3d8721e5d236e53b9663341",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20180131a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20180321a.htm": {
+    "bytes": 82910,
+    "sha256": "aa33b452fa3f63cd7a1bc53839a35140364dcd7b13cb001269027006f602e2f0",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20180321a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20180502a.htm": {
+    "bytes": 82726,
+    "sha256": "51b4d0e2eeb393362fc62daecdeddbc0597e755c0edfe817182ac8f9583f2598",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20180502a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20180613a.htm": {
+    "bytes": 82088,
+    "sha256": "2a856c23ee07c567042ec8187ef8b9a0d4f30fa117f655616dc79044a40e40aa",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20180613a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20180801a.htm": {
+    "bytes": 82029,
+    "sha256": "74f1213eb3d350f7dc8987f50cab9db10370ff9bf4644edfa7771187da662623",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20180801a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20180926a.htm": {
+    "bytes": 81908,
+    "sha256": "7896c8fe9d9f3ce4dcef61c26e7ddf0276842ae5e5c329183b52663cfecd44d1",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20180926a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20181108a.htm": {
+    "bytes": 81982,
+    "sha256": "1e5410d9c470b007e829baf39bda4ce9d5f60b085defe3abc56ba6fada4ab331",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20181108a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20181219a.htm": {
+    "bytes": 82169,
+    "sha256": "4756e8387d32349ca6ac8d87d67080234c71b6c6911b29dc6669ddf89d0b684b",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20181219a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20190130a.htm": {
+    "bytes": 82155,
+    "sha256": "654a942cab839159df3f8fc2a483d1caac7ecb3ea81aafac99ddd05a0325eced",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20190130a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20190320a.htm": {
+    "bytes": 82248,
+    "sha256": "f7cba6b88fc1f3333d890d72fd1b75a549b4d7e5d89bf1a02505046f38a04cb6",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20190320a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20190501a.htm": {
+    "bytes": 82078,
+    "sha256": "20d23548fb58e6bca4b60461a832ada062c196d381e276e619199686f25765e7",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20190501a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20190619a.htm": {
+    "bytes": 82320,
+    "sha256": "528e27f90b4a6a49ff2e9c0961529a8054e5e1c8b7b4b2a0ab75c1f4b7080c3b",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20190619a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20190731a.htm": {
+    "bytes": 82608,
+    "sha256": "1067ff91d9a5b6d7902da6cf0718715652801ea6d159e8067be82f43e295d3d9",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20190731a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20190918a.htm": {
+    "bytes": 82504,
+    "sha256": "3e3a808272b829fe60578fef73b81cce36fc679ac32e74e92447ef0e24b3224b",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20190918a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20191011a.htm": {
+    "bytes": 85772,
+    "sha256": "3befe1d6b9955ae34c7d100cbbefd3338661a0551d1255ec502a29529d1cb665",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20191011a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20191030a.htm": {
+    "bytes": 82275,
+    "sha256": "38f83b9c72336dccf017d1fa9a9c72a9b005685365fe7b2ede9148bf27972034",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20191030a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20191211a.htm": {
+    "bytes": 82073,
+    "sha256": "c07c2f437e1b8cce30b3ae245bc1eda75c7914644179cf53565a1bfa15c48a8d",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20191211a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20200129a.htm": {
+    "bytes": 82079,
+    "sha256": "7599cb1206c65e312dee6893d4f5c5d18464dc3db358fbebec9ba311b71710b6",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20200129a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20200303a.htm": {
+    "bytes": 80778,
+    "sha256": "d2e65b1efad16619b5e1e9259c7a73dcf2ba25200ec9958a3d200bc2f5a45ad4",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20200303a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20200315a.htm": {
+    "bytes": 85154,
+    "sha256": "33e99b8da76ee37fffbdd44f976b10e04398383f09bdbc581b579802b471dff9",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20200315a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20200319b.htm": {
+    "bytes": 82172,
+    "sha256": "2a065e298c99638fd54ea4c1dc1f3792bf01eb3608c31a76f9f73ac2c99448bd",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20200319b.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20200323a.htm": {
+    "bytes": 85027,
+    "sha256": "780f2fd59c91b78ae0e139c3424c87f8b55ce56f5c0ba318447ef481e6dc3dd8",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20200323a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20200331a.htm": {
+    "bytes": 82569,
+    "sha256": "bb9f88de9b51175fcc1be1ae55f4769f1ca93ed7aae84ef65c7321ea63f6f358",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20200331a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20200429a.htm": {
+    "bytes": 82800,
+    "sha256": "d219bbda51d56444caea67d265e1ae95ab84f468b561348ef9ee468a275042be",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20200429a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20200610a.htm": {
+    "bytes": 82796,
+    "sha256": "764469c9115b1cf1f8f085b955dd3ae5b70e1fbf88e5792f27b5ea0e74d7e6b9",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20200610a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20200729a.htm": {
+    "bytes": 82936,
+    "sha256": "257f914bfcaf0e7c0bceff67e5cb06b6d0d4cae496e143486844a1a8440f2477",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20200729a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20200827a.htm": {
+    "bytes": 85930,
+    "sha256": "b0d467560bf3ac65b9d343297233aefcb650e03bd79427e30efcdfd622133c18",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20200827a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20200916a.htm": {
+    "bytes": 83554,
+    "sha256": "ab9c3c6b453b56460ed6f61c7f66a73d1cf6bfe8b207a9a543ad5948cbe43628",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20200916a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20201105a.htm": {
+    "bytes": 83013,
+    "sha256": "a910c854d39ad9da7d43fa1e7566f1378bda44ad4e0faf346ff2155765859b70",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20201105a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20201216a.htm": {
+    "bytes": 83124,
+    "sha256": "a1d03f7d927138e1a414a984c3681eaa4aa9dbf6e4ab7a40c89b610d5fdbdd78",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20201216a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20210127a.htm": {
+    "bytes": 83195,
+    "sha256": "ddf33ef98f2deb92baea097076a7e24caf6838996512212257ec2cf58bbc978c",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20210127a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20210317a.htm": {
+    "bytes": 83157,
+    "sha256": "bd345883b2663ec54b538c377b19205d6625fe532e55e97d03eea516cd3b7c35",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20210317a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20210428a.htm": {
+    "bytes": 83145,
+    "sha256": "42e9315c10bcf253855756b1f80c3040fa287e30f48d95ad9a64f031b0255424",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20210428a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20210616a.htm": {
+    "bytes": 83105,
+    "sha256": "abd7b6efc404562b4b667a3770f2f9bb0f433fef99b43eade55379cf49ee6a1f",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20210616a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20210728a.htm": {
+    "bytes": 83188,
+    "sha256": "aa9b38ae35253d588928bac7899ab1307baa8432fb9ef7aea838391699ef4390",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20210728a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20210922a.htm": {
+    "bytes": 83307,
+    "sha256": "1a2d2c66916d3b90708bd78a82431b0b66dd7ea2df036530a588dd29e4ecd88c",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20210922a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20211103a.htm": {
+    "bytes": 83986,
+    "sha256": "322a15c3568d3a4a099df32d2d97ffe915c03fd1bcc370220f884bf12d403a7c",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20211103a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20211215a.htm": {
+    "bytes": 83382,
+    "sha256": "86af617f1b68f82703139be8392f9e83bff29e974927786f70bdd4abbc873c52",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20211215a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20220126a.htm": {
+    "bytes": 82747,
+    "sha256": "f3c0849a35238d602442c6ae322a4686b80ce0022c76a2f2986ad934ee7e6a23",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20220126a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20220316a.htm": {
+    "bytes": 82240,
+    "sha256": "33f0da10c4990ff67cb7f684f37f2abd6efffbf4322ffcfa3771788dc3fd7f21",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20220316a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20220504a.htm": {
+    "bytes": 82755,
+    "sha256": "f9172ed75d215169a36ff8725563c4b6fee9bf05896b9f4475063547e75f13ff",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20220504a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20220615a.htm": {
+    "bytes": 82385,
+    "sha256": "6ccc506844c203af141a4eb21d5a21db71602a121d1d06547e6cfeee4c079bd2",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20220615a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20220727a.htm": {
+    "bytes": 82046,
+    "sha256": "e77d52fe507d94f73e660d0bbccfede72da7e104263806e78e18e9c35ef3b235",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20220727a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20220921a.htm": {
+    "bytes": 82053,
+    "sha256": "2d47da89da5203882fe12a9f35591cc40ff60a8ace8dce98f053a96a8c3d4397",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20220921a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20221102a.htm": {
+    "bytes": 82687,
+    "sha256": "ac38d72470c887a3e189594ee4bb1821b9d8e650c68d747a7bc4c64044aad73f",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20221102a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20221214a.htm": {
+    "bytes": 82688,
+    "sha256": "38c255bcd2786b2f702b1e65743b0e6b87de5ac7b759a13b23cadb601de97503",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20221214a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20230201a.htm": {
+    "bytes": 82434,
+    "sha256": "9af8c61afb0e59a679c3fc5df512e07ac65316c991425b34bdfcfed31118c1bc",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20230201a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20230322a.htm": {
+    "bytes": 82630,
+    "sha256": "7a26a9051ffeb4e1d32b2697b0b4152c0554534b412904266d0c3717104916cb",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20230322a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20230503a.htm": {
+    "bytes": 82413,
+    "sha256": "c0adf09cdb412bb49ee0f2455ed1620685375fba181e49dfcb7d8814689a0b5b",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20230503a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20230614a.htm": {
+    "bytes": 82483,
+    "sha256": "38a1ff703dd8bfc0a6047236fb82c8816788f55f52e7ecb867e792a3591bfa57",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20230614a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20230726a.htm": {
+    "bytes": 82440,
+    "sha256": "cfc170343954583298c24d1766217c1d462b29ecd72a207b03970af26dadc6cd",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20230726a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20230920a.htm": {
+    "bytes": 82487,
+    "sha256": "715223a6ebc37fb7f333b2dc32f90877bb4415df05535fb027d9989db672ee52",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20230920a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20231101a.htm": {
+    "bytes": 82521,
+    "sha256": "7dce262e645ba284d30c9da0172df747bb6cea3bf840d4dcb43a9c1b0c011c8e",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20231101a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20231213a.htm": {
+    "bytes": 82575,
+    "sha256": "60507be52beca048f9e081a508c3188f48cde239ba8afdc95057c9fe5351b719",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20231213a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20240131a.htm": {
+    "bytes": 82387,
+    "sha256": "61d73131bd896060666c554f697c257257aae01f90083bb8fe111858811fd6c4",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20240131a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20240320a.htm": {
+    "bytes": 82347,
+    "sha256": "eb78714936d002ab7d73653169dc25c4ab45257d108b5e1748c860b66c9d890a",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20240320a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20240501a.htm": {
+    "bytes": 82833,
+    "sha256": "753444ea78844600e494f9731ca29131460599202786b3297a976d760888842d",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20240501a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20240612a.htm": {
+    "bytes": 82435,
+    "sha256": "fb8acb440e33b0a3f63df20e3fa36eee0157a2b14e13d98c9e3e8d71e4ba9540",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20240612a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20240731a.htm": {
+    "bytes": 82515,
+    "sha256": "f77f874e7f35ddd440060391a23cfc506ab29b44e98def2d05105e905641c96b",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20240731a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20240918a.htm": {
+    "bytes": 82514,
+    "sha256": "868d21ae1dfd93ed7d7819a501260b7336f3169249654bf8f4dc7e47856c255c",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20240918a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20241107a.htm": {
+    "bytes": 82289,
+    "sha256": "61b1176e2bb6faf99c2299e5074a472512c26608a8def25e460032b9b13bab64",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20241107a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20241218a.htm": {
+    "bytes": 82442,
+    "sha256": "ad84d1ec9ed0f2c284ce98281a519079be6c1105a19f9b4abb12b58da6c74e22",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20241218a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20250129a.htm": {
+    "bytes": 82218,
+    "sha256": "7f070429b3d68557bf229bb3dba8b3efe8efa876534e6f934cd2b0dd6487f6ed",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20250129a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20250319a.htm": {
+    "bytes": 82597,
+    "sha256": "78d49240b92233919b3ccc57c5d878bc384042112e2065600276ef64da07f4d3",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20250319a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20250507a.htm": {
+    "bytes": 82312,
+    "sha256": "f22e84c7f5830a0dad43d1c5063c5c51f641d80a6d01f609fd77fb9f90cf0390",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20250507a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20250618a.htm": {
+    "bytes": 82158,
+    "sha256": "482f2f83d1bde84c988fe1a0dc514806c507946018c898583256b51c0a9b6af6",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20250618a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20250730a.htm": {
+    "bytes": 82323,
+    "sha256": "3026392b6a53434564df6bbec20f19b131904087a8f6d7aa2eac85b7f279ef24",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20250730a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20250822a.htm": {
+    "bytes": 82837,
+    "sha256": "bfbdc6172ea1095c0fb22516fa720a412cc10349044c18ec74f3b736000cf4fb",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20250822a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20250917a.htm": {
+    "bytes": 82366,
+    "sha256": "b44991282d1c76a4d7b5da3c8a531d689fa737e6a0b923f1f6c86033fe731730",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20250917a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20251029a.htm": {
+    "bytes": 82538,
+    "sha256": "ce6e2c8dec69e8426248694b8446beb83208b4520d007febebf03f9a0ffc947c",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20251029a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20251210a.htm": {
+    "bytes": 82679,
+    "sha256": "f6d5c3082c96a3f77dc3e7ef7dfe12f27e2876c30b20bb51f6217aadd46515d7",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20251210a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20260128a.htm": {
+    "bytes": 82109,
+    "sha256": "490d233c6bad0c851ba50563c880ad2c9e0a85f360cf1be39f33825b935c3126",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20260128a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20260318a.htm": {
+    "bytes": 82190,
+    "sha256": "20cc8a9317ef248d2085be226b610f9ef370af5daa1c27ff3797f9bb25818a53",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20260318a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20260429a.htm": {
+    "bytes": 82414,
+    "sha256": "5676368c18e298e823fa014dd0246defa19dce9f4dd4a6fefa224fb0779379b6",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20260429a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20260617a.htm": {
+    "bytes": 81083,
+    "sha256": "3420e5b3f58ef6b2b4a0f089703b5c00d56868d90d618b857534b9222548d44e",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20260617a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20260729a.htm": {
+    "bytes": 81213,
+    "sha256": "afef7bea1283fe49a84ceaae517fac9d82fa894b9521177f1328565863b01fce",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20260729a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/33_fomc_calendar/source_original/statements/monetary20260916a.htm": {
+    "bytes": 82636,
+    "sha256": "d5460397f6edddd924cdc57092de1c483771db2ce7ea6ae9934c457d3f5f5f2e",
+    "origin": "C:\\fgi_pilot\\data\\raw\\33_fomc_calendar\\source_original\\statements\\monetary20260916a.htm",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/36_aaii_sentiment/36_aaii_sentiment_RAW_19870626_20261015.csv": {
+    "bytes": 128783,
+    "sha256": "54552ec70d64783300c817f49a6a7aaa77beb3ed526bab32966589952ab7b0fe",
+    "origin": "C:\\fgi_pilot\\data\\raw\\36_aaii_sentiment\\36_aaii_sentiment_RAW_19870626_20261015.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/36_aaii_sentiment/36_FEATURE_TIMING_POLICY_20261023.json": {
+    "bytes": 2130,
+    "sha256": "9aad01e61d7fa33bc34c82d559441e092d31f20680597ae35acf5de42aa3d43e",
+    "origin": "C:\\fgi_pilot\\data\\raw\\36_aaii_sentiment\\36_FEATURE_TIMING_POLICY_20261023.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/36_aaii_sentiment/36_FEATURE_TIMING_POLICY_20261023.md": {
+    "bytes": 2702,
+    "sha256": "f5e7e197c73ab8508c50f794bc3d21e71f5011caffc64c4e82b579c8f4f84ac9",
+    "origin": "C:\\fgi_pilot\\data\\raw\\36_aaii_sentiment\\36_FEATURE_TIMING_POLICY_20261023.md",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/36_aaii_sentiment/SOURCE_METADATA.json": {
+    "bytes": 1033,
+    "sha256": "991ad5421f9611cf7e5459f652a8adb804363ad0b9b2fd8e5e81e493d0ec1a14",
+    "origin": "C:\\fgi_pilot\\data\\raw\\36_aaii_sentiment\\SOURCE_METADATA.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/36_aaii_sentiment/source_original/sentiment.xls": {
+    "bytes": 1317376,
+    "sha256": "46bc71f20784e1f71f428fc79dea4b22c6021b0c23252ed57c6d6783598056de",
+    "origin": "C:\\fgi_pilot\\data\\raw\\36_aaii_sentiment\\source_original\\sentiment.xls",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/37_taiwan_ic_exports/37_FEATURE_TIMING_POLICY_20261023.json": {
+    "bytes": 2131,
+    "sha256": "5afc7d16c8c8b78ecd1ab2bf0d98d749558499c5b57e6cf7244bce6d997eb9f8",
+    "origin": "C:\\fgi_pilot\\data\\raw\\37_taiwan_ic_exports\\37_FEATURE_TIMING_POLICY_20261023.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/37_taiwan_ic_exports/37_FEATURE_TIMING_POLICY_20261023.md": {
+    "bytes": 2752,
+    "sha256": "16c33ba69da799048cfcfa5f1ecbea6f756ddbc67ab55336d3c731d0140ff6e6",
+    "origin": "C:\\fgi_pilot\\data\\raw\\37_taiwan_ic_exports\\37_FEATURE_TIMING_POLICY_20261023.md",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/37_taiwan_ic_exports/37_taiwan_ic_exports_RAW_201101_202609.csv": {
+    "bytes": 17153,
+    "sha256": "7351e84e7d90cb29989f8109c699894f8ed8b257e8b60779a83dc64239177729",
+    "origin": "C:\\fgi_pilot\\data\\raw\\37_taiwan_ic_exports\\37_taiwan_ic_exports_RAW_201101_202609.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/37_taiwan_ic_exports/converted_parts/FSC3030R_11,12_MONTHLY.csv": {
+    "bytes": 2991,
+    "sha256": "e67c337185418e9b1b59549298cdb78ede855ed59e617630d12678abc6bde032",
+    "origin": "C:\\fgi_pilot\\data\\raw\\37_taiwan_ic_exports\\converted_parts\\FSC3030R_11,12_MONTHLY.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/37_taiwan_ic_exports/converted_parts/FSC3030R_13,14_MONTHLY.csv": {
+    "bytes": 2982,
+    "sha256": "de795228befabbc617cb86e5a15d242440bee833ec25a0c891030b1cdd72fb70",
+    "origin": "C:\\fgi_pilot\\data\\raw\\37_taiwan_ic_exports\\converted_parts\\FSC3030R_13,14_MONTHLY.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/37_taiwan_ic_exports/converted_parts/FSC3030R_15,16_MONTHLY.csv": {
+    "bytes": 3025,
+    "sha256": "a79fc525c502fc45787153fb2f70f797cd5a12ee810bbd747b43b2d85313d189",
+    "origin": "C:\\fgi_pilot\\data\\raw\\37_taiwan_ic_exports\\converted_parts\\FSC3030R_15,16_MONTHLY.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/37_taiwan_ic_exports/converted_parts/FSC3030R_17,18_MONTHLY.csv": {
+    "bytes": 3022,
+    "sha256": "d5d00d8b366298d54ea2e14bb170e90b733ca228b27a85d563283a1b0656efc8",
+    "origin": "C:\\fgi_pilot\\data\\raw\\37_taiwan_ic_exports\\converted_parts\\FSC3030R_17,18_MONTHLY.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/37_taiwan_ic_exports/converted_parts/FSC3030R_19,20_MONTHLY.csv": {
+    "bytes": 3018,
+    "sha256": "c33e03f3fdd90b2d60b0e44ae9b7adcc1b3a7fd86e93616e87c1e543028959d4",
+    "origin": "C:\\fgi_pilot\\data\\raw\\37_taiwan_ic_exports\\converted_parts\\FSC3030R_19,20_MONTHLY.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/37_taiwan_ic_exports/converted_parts/FSC3030R_21,22_MONTHLY.csv": {
+    "bytes": 3059,
+    "sha256": "19d83127d52948f62b6c0214be907f7b4bb40d09a6d6546b79352a0780eff436",
+    "origin": "C:\\fgi_pilot\\data\\raw\\37_taiwan_ic_exports\\converted_parts\\FSC3030R_21,22_MONTHLY.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/37_taiwan_ic_exports/converted_parts/FSC3030R_23,24_MONTHLY.csv": {
+    "bytes": 3083,
+    "sha256": "4bed21c87d29b5d867ca70d77453d4b3f287d60cf7bc287a4f1e6acbd72dadef",
+    "origin": "C:\\fgi_pilot\\data\\raw\\37_taiwan_ic_exports\\converted_parts\\FSC3030R_23,24_MONTHLY.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/37_taiwan_ic_exports/converted_parts/FSC3030R_25,26_MONTHLY.csv": {
+    "bytes": 2819,
+    "sha256": "cf6719c5eb165100ad106f99c237e45e87e3910501147a9c4dcb8054527a3db7",
+    "origin": "C:\\fgi_pilot\\data\\raw\\37_taiwan_ic_exports\\converted_parts\\FSC3030R_25,26_MONTHLY.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/37_taiwan_ic_exports/SOURCE_METADATA.json": {
+    "bytes": 6878,
+    "sha256": "2845e02f603e3548cc3c126d9851ea934f7928cd24f08192ed35a22bf88172fa",
+    "origin": "C:\\fgi_pilot\\data\\raw\\37_taiwan_ic_exports\\SOURCE_METADATA.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/37_taiwan_ic_exports/source_original/FSC3030R_11,12.xlsx": {
+    "bytes": 12372,
+    "sha256": "0c02391fc2083c61a076df04442a1a478b213ab94ac6d8ed2a1f6fe36f3a5f11",
+    "origin": "C:\\fgi_pilot\\data\\raw\\37_taiwan_ic_exports\\source_original\\FSC3030R_11,12.xlsx",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/37_taiwan_ic_exports/source_original/FSC3030R_13,14.xlsx": {
+    "bytes": 12374,
+    "sha256": "49f9db645b6571236bb17c2964077594a2ed448425efa04617c1d2238c8eeea6",
+    "origin": "C:\\fgi_pilot\\data\\raw\\37_taiwan_ic_exports\\source_original\\FSC3030R_13,14.xlsx",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/37_taiwan_ic_exports/source_original/FSC3030R_15,16.xlsx": {
+    "bytes": 12387,
+    "sha256": "3317ae0925e901212afe9daca40a1edc53d41ef485a2f21e34aa907532263be7",
+    "origin": "C:\\fgi_pilot\\data\\raw\\37_taiwan_ic_exports\\source_original\\FSC3030R_15,16.xlsx",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/37_taiwan_ic_exports/source_original/FSC3030R_17,18.xlsx": {
+    "bytes": 12372,
+    "sha256": "11af3fe296da02f1988a23d3d27db851ce409ca4dc9004f9069cde351a5658ec",
+    "origin": "C:\\fgi_pilot\\data\\raw\\37_taiwan_ic_exports\\source_original\\FSC3030R_17,18.xlsx",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/37_taiwan_ic_exports/source_original/FSC3030R_19,20.xlsx": {
+    "bytes": 12376,
+    "sha256": "569aef57cf2f9ff3b782f264da86e9e0244090c6005f0305983ca8a8ca65620b",
+    "origin": "C:\\fgi_pilot\\data\\raw\\37_taiwan_ic_exports\\source_original\\FSC3030R_19,20.xlsx",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/37_taiwan_ic_exports/source_original/FSC3030R_21,22.xlsx": {
+    "bytes": 12402,
+    "sha256": "a799c394bb4296925e6d3d016d76396aa7d5f2c17f4ad05850bf9c4b1587466a",
+    "origin": "C:\\fgi_pilot\\data\\raw\\37_taiwan_ic_exports\\source_original\\FSC3030R_21,22.xlsx",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/37_taiwan_ic_exports/source_original/FSC3030R_23,24.xlsx": {
+    "bytes": 12422,
+    "sha256": "5f378de7099948436563af1670fc55232f4f7531782f3c2bb5f1590aa901a5e7",
+    "origin": "C:\\fgi_pilot\\data\\raw\\37_taiwan_ic_exports\\source_original\\FSC3030R_23,24.xlsx",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/37_taiwan_ic_exports/source_original/FSC3030R_25,26.xlsx": {
+    "bytes": 12149,
+    "sha256": "c317e1bb76aa22b39871c7b5e7e341d074c28c7725009d8e2afc0243f51168f1",
+    "origin": "C:\\fgi_pilot\\data\\raw\\37_taiwan_ic_exports\\source_original\\FSC3030R_25,26.xlsx",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/40_stockcharts_nymo/40_stockcharts_nymo_RAW_19980603_20261015.csv": {
+    "bytes": 567874,
+    "sha256": "afaccc87f0d77d94597f7bf3e51ec93674a59b69eded9ad501b0cee8dca55e92",
+    "origin": "C:\\fgi_pilot\\data\\raw\\40_stockcharts_nymo\\40_stockcharts_nymo_RAW_19980603_20261015.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/40_stockcharts_nymo/SOURCE_METADATA.json": {
+    "bytes": 1009,
+    "sha256": "0ac00b57298be88e789b8c8f95377ebd854e0514947f8b92221173ccf9a7ac7f",
+    "origin": "C:\\fgi_pilot\\data\\raw\\40_stockcharts_nymo\\SOURCE_METADATA.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/40_stockcharts_nymo/source_original/_NYMO.csv": {
+    "bytes": 535363,
+    "sha256": "dd555850b835a629eb7ef303d4b48ccdd34b00c1450d95c72cced7e1c97f93a7",
+    "origin": "C:\\fgi_pilot\\data\\raw\\40_stockcharts_nymo\\source_original\\_NYMO.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/41_stockcharts_nysi/41_stockcharts_nysi_RAW_19980603_20261015.csv": {
+    "bytes": 576758,
+    "sha256": "010f49e89c9b04f9d8bd947812ef5e180defda81b843dcbd338614e94a3812c2",
+    "origin": "C:\\fgi_pilot\\data\\raw\\41_stockcharts_nysi\\41_stockcharts_nysi_RAW_19980603_20261015.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/41_stockcharts_nysi/SOURCE_METADATA.json": {
+    "bytes": 990,
+    "sha256": "6994e1fe779b4537477c843f60fd1aea5f72a879a8bb247fd046e6b9c1dcb950",
+    "origin": "C:\\fgi_pilot\\data\\raw\\41_stockcharts_nysi\\SOURCE_METADATA.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/41_stockcharts_nysi/source_original/_NYSI.csv": {
+    "bytes": 535363,
+    "sha256": "8cc8c564d3297d8a23aec54c9063efe1b145be254e058cdc8135bf64628464e6",
+    "origin": "C:\\fgi_pilot\\data\\raw\\41_stockcharts_nysi\\source_original\\_NYSI.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/42_nasdaqesox_fred/42_nasdaqesox_fred_RAW_20211109_20261015.csv": {
+    "bytes": 35998,
+    "sha256": "c509b5d503a474cc7881c46bc06b004460ad05d6543e4f06f4464a53d077bc05",
+    "origin": "C:\\fgi_pilot\\data\\raw\\42_nasdaqesox_fred\\42_nasdaqesox_fred_RAW_20211109_20261015.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/42_nasdaqesox_fred/SOURCE_METADATA.json": {
+    "bytes": 1222,
+    "sha256": "d14ef9b67cdfb65be77b5d5fca19f9874fa1aaa89ac0a344434def013de24bd6",
+    "origin": "C:\\fgi_pilot\\data\\raw\\42_nasdaqesox_fred\\SOURCE_METADATA.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/42_nasdaqesox_fred/source_original/NASDAQESOX.csv": {
+    "bytes": 23401,
+    "sha256": "169f0ad39419113e2457f45c3e4a5ea95298307ee942048d5584fbdf430c3426",
+    "origin": "C:\\fgi_pilot\\data\\raw\\42_nasdaqesox_fred\\source_original\\NASDAQESOX.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/43_ff49_industry_daily/43_FEATURE_TIMING_POLICY_20261023.json": {
+    "bytes": 2082,
+    "sha256": "d0c298a429e9e969131c72edccefc9571c0cf8eed964e11f6ee50a3e6cbfcb7d",
+    "origin": "C:\\fgi_pilot\\data\\raw\\43_ff49_industry_daily\\43_FEATURE_TIMING_POLICY_20261023.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/43_ff49_industry_daily/43_FEATURE_TIMING_POLICY_20261023.md": {
+    "bytes": 2796,
+    "sha256": "b5668abfeb9fc8ccbc7f6ec6b73db6f0686c8d3d51a1da507b40a8ba98baf6ba",
+    "origin": "C:\\fgi_pilot\\data\\raw\\43_ff49_industry_daily\\43_FEATURE_TIMING_POLICY_20261023.md",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/43_ff49_industry_daily/43_ff49_industry_daily_EW_RAW_20100104_20260831.csv": {
+    "bytes": 1171657,
+    "sha256": "fd85d882ab751461828330b102e799d8f0e1a7fafea9142b9e0b93a7cc7cf08e",
+    "origin": "C:\\fgi_pilot\\data\\raw\\43_ff49_industry_daily\\43_ff49_industry_daily_EW_RAW_20100104_20260831.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/43_ff49_industry_daily/43_ff49_industry_daily_VW_RAW_20100104_20260831.csv": {
+    "bytes": 1169768,
+    "sha256": "9cfdb5789d6f286739f41768f7766d301111c481516bc975f3c905633927b584",
+    "origin": "C:\\fgi_pilot\\data\\raw\\43_ff49_industry_daily\\43_ff49_industry_daily_VW_RAW_20100104_20260831.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/43_ff49_industry_daily/43_FRENCH_CONDITIONAL_EXPERIMENT_20261023.json": {
+    "bytes": 2228,
+    "sha256": "2be66aba2fb365a7b56afc80593e4bfdd2095a3dfbbd0a98aeee3b6027ffd697",
+    "origin": "C:\\fgi_pilot\\data\\raw\\43_ff49_industry_daily\\43_FRENCH_CONDITIONAL_EXPERIMENT_20261023.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/43_ff49_industry_daily/RAW_METADATA.json": {
+    "bytes": 11179,
+    "sha256": "7f478840ed18f1a1ced8d2e3fcd1ff9a812581e210451263d8d443c891f3745a",
+    "origin": "C:\\fgi_pilot\\data\\raw\\43_ff49_industry_daily\\RAW_METADATA.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/43_ff49_industry_daily/source_original/49_Industry_Portfolios_Daily.csv": {
+    "bytes": 21159808,
+    "sha256": "63cc949d0335ff5416e598b0e10a0ef4d2a3d9afa7360433d9b5dafd50326499",
+    "origin": "C:\\fgi_pilot\\data\\raw\\43_ff49_industry_daily\\source_original\\49_Industry_Portfolios_Daily.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/43_ff49_industry_daily/source_original/49_Industry_Portfolios_daily_CSV.zip": {
+    "bytes": 4173817,
+    "sha256": "8f394fe34bea54d41b9aafed410425ee8f8e252ede3c71a7c1cd20bab83040de",
+    "origin": "C:\\fgi_pilot\\data\\raw\\43_ff49_industry_daily\\source_original\\49_Industry_Portfolios_daily_CSV.zip",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/43_ff49_industry_daily/source_original/HTTP_RESPONSE_METADATA.json": {
+    "bytes": 899,
+    "sha256": "031397a228012bf5775dda6680a4f247e7a6457fb0bf96c5dac550bfeff2b346",
+    "origin": "C:\\fgi_pilot\\data\\raw\\43_ff49_industry_daily\\source_original\\HTTP_RESPONSE_METADATA.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/44_ff5_daily/44_FEATURE_TIMING_POLICY_20261023.json": {
+    "bytes": 1817,
+    "sha256": "83ef09f732af18a579b8444b48441db7b97af38b6c0087f47c48de2943b701af",
+    "origin": "C:\\fgi_pilot\\data\\raw\\44_ff5_daily\\44_FEATURE_TIMING_POLICY_20261023.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/44_ff5_daily/44_FEATURE_TIMING_POLICY_20261023.md": {
+    "bytes": 2606,
+    "sha256": "df2b1c2b7617eb0390b4c8fce3d6e2436b97d4093c04746ec1ecb46b63976bf0",
+    "origin": "C:\\fgi_pilot\\data\\raw\\44_ff5_daily\\44_FEATURE_TIMING_POLICY_20261023.md",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/44_ff5_daily/44_ff5_daily_RAW_20100104_20260831.csv": {
+    "bytes": 182956,
+    "sha256": "c766d152a2f8aef51fa6c15f0a3cff0a20c73a8b6d539cd2467221152a444725",
+    "origin": "C:\\fgi_pilot\\data\\raw\\44_ff5_daily\\44_ff5_daily_RAW_20100104_20260831.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/44_ff5_daily/44_FRENCH_CONDITIONAL_EXPERIMENT_20261023.json": {
+    "bytes": 1986,
+    "sha256": "c5dd2d2b292a258d2f220eea1e397a355049f9ecdcdc7862401e5b14e3e44900",
+    "origin": "C:\\fgi_pilot\\data\\raw\\44_ff5_daily\\44_FRENCH_CONDITIONAL_EXPERIMENT_20261023.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/44_ff5_daily/RAW_METADATA.json": {
+    "bytes": 2208,
+    "sha256": "3aca5db6decf1efc82df3375a0c43a8a678e2d305c85eeb006f3df7cacf9bbe5",
+    "origin": "C:\\fgi_pilot\\data\\raw\\44_ff5_daily\\RAW_METADATA.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/44_ff5_daily/source_original/F-F_Research_Data_5_Factors_2x3_daily.csv": {
+    "bytes": 1017831,
+    "sha256": "323ee3426ffa429ea2e3dacaac85a581e3968d319817efe0b4614c5e5adfddc1",
+    "origin": "C:\\fgi_pilot\\data\\raw\\44_ff5_daily\\source_original\\F-F_Research_Data_5_Factors_2x3_daily.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/44_ff5_daily/source_original/F-F_Research_Data_5_Factors_2x3_daily_CSV.zip": {
+    "bytes": 150292,
+    "sha256": "7881223b51929ee0d6d23b8a28524aaec478a2c3d4eeca47224955cc845c5186",
+    "origin": "C:\\fgi_pilot\\data\\raw\\44_ff5_daily\\source_original\\F-F_Research_Data_5_Factors_2x3_daily_CSV.zip",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/44_ff5_daily/source_original/HTTP_RESPONSE_METADATA.json": {
+    "bytes": 914,
+    "sha256": "a11d39499e05ec3fdc9309f0d966970a4e2eb0066752f3123b49ace4bae26a51",
+    "origin": "C:\\fgi_pilot\\data\\raw\\44_ff5_daily\\source_original\\HTTP_RESPONSE_METADATA.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/45_ff_momentum_daily/45_FEATURE_TIMING_POLICY_20261023.json": {
+    "bytes": 1849,
+    "sha256": "8189b2207c3e8f57b457950bc46a1b336a2a80ee967a449909ee39273801c612",
+    "origin": "C:\\fgi_pilot\\data\\raw\\45_ff_momentum_daily\\45_FEATURE_TIMING_POLICY_20261023.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/45_ff_momentum_daily/45_FEATURE_TIMING_POLICY_20261023.md": {
+    "bytes": 2608,
+    "sha256": "c42d4d02818e5ce3b2e18bdfa9834bf72f5846dd12f0dec19142ccd67e0fd3fb",
+    "origin": "C:\\fgi_pilot\\data\\raw\\45_ff_momentum_daily\\45_FEATURE_TIMING_POLICY_20261023.md",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/45_ff_momentum_daily/45_ff_momentum_daily_RAW_20100104_20260831.csv": {
+    "bytes": 69741,
+    "sha256": "71d489e6a772b9d9e982a74945ec8021ed56390d88e234344112b0f8fcfb0864",
+    "origin": "C:\\fgi_pilot\\data\\raw\\45_ff_momentum_daily\\45_ff_momentum_daily_RAW_20100104_20260831.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/45_ff_momentum_daily/45_FRENCH_CONDITIONAL_EXPERIMENT_20261023.json": {
+    "bytes": 2002,
+    "sha256": "e0c0645a09e2d8decd770753fe10c814d520a734544cfb05e7c995e95ba3767e",
+    "origin": "C:\\fgi_pilot\\data\\raw\\45_ff_momentum_daily\\45_FRENCH_CONDITIONAL_EXPERIMENT_20261023.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/45_ff_momentum_daily/RAW_METADATA.json": {
+    "bytes": 1778,
+    "sha256": "c0320e54d83a9b6fcedfde97ab5c5b700eb8fbcbb4cdd88ebc951b91b8ff1d5a",
+    "origin": "C:\\fgi_pilot\\data\\raw\\45_ff_momentum_daily\\RAW_METADATA.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/45_ff_momentum_daily/source_original/F-F_Momentum_Factor_daily.csv": {
+    "bytes": 472762,
+    "sha256": "d4b3e98cb5afb1533af0d4568aa816de2aadac5bbff9a590c1c65e3392d7b05b",
+    "origin": "C:\\fgi_pilot\\data\\raw\\45_ff_momentum_daily\\source_original\\F-F_Momentum_Factor_daily.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/45_ff_momentum_daily/source_original/F-F_Momentum_Factor_daily_CSV.zip": {
+    "bytes": 85269,
+    "sha256": "ecf82b116e6ec56d2b79a2f27bd1d1598c217b5c6c25caa55b945bdd8a2c0b78",
+    "origin": "C:\\fgi_pilot\\data\\raw\\45_ff_momentum_daily\\source_original\\F-F_Momentum_Factor_daily_CSV.zip",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/45_ff_momentum_daily/source_original/HTTP_RESPONSE_METADATA.json": {
+    "bytes": 884,
+    "sha256": "033a32bd7f97a7a54d4027407c65d9d77991fbd001689931c3b67fba10a0ed5b",
+    "origin": "C:\\fgi_pilot\\data\\raw\\45_ff_momentum_daily\\source_original\\HTTP_RESPONSE_METADATA.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/46_soxx/46_soxx_RAW_20100104_20261015.csv": {
+    "bytes": 472095,
+    "sha256": "49885772f91f66b6cdb3958a24cbaec8862625aa45ea2a6ae3c78bc385224392",
+    "origin": "C:\\fgi_pilot\\data\\raw\\46_soxx\\46_soxx_RAW_20100104_20261015.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/46_soxx/actions/SOXX_CORPORATE_ACTIONS.csv": {
+    "bytes": 2294,
+    "sha256": "d41851fd5125043c44dbd6e8017fbc149fd319b1331f49f754cc1e03f46a6f0f",
+    "origin": "C:\\fgi_pilot\\data\\raw\\46_soxx\\actions\\SOXX_CORPORATE_ACTIONS.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/46_soxx/RAW_METADATA.json": {
+    "bytes": 2212,
+    "sha256": "e0d599c1e7054b13e0c82678f91e6f533b8bc9512fb9ee9e28914b0c1539b19c",
+    "origin": "C:\\fgi_pilot\\data\\raw\\46_soxx\\RAW_METADATA.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/46_soxx/source_original/SOXX_CHART_HTTP_001.json": {
+    "bytes": 1333,
+    "sha256": "eadcf5ab066918eedb7e88b5ab15e57dfcd8376de167d05c80ba517c70a02f95",
+    "origin": "C:\\fgi_pilot\\data\\raw\\46_soxx\\source_original\\SOXX_CHART_HTTP_001.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/46_soxx/source_original/SOXX_CHART_HTTP_002.json": {
+    "bytes": 468012,
+    "sha256": "c266934a0438e91e3ca02f26bc14e238e46eb669de6328e3564249cbe1ecc2c4",
+    "origin": "C:\\fgi_pilot\\data\\raw\\46_soxx\\source_original\\SOXX_CHART_HTTP_002.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/46_soxx/source_original/SOXX_YFINANCE_RETURN.csv": {
+    "bytes": 565355,
+    "sha256": "dc9a53996729be1209b7f1be6cad587e1ac7fcc2a99166365df1b3a154c752f0",
+    "origin": "C:\\fgi_pilot\\data\\raw\\46_soxx\\source_original\\SOXX_YFINANCE_RETURN.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/46_soxx/source_original/YFINANCE_FETCH_METADATA.json": {
+    "bytes": 1819,
+    "sha256": "73ca26251af921f0ab8633a59e8d6a9a8049d6994807c4b1e4a86eb1972875bc",
+    "origin": "C:\\fgi_pilot\\data\\raw\\46_soxx\\source_original\\YFINANCE_FETCH_METADATA.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/47_smh/47_smh_RAW_20100104_20261015.csv": {
+    "bytes": 469598,
+    "sha256": "7145a1184b531d4f624a2003039070544ee71526627cfc5e3311c4746d08dbbb",
+    "origin": "C:\\fgi_pilot\\data\\raw\\47_smh\\47_smh_RAW_20100104_20261015.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/47_smh/actions/SMH_CORPORATE_ACTIONS.csv": {
+    "bytes": 622,
+    "sha256": "25d2c59f558fc624512c35214b73d8289597bb1463b385892d546e9b90b59f03",
+    "origin": "C:\\fgi_pilot\\data\\raw\\47_smh\\actions\\SMH_CORPORATE_ACTIONS.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/47_smh/RAW_METADATA.json": {
+    "bytes": 2211,
+    "sha256": "dd4ac2e7021c6577c31f75d85fb9c5d58bf85de475c9e454516b7f86e47edd18",
+    "origin": "C:\\fgi_pilot\\data\\raw\\47_smh\\RAW_METADATA.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/47_smh/source_original/SMH_CHART_HTTP_001.json": {
+    "bytes": 1322,
+    "sha256": "e8b86e327ddd1fd384bef0eb9aa82704395da76fa434801485b0168ba64cb2ba",
+    "origin": "C:\\fgi_pilot\\data\\raw\\47_smh\\source_original\\SMH_CHART_HTTP_001.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/47_smh/source_original/SMH_CHART_HTTP_002.json": {
+    "bytes": 462919,
+    "sha256": "0a97b626411ecc8bbbe32de6e4d4e2bbbcd064a3d7c97513bfe082131db0d10b",
+    "origin": "C:\\fgi_pilot\\data\\raw\\47_smh\\source_original\\SMH_CHART_HTTP_002.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/47_smh/source_original/SMH_YFINANCE_RETURN.csv": {
+    "bytes": 562057,
+    "sha256": "3929e5e5658cccb988c548c47fbf2d35179d161e09930a357ec9b4d647370ee4",
+    "origin": "C:\\fgi_pilot\\data\\raw\\47_smh\\source_original\\SMH_YFINANCE_RETURN.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/47_smh/source_original/YFINANCE_FETCH_METADATA.json": {
+    "bytes": 1810,
+    "sha256": "05de3f155666ca365e7816982d54442d80f6d33b948d3f74a45a05e1bc65f6c9",
+    "origin": "C:\\fgi_pilot\\data\\raw\\47_smh\\source_original\\YFINANCE_FETCH_METADATA.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/48_icsa/48_icsa_RAW_20100102_20261010.csv": {
+    "bytes": 16493,
+    "sha256": "a887960aae9e3b31828856b8fe545f058f9dbff84b406c1c49d41d90d4738fc9",
+    "origin": "C:\\fgi_pilot\\data\\raw\\48_icsa\\48_icsa_RAW_20100102_20261010.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/48_icsa/RAW_METADATA.json": {
+    "bytes": 1507,
+    "sha256": "0e4010c78eb41bc80085cba1b723f4da7c8edd207183d0cd49d6ff3df27b83dd",
+    "origin": "C:\\fgi_pilot\\data\\raw\\48_icsa\\RAW_METADATA.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/48_icsa/source_original/HTTP_RESPONSE_METADATA.json": {
+    "bytes": 2194,
+    "sha256": "33d5622f406e0f5da61f82587c926091fd4f5f16fd3c8a3eabefa11a20b56001",
+    "origin": "C:\\fgi_pilot\\data\\raw\\48_icsa\\source_original\\HTTP_RESPONSE_METADATA.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/48_icsa/source_original/ICSA.csv": {
+    "bytes": 56184,
+    "sha256": "2b1eb1b4a5f5bf48779bffa43197db6e657349964bd7634c468b5ddf1e26b72d",
+    "origin": "C:\\fgi_pilot\\data\\raw\\48_icsa\\source_original\\ICSA.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/49_cpiaucsl/49_cpiaucsl_RAW_20100101_20260901.csv": {
+    "bytes": 4537,
+    "sha256": "5b26d979114d3f5ec64abb6d07dad2034f997a3e5a32af200b0bee4cb73d74df",
+    "origin": "C:\\fgi_pilot\\data\\raw\\49_cpiaucsl\\49_cpiaucsl_RAW_20100101_20260901.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/49_cpiaucsl/RAW_METADATA.json": {
+    "bytes": 1548,
+    "sha256": "74c8a89f1db40780c59667ae3527f2a27365aaaf98ad96d6a95fa11dc436bb47",
+    "origin": "C:\\fgi_pilot\\data\\raw\\49_cpiaucsl\\RAW_METADATA.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/49_cpiaucsl/source_original/CPIAUCSL.csv": {
+    "bytes": 17763,
+    "sha256": "8556b710094027fa4724641d48be620cc37c04abfa15a0c496378cf1146c1549",
+    "origin": "C:\\fgi_pilot\\data\\raw\\49_cpiaucsl\\source_original\\CPIAUCSL.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/49_cpiaucsl/source_original/HTTP_RESPONSE_METADATA.json": {
+    "bytes": 2214,
+    "sha256": "4f1f785681b6c3549dafa0f85c128fcba8e50064ebdc3b6cd13ef06d87bb59c7",
+    "origin": "C:\\fgi_pilot\\data\\raw\\49_cpiaucsl\\source_original\\HTTP_RESPONSE_METADATA.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/50_cpilfesl/50_cpilfesl_RAW_20100101_20260901.csv": {
+    "bytes": 4537,
+    "sha256": "5ab78c9a56b74fc8d4b0ddd5e44ad89294419185cf13c155b308608cbae8bc2d",
+    "origin": "C:\\fgi_pilot\\data\\raw\\50_cpilfesl\\50_cpilfesl_RAW_20100101_20260901.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/50_cpilfesl/RAW_METADATA.json": {
+    "bytes": 1548,
+    "sha256": "4cbd0f5b8bb5a28e7979f4eb3be9f1fa67815b5fd1a21adea0903c7bb43ab2b3",
+    "origin": "C:\\fgi_pilot\\data\\raw\\50_cpilfesl\\RAW_METADATA.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/50_cpilfesl/source_original/CPILFESL.csv": {
+    "bytes": 15603,
+    "sha256": "182058ceeb094cb2af1dfe7474553c50d779e3907c9472302d30c0d64ea147d0",
+    "origin": "C:\\fgi_pilot\\data\\raw\\50_cpilfesl\\source_original\\CPILFESL.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/50_cpilfesl/source_original/HTTP_RESPONSE_METADATA.json": {
+    "bytes": 2214,
+    "sha256": "46fa15c0f3f88bf7cb843db4f5044f4e60a7e5545ba22b642fc1a436de8385a1",
+    "origin": "C:\\fgi_pilot\\data\\raw\\50_cpilfesl\\source_original\\HTTP_RESPONSE_METADATA.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/51_payems/51_payems_RAW_20100101_20260901.csv": {
+    "bytes": 4336,
+    "sha256": "e4fbf6c03827c47e70d1d69d902af74c8e19103c6745ea23f35371279ee2b56c",
+    "origin": "C:\\fgi_pilot\\data\\raw\\51_payems\\51_payems_RAW_20100101_20260901.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/51_payems/RAW_METADATA.json": {
+    "bytes": 1532,
+    "sha256": "a3b347eb8d73fb4309fe6868f6f9d1a96ec4b3d92e8ec29adf48bd22d1f044c4",
+    "origin": "C:\\fgi_pilot\\data\\raw\\51_payems\\RAW_METADATA.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/51_payems/source_original/HTTP_RESPONSE_METADATA.json": {
+    "bytes": 2204,
+    "sha256": "a7f63f1f6db0274d494a12bbe7109cf566a2f229beb782c7cfe6f087c3d8cc6f",
+    "origin": "C:\\fgi_pilot\\data\\raw\\51_payems\\source_original\\HTTP_RESPONSE_METADATA.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/51_payems/source_original/PAYEMS.csv": {
+    "bytes": 18405,
+    "sha256": "c8c429818ed73de6db985f4ff565d64bd2a5ba66a6b651b39373a1532924fc0e",
+    "origin": "C:\\fgi_pilot\\data\\raw\\51_payems\\source_original\\PAYEMS.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/52_unrate/52_unrate_RAW_20100101_20260901.csv": {
+    "bytes": 3721,
+    "sha256": "0120c4cd64e53dd0bdc3e7357fcae5dd831f2b0e72e10deb944ac894a133d1ca",
+    "origin": "C:\\fgi_pilot\\data\\raw\\52_unrate\\52_unrate_RAW_20100101_20260901.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/52_unrate/RAW_METADATA.json": {
+    "bytes": 1507,
+    "sha256": "db0a47eb339313303f67b2dcd3503321e14e0986eaef8d237f42a318633ddb51",
+    "origin": "C:\\fgi_pilot\\data\\raw\\52_unrate\\RAW_METADATA.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/52_unrate/source_original/HTTP_RESPONSE_METADATA.json": {
+    "bytes": 2204,
+    "sha256": "ef603d26abb8db75ab5dbac9c97e84c139842d86aa21188d7a95ebc082968679",
+    "origin": "C:\\fgi_pilot\\data\\raw\\52_unrate\\source_original\\HTTP_RESPONSE_METADATA.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/52_unrate/source_original/UNRATE.csv": {
+    "bytes": 14211,
+    "sha256": "621ff6fadf50910cb7a21ee20ba610c247cb043b29b4e05c4c1a72fadca2a06c",
+    "origin": "C:\\fgi_pilot\\data\\raw\\52_unrate\\source_original\\UNRATE.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/_derived_sox_rsi14_v1_20261020/DERIVATION_METADATA.json": {
+    "bytes": 799,
+    "sha256": "1524bcdbe32085bc173e9417e7eadd3e888905bcf9f5e723cdaf37dc1a7d47da",
+    "origin": "C:\\fgi_pilot\\data\\raw\\_derived_sox_rsi14_v1_20261020\\DERIVATION_METADATA.json",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/_derived_sox_rsi14_v1_20261020/README.md": {
+    "bytes": 624,
+    "sha256": "11734b5dc1bc42523298343a3462d3ea4d6f0b71c1aa87e816b4ff49b0e8c285",
+    "origin": "C:\\fgi_pilot\\data\\raw\\_derived_sox_rsi14_v1_20261020\\README.md",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/_derived_sox_rsi14_v1_20261020/SOX_RSI14_WILDER_DERIVED.csv": {
+    "bytes": 186629,
+    "sha256": "aa10f5a2bfed648408ac2a1abeea8a737934fbeeeb93582f9a320eebe36644bc",
+    "origin": "C:\\fgi_pilot\\data\\raw\\_derived_sox_rsi14_v1_20261020\\SOX_RSI14_WILDER_DERIVED.csv",
+    "role": "collected_raw_or_source_evidence; may include unused sources"
+  },
+  "01_RAW/RAW_파일목록.csv": {
+    "bytes": 65926,
+    "sha256": "7b8f05755c827d57fd9d76599624b050ab09983d8e8758ceb480be2b68c0c168",
+    "origin": "",
+    "role": "raw_inventory"
+  },
+  "02_변수데이터/X216_예측시점정렬_NO_Y.csv": {
+    "bytes": 13388668,
+    "sha256": "2da103413773372e4ad604a66f20992b97d4cdf93671c0cc1bfe33884e596300",
+    "origin": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\staged_multi_algorithm_v2_20261023\\X216_WITHOUT_FRENCH_COMPONENTS_NO_Y.csv",
+    "role": "exact_input_or_data_dictionary; original status labels preserved"
+  },
+  "02_변수데이터/French_A_420_예측시점정렬_NO_Y.csv": {
+    "bytes": 25883466,
+    "sha256": "3649d527d4c9ba85c46d6a36e0187ec212d05362f79407e13bef7f9a2fd6f094",
+    "origin": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\french_release_scenarios_v1_20261023\\NEXT20_FRENCH420_ALIGNED_NO_Y.csv",
+    "role": "exact_input_or_data_dictionary; original status labels preserved"
+  },
+  "02_변수데이터/French_B_420_예측시점정렬_NO_Y.csv": {
+    "bytes": 25879289,
+    "sha256": "3ae2f109d27a4cd3e2ac663414cbc0b76867549396a4b5e1cba6e68285bcfa1e",
+    "origin": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\french_release_scenarios_v1_20261023\\MONTH2_FIRST_FRENCH420_ALIGNED_NO_Y.csv",
+    "role": "exact_input_or_data_dictionary; original status labels preserved"
+  },
+  "03_Y/정답_수익률_이진_4등급.csv": {
+    "bytes": 232381,
+    "sha256": "7704925e1de3d0afbbcdc8ff34d30e87bb69972257086d44946d00ba2ccd3c2e",
+    "origin": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\staged_multi_algorithm_v2_20261023\\LABELS_FOR_TRAINING_ONLY.csv",
+    "role": "exact_input_or_data_dictionary; original status labels preserved"
+  },
+  "04_설명_조합/GROUPS.json": {
+    "bytes": 5853,
+    "sha256": "74ebd73e0aca02502025245bae14caf6986d5de8ec837cbb1104ed991b5b6098",
+    "origin": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\staged_multi_algorithm_v2_20261023\\GROUPS.json",
+    "role": "exact_input_or_data_dictionary; original status labels preserved"
+  },
+  "04_설명_조합/BANK16.json": {
+    "bytes": 329,
+    "sha256": "581bf5b76748f7e4c09c916db0a89ff86f47c39452bdedbd5111499f037939c6",
+    "origin": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\crossed_feature_algorithm_v1_20261023\\BANK16.json",
+    "role": "exact_input_or_data_dictionary; original status labels preserved"
+  },
+  "04_설명_조합/16개조합_후보변수목록.csv": {
+    "bytes": 15811,
+    "sha256": "ee83960a273f9f771bf47499d1864a8826e820894c043a24ce0a28017cf24b9d",
+    "origin": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\crossed_feature_algorithm_v1_20261023\\FINAL16_VARIABLE_COMBINATIONS.csv",
+    "role": "exact_input_or_data_dictionary; original status labels preserved"
+  },
+  "04_설명_조합/French420_변수사전.csv": {
+    "bytes": 131000,
+    "sha256": "397a431dacf283e3d88ff379fdd5d4704ec0a64f80bfce29c1f17f096d4e8ef6",
+    "origin": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\french_release_scenarios_v1_20261023\\FRENCH_VARIABLE_DICTIONARY.csv",
+    "role": "exact_input_or_data_dictionary; original status labels preserved"
+  },
+  "04_설명_조합/French_공개일유예가정.csv": {
+    "bytes": 24464,
+    "sha256": "717ba3acd7fb9eac68c60fbe1831c59ff7f775e3f27d88b06b74e8b74a4b6af4",
+    "origin": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\french_release_scenarios_v1_20261023\\RELEASE_ASSUMPTIONS.csv",
+    "role": "exact_input_or_data_dictionary; original status labels preserved"
+  },
+  "04_설명_조합/French_예측일별관측일_정렬.csv": {
+    "bytes": 825055,
+    "sha256": "eaa6da08e38f417ab5c158f1833cba3bd97327357b95b6204b872fbb4970a8e3",
+    "origin": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\french_release_scenarios_v1_20261023\\LINEAGE_09ET.csv",
+    "role": "exact_input_or_data_dictionary; original status labels preserved"
+  },
+  "04_설명_조합/추가변수_RAW_계산식_공개규칙.csv": {
+    "bytes": 280797,
+    "sha256": "8d7a8a2f176415494d4b9dea023f1d441eea3d42f3f6f5a58648c9f9a9dbfcc9",
+    "origin": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023\\변수목록_RAW_계산식_공개규칙.csv",
+    "role": "exact_input_or_data_dictionary; original status labels preserved"
+  },
+  "04_설명_조합/추가변수_시점정렬_설명.md": {
+    "bytes": 5995,
+    "sha256": "0806aca8e081d23f83c8c3473a7cd931d1ff12ab3b51732953c6e041e0a5f15b",
+    "origin": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023\\적용기준_핵심정리.md",
+    "role": "exact_input_or_data_dictionary; original status labels preserved"
+  },
+  "04_설명_조합/추가변수_공개달력.csv": {
+    "bytes": 593570,
+    "sha256": "929001e524407159a4ff23bb710bd40bbf89f1d1afef990934060592e61c7b60",
+    "origin": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023\\RELEASE_EVENT_CALENDAR.csv",
+    "role": "exact_input_or_data_dictionary; original status labels preserved"
+  },
+  "04_설명_조합/기존55_변수사전.csv": {
+    "bytes": 3522,
+    "sha256": "fd59d8210587a86117aff4e47cc0d22c811f788c4b3216889c8b0403ef7456cd",
+    "origin": "source_archive/base_features/FEATURE_DICTIONARY.csv",
+    "role": "exact_input_or_data_dictionary; original status labels preserved"
+  },
+  "04_설명_조합/FGI등_변수사전.csv": {
+    "bytes": 6565,
+    "sha256": "9ad03dd8a4be1723660ffe9a06516e7667ed994d299fa60b721afc3180d4cbf1",
+    "origin": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\market_fgi_features_v1_20261023\\변수설명_RAW_계산식_가용조건.csv",
+    "role": "exact_input_or_data_dictionary; original status labels preserved"
+  },
+  "04_설명_조합/ATR_밴드_시점정렬.csv": {
+    "bytes": 456701,
+    "sha256": "94af46478b8555964b3d178217031adf423a22513d63188b7fff3efa0915f352",
+    "origin": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\atr_bandwidth_70_53_v1_20261022\\FEATURE_LINEAGE.csv",
+    "role": "exact_input_or_data_dictionary; original status labels preserved"
+  },
+  "02_변수데이터/변수별_기간_결측목록.csv": {
+    "bytes": 76856,
+    "sha256": "d99a06f3bca0f1d6be6903f5339e93f2d5514b25e3f0295c2071f4ef6073775e",
+    "origin": "",
+    "role": "actual_feature_coverage"
+  },
+  "05_실제모델입력_월별/2024-01/X_train_X_eval.npz": {
+    "bytes": 2022866,
+    "sha256": "065cf20625384a249234f53df15fdfcbb1a60a9c092e519e2a28af1a96a19279",
+    "origin": "",
+    "role": "exact standardized training/evaluation X; no Y; allow_pickle=False"
+  },
+  "05_실제모델입력_월별/2024-01/FEATURES_16개조합.json": {
+    "bytes": 19240,
+    "sha256": "032ee255d3ac39f881ff1aea259a96cacee4892e0a93af5889e94c6ebd335984",
+    "origin": "",
+    "role": "exact feature subsets shared by all algorithms and targets"
+  },
+  "05_실제모델입력_월별/2024-01/X_eval.csv": {
+    "bytes": 74381,
+    "sha256": "549323d66abbeadcfd76a36c9d4597c9f06775d6f4a625091f68e68817364699",
+    "origin": "",
+    "role": "exact standardized evaluation X"
+  },
+  "05_실제모델입력_월별/2024-02/X_train_X_eval.npz": {
+    "bytes": 2035571,
+    "sha256": "652044a17509ca915dcb5fa4738a64fbd80221b88c79826ef69ea2f2b74dd14e",
+    "origin": "",
+    "role": "exact standardized training/evaluation X; no Y; allow_pickle=False"
+  },
+  "05_실제모델입력_월별/2024-02/FEATURES_16개조합.json": {
+    "bytes": 19240,
+    "sha256": "032ee255d3ac39f881ff1aea259a96cacee4892e0a93af5889e94c6ebd335984",
+    "origin": "",
+    "role": "exact feature subsets shared by all algorithms and targets"
+  },
+  "05_실제모델입력_월별/2024-02/X_eval.csv": {
+    "bytes": 71065,
+    "sha256": "5bac902d8745883e507c66b2587e9a2103fbefb892928779bd860aa890a25afb",
+    "origin": "",
+    "role": "exact standardized evaluation X"
+  },
+  "05_실제모델입력_월별/2024-03/X_train_X_eval.npz": {
+    "bytes": 2045991,
+    "sha256": "0e3d5d9c130025bba0de53235d746aced70f45c615c1f3e6b3669af363c51c14",
+    "origin": "",
+    "role": "exact standardized training/evaluation X; no Y; allow_pickle=False"
+  },
+  "05_실제모델입력_월별/2024-03/FEATURES_16개조합.json": {
+    "bytes": 19240,
+    "sha256": "032ee255d3ac39f881ff1aea259a96cacee4892e0a93af5889e94c6ebd335984",
+    "origin": "",
+    "role": "exact feature subsets shared by all algorithms and targets"
+  },
+  "05_실제모델입력_월별/2024-03/X_eval.csv": {
+    "bytes": 70679,
+    "sha256": "751adb702b4f9c3cf25e62bcd7ddd54a4960f1f86e998bca598d87ff92151b95",
+    "origin": "",
+    "role": "exact standardized evaluation X"
+  },
+  "05_실제모델입력_월별/2024-04/X_train_X_eval.npz": {
+    "bytes": 2061220,
+    "sha256": "0ad2b3731dccb306ee141c923012e79c64fd9fb41a9b5d2ab73f05764a5e05ae",
+    "origin": "",
+    "role": "exact standardized training/evaluation X; no Y; allow_pickle=False"
+  },
+  "05_실제모델입력_월별/2024-04/FEATURES_16개조합.json": {
+    "bytes": 19240,
+    "sha256": "032ee255d3ac39f881ff1aea259a96cacee4892e0a93af5889e94c6ebd335984",
+    "origin": "",
+    "role": "exact feature subsets shared by all algorithms and targets"
+  },
+  "05_실제모델입력_월별/2024-04/X_eval.csv": {
+    "bytes": 77560,
+    "sha256": "c2f4a56df4ac05a21433d59c3c884874a62886a5b360e446684e6b996d154d87",
+    "origin": "",
+    "role": "exact standardized evaluation X"
+  },
+  "05_실제모델입력_월별/2024-05/X_train_X_eval.npz": {
+    "bytes": 2075157,
+    "sha256": "a2e173d7929cbb226b5f20c1a72fe1e0e411ff1fb39578cb649ce0422ab2ba77",
+    "origin": "",
+    "role": "exact standardized training/evaluation X; no Y; allow_pickle=False"
+  },
+  "05_실제모델입력_월별/2024-05/FEATURES_16개조합.json": {
+    "bytes": 19240,
+    "sha256": "032ee255d3ac39f881ff1aea259a96cacee4892e0a93af5889e94c6ebd335984",
+    "origin": "",
+    "role": "exact feature subsets shared by all algorithms and targets"
+  },
+  "05_실제모델입력_월별/2024-05/X_eval.csv": {
+    "bytes": 77545,
+    "sha256": "45d505abcd7da618921780603b415267c095746352631caab65f1b00ec6583a6",
+    "origin": "",
+    "role": "exact standardized evaluation X"
+  },
+  "05_실제모델입력_월별/2024-06/X_train_X_eval.npz": {
+    "bytes": 2085689,
+    "sha256": "016fa95ce89de239fb7f82244059906c05ab7afbcf7333e15840bdd1a53a5a7d",
+    "origin": "",
+    "role": "exact standardized training/evaluation X; no Y; allow_pickle=False"
+  },
+  "05_실제모델입력_월별/2024-06/FEATURES_16개조합.json": {
+    "bytes": 19240,
+    "sha256": "032ee255d3ac39f881ff1aea259a96cacee4892e0a93af5889e94c6ebd335984",
+    "origin": "",
+    "role": "exact feature subsets shared by all algorithms and targets"
+  },
+  "05_실제모델입력_월별/2024-06/X_eval.csv": {
+    "bytes": 67414,
+    "sha256": "38f48bfcbb22db34d3c2148734fa962ca620bda681d2b63bc8bb4f4a1b4b8ff9",
+    "origin": "",
+    "role": "exact standardized evaluation X"
+  },
+  "05_실제모델입력_월별/2024-07/X_train_X_eval.npz": {
+    "bytes": 2101168,
+    "sha256": "f3dce1d0595b78abdfe7d874d4e122bde2a71eb768f494a571e476962a9611b1",
+    "origin": "",
+    "role": "exact standardized training/evaluation X; no Y; allow_pickle=False"
+  },
+  "05_실제모델입력_월별/2024-07/FEATURES_16개조합.json": {
+    "bytes": 19240,
+    "sha256": "032ee255d3ac39f881ff1aea259a96cacee4892e0a93af5889e94c6ebd335984",
+    "origin": "",
+    "role": "exact feature subsets shared by all algorithms and targets"
+  },
+  "05_실제모델입력_월별/2024-07/X_eval.csv": {
+    "bytes": 77504,
+    "sha256": "432524597e90fca10efbe634fa2b8419dbd44437f121e29d6232f18c908476c4",
+    "origin": "",
+    "role": "exact standardized evaluation X"
+  },
+  "05_실제모델입력_월별/2024-08/X_train_X_eval.npz": {
+    "bytes": 2114107,
+    "sha256": "d04b0b14ac5a8c78ba6dddb44d81221cc9c8e9bf26817086e87953c60aa6d299",
+    "origin": "",
+    "role": "exact standardized training/evaluation X; no Y; allow_pickle=False"
+  },
+  "05_실제모델입력_월별/2024-08/FEATURES_16개조합.json": {
+    "bytes": 19240,
+    "sha256": "032ee255d3ac39f881ff1aea259a96cacee4892e0a93af5889e94c6ebd335984",
+    "origin": "",
+    "role": "exact feature subsets shared by all algorithms and targets"
+  },
+  "05_실제모델입력_월별/2024-08/X_eval.csv": {
+    "bytes": 76988,
+    "sha256": "c7961149ac2b0f85ee7a8f6ba5b2113306b913ed774bc347d7235ba2b3b50091",
+    "origin": "",
+    "role": "exact standardized evaluation X"
+  },
+  "05_실제모델입력_월별/2024-09/X_train_X_eval.npz": {
+    "bytes": 2125157,
+    "sha256": "7637472c3ba86a914a23488514a45069d2039c9bad6027d5176b7cb95d04863b",
+    "origin": "",
+    "role": "exact standardized training/evaluation X; no Y; allow_pickle=False"
+  },
+  "05_실제모델입력_월별/2024-09/FEATURES_16개조합.json": {
+    "bytes": 19240,
+    "sha256": "032ee255d3ac39f881ff1aea259a96cacee4892e0a93af5889e94c6ebd335984",
+    "origin": "",
+    "role": "exact feature subsets shared by all algorithms and targets"
+  },
+  "05_실제모델입력_월별/2024-09/X_eval.csv": {
+    "bytes": 70630,
+    "sha256": "a1889f6fa3d6e3bf5ff5f3c0d458234a6f6fc37a9d3d1a4f319b2461220eac85",
+    "origin": "",
+    "role": "exact standardized evaluation X"
+  },
+  "05_실제모델입력_월별/2024-10/X_train_X_eval.npz": {
+    "bytes": 2142071,
+    "sha256": "c47ace140e3387719a6a7341db18fb965c1835aefa965ad85ba1124e2f9e7c59",
+    "origin": "",
+    "role": "exact standardized training/evaluation X; no Y; allow_pickle=False"
+  },
+  "05_실제모델입력_월별/2024-10/FEATURES_16개조합.json": {
+    "bytes": 19240,
+    "sha256": "032ee255d3ac39f881ff1aea259a96cacee4892e0a93af5889e94c6ebd335984",
+    "origin": "",
+    "role": "exact feature subsets shared by all algorithms and targets"
+  },
+  "05_실제모델입력_월별/2024-10/X_eval.csv": {
+    "bytes": 80880,
+    "sha256": "6cdd3fb73fad189ecb64a5176f5dd1ae6a2377a3a9936155aba2f5a3e14a6dc4",
+    "origin": "",
+    "role": "exact standardized evaluation X"
+  },
+  "05_실제모델입력_월별/2024-11/X_train_X_eval.npz": {
+    "bytes": 2153262,
+    "sha256": "0d0c39e41df6a6135342304f3a1c185eeb55d0d1b32ef062406968c7235d50bf",
+    "origin": "",
+    "role": "exact standardized training/evaluation X; no Y; allow_pickle=False"
+  },
+  "05_실제모델입력_월별/2024-11/FEATURES_16개조합.json": {
+    "bytes": 19240,
+    "sha256": "032ee255d3ac39f881ff1aea259a96cacee4892e0a93af5889e94c6ebd335984",
+    "origin": "",
+    "role": "exact feature subsets shared by all algorithms and targets"
+  },
+  "05_실제모델입력_월별/2024-11/X_eval.csv": {
+    "bytes": 70978,
+    "sha256": "d50e5741ae248094d68cd303ef0b232756fc4ea8b2807e06445a78fc9af6d22e",
+    "origin": "",
+    "role": "exact standardized evaluation X"
+  },
+  "05_실제모델입력_월별/2024-12/X_train_X_eval.npz": {
+    "bytes": 2166012,
+    "sha256": "7ad75f224e538a59e295d97464db01fe4c9c360e0aa9634f9e31c1241c0e9252",
+    "origin": "",
+    "role": "exact standardized training/evaluation X; no Y; allow_pickle=False"
+  },
+  "05_실제모델입력_월별/2024-12/FEATURES_16개조합.json": {
+    "bytes": 19240,
+    "sha256": "032ee255d3ac39f881ff1aea259a96cacee4892e0a93af5889e94c6ebd335984",
+    "origin": "",
+    "role": "exact feature subsets shared by all algorithms and targets"
+  },
+  "05_실제모델입력_월별/2024-12/X_eval.csv": {
+    "bytes": 74507,
+    "sha256": "e42f25bfebbf3bbb0cc297708a0602fb6f2e8706e7c2ba7b29935b3389282e42",
+    "origin": "",
+    "role": "exact standardized evaluation X"
+  },
+  "05_실제모델입력_월별/2025-01/X_train_X_eval.npz": {
+    "bytes": 2177979,
+    "sha256": "084a08a7dfea90c678e53692ac8a53a4387b267a05995d99ca4b03edab6af2ab",
+    "origin": "",
+    "role": "exact standardized training/evaluation X; no Y; allow_pickle=False"
+  },
+  "05_실제모델입력_월별/2025-01/FEATURES_16개조합.json": {
+    "bytes": 19240,
+    "sha256": "032ee255d3ac39f881ff1aea259a96cacee4892e0a93af5889e94c6ebd335984",
+    "origin": "",
+    "role": "exact feature subsets shared by all algorithms and targets"
+  },
+  "05_실제모델입력_월별/2025-01/X_eval.csv": {
+    "bytes": 70649,
+    "sha256": "325cbdef100765886db12b81cc70df4963a9c517eddf39c7c4fb39a8923c1c8a",
+    "origin": "",
+    "role": "exact standardized evaluation X"
+  },
+  "05_실제모델입력_월별/2025-02/X_train_X_eval.npz": {
+    "bytes": 2190618,
+    "sha256": "a7ea6b6521843cd92c2b81aa6e907fa367ebe517acd089244615f4cbc035d552",
+    "origin": "",
+    "role": "exact standardized training/evaluation X; no Y; allow_pickle=False"
+  },
+  "05_실제모델입력_월별/2025-02/FEATURES_16개조합.json": {
+    "bytes": 19240,
+    "sha256": "032ee255d3ac39f881ff1aea259a96cacee4892e0a93af5889e94c6ebd335984",
+    "origin": "",
+    "role": "exact feature subsets shared by all algorithms and targets"
+  },
+  "05_실제모델입력_월별/2025-02/X_eval.csv": {
+    "bytes": 67659,
+    "sha256": "e8025b39e5239350299d8001f322f0ac92bc4f4a6f70d42c87493c5af535e8eb",
+    "origin": "",
+    "role": "exact standardized evaluation X"
+  },
+  "05_실제모델입력_월별/2025-03/X_train_X_eval.npz": {
+    "bytes": 2203968,
+    "sha256": "52fdefb47d2b07fca8aba16f74a52e4ac72f89852123227beae37b87572d4712",
+    "origin": "",
+    "role": "exact standardized training/evaluation X; no Y; allow_pickle=False"
+  },
+  "05_실제모델입력_월별/2025-03/FEATURES_16개조합.json": {
+    "bytes": 19240,
+    "sha256": "032ee255d3ac39f881ff1aea259a96cacee4892e0a93af5889e94c6ebd335984",
+    "origin": "",
+    "role": "exact feature subsets shared by all algorithms and targets"
+  },
+  "05_실제모델입력_월별/2025-03/X_eval.csv": {
+    "bytes": 74502,
+    "sha256": "fa1ce7c0401d78a755bc93754783000a20902d8c44495066c68c4ac5afa9d37a",
+    "origin": "",
+    "role": "exact standardized evaluation X"
+  },
+  "05_실제모델입력_월별/2025-04/X_train_X_eval.npz": {
+    "bytes": 2216433,
+    "sha256": "d3381f443ae650593fcc9c4fce9c51496ff8a583fa35fddc4d03bffc2e88dc95",
+    "origin": "",
+    "role": "exact standardized training/evaluation X; no Y; allow_pickle=False"
+  },
+  "05_실제모델입력_월별/2025-04/FEATURES_16개조합.json": {
+    "bytes": 19240,
+    "sha256": "032ee255d3ac39f881ff1aea259a96cacee4892e0a93af5889e94c6ebd335984",
+    "origin": "",
+    "role": "exact feature subsets shared by all algorithms and targets"
+  },
+  "05_실제모델입력_월별/2025-04/X_eval.csv": {
+    "bytes": 73661,
+    "sha256": "5e13ef9e38b035d5e583663164eef132a362ad43f99a1a6dbaacb2b28d7d19ce",
+    "origin": "",
+    "role": "exact standardized evaluation X"
+  },
+  "05_실제모델입력_월별/2025-05/X_train_X_eval.npz": {
+    "bytes": 2229825,
+    "sha256": "4c70f4c9a7ec7f09623316eb0b9dde22f1c96354724fc73cedb13667863c380e",
+    "origin": "",
+    "role": "exact standardized training/evaluation X; no Y; allow_pickle=False"
+  },
+  "05_실제모델입력_월별/2025-05/FEATURES_16개조합.json": {
+    "bytes": 19240,
+    "sha256": "032ee255d3ac39f881ff1aea259a96cacee4892e0a93af5889e94c6ebd335984",
+    "origin": "",
+    "role": "exact feature subsets shared by all algorithms and targets"
+  },
+  "05_실제모델입력_월별/2025-05/X_eval.csv": {
+    "bytes": 73934,
+    "sha256": "9caef36641ade8945709c32d7c71a7503d934c8e0221fa5c7e878990ac662626",
+    "origin": "",
+    "role": "exact standardized evaluation X"
+  },
+  "05_실제모델입력_월별/2025-06/X_train_X_eval.npz": {
+    "bytes": 2242973,
+    "sha256": "56f140f135fe3e2ba1d7fbea27bfbd6e5a1454c45d1751cd8cbc7491bc48c65d",
+    "origin": "",
+    "role": "exact standardized training/evaluation X; no Y; allow_pickle=False"
+  },
+  "05_실제모델입력_월별/2025-06/FEATURES_16개조합.json": {
+    "bytes": 19240,
+    "sha256": "032ee255d3ac39f881ff1aea259a96cacee4892e0a93af5889e94c6ebd335984",
+    "origin": "",
+    "role": "exact feature subsets shared by all algorithms and targets"
+  },
+  "05_실제모델입력_월별/2025-06/X_eval.csv": {
+    "bytes": 70901,
+    "sha256": "0dd03016b2de9b7b8d248db5343d35f138b01924839e4dbeb9519b56ce3c6901",
+    "origin": "",
+    "role": "exact standardized evaluation X"
+  },
+  "05_실제모델입력_월별/2025-07/X_train_X_eval.npz": {
+    "bytes": 2254868,
+    "sha256": "8385393e949a1ad36198211bc858d2a9d0eaa7967a4b6cdd942bcec39c34bcd1",
+    "origin": "",
+    "role": "exact standardized training/evaluation X; no Y; allow_pickle=False"
+  },
+  "05_실제모델입력_월별/2025-07/FEATURES_16개조합.json": {
+    "bytes": 19240,
+    "sha256": "032ee255d3ac39f881ff1aea259a96cacee4892e0a93af5889e94c6ebd335984",
+    "origin": "",
+    "role": "exact feature subsets shared by all algorithms and targets"
+  },
+  "05_실제모델입력_월별/2025-07/X_eval.csv": {
+    "bytes": 77876,
+    "sha256": "07e67337178e17c992a8bbc0909f6720f63c55f14f99a779773af3a2156a65c1",
+    "origin": "",
+    "role": "exact standardized evaluation X"
+  },
+  "05_실제모델입력_월별/2025-08/X_train_X_eval.npz": {
+    "bytes": 2268470,
+    "sha256": "3fe2c419adadcbc245f985dd539ebb8c6f0fed6ce6f6199cd49bd4eadaad9ca7",
+    "origin": "",
+    "role": "exact standardized training/evaluation X; no Y; allow_pickle=False"
+  },
+  "05_실제모델입력_월별/2025-08/FEATURES_16개조합.json": {
+    "bytes": 19240,
+    "sha256": "032ee255d3ac39f881ff1aea259a96cacee4892e0a93af5889e94c6ebd335984",
+    "origin": "",
+    "role": "exact feature subsets shared by all algorithms and targets"
+  },
+  "05_실제모델입력_월별/2025-08/X_eval.csv": {
+    "bytes": 74669,
+    "sha256": "58009b329eafd2fbc9bdbd606f143ba348c677bb1223d1ed1c088ee70ba2b49d",
+    "origin": "",
+    "role": "exact standardized evaluation X"
+  },
+  "05_실제모델입력_월별/2025-09/X_train_X_eval.npz": {
+    "bytes": 2282076,
+    "sha256": "dfdce10b23fa4754782474d136c8482cf461b76904c8a4b12ea35117213da303",
+    "origin": "",
+    "role": "exact standardized training/evaluation X; no Y; allow_pickle=False"
+  },
+  "05_실제모델입력_월별/2025-09/FEATURES_16개조합.json": {
+    "bytes": 19240,
+    "sha256": "032ee255d3ac39f881ff1aea259a96cacee4892e0a93af5889e94c6ebd335984",
+    "origin": "",
+    "role": "exact feature subsets shared by all algorithms and targets"
+  },
+  "05_실제모델입력_월별/2025-09/X_eval.csv": {
+    "bytes": 74432,
+    "sha256": "a1f7c98a0225343ef6f0dc2bf680d064d0677ef7b3470ef55b7977525e7f6f1b",
+    "origin": "",
+    "role": "exact standardized evaluation X"
+  },
+  "05_실제모델입력_월별/2025-10/X_train_X_eval.npz": {
+    "bytes": 2295248,
+    "sha256": "19b8379ddc4edb2b5f61881145fc0180f8ccb7893452723f5edee2f51377a140",
+    "origin": "",
+    "role": "exact standardized training/evaluation X; no Y; allow_pickle=False"
+  },
+  "05_실제모델입력_월별/2025-10/FEATURES_16개조합.json": {
+    "bytes": 19240,
+    "sha256": "032ee255d3ac39f881ff1aea259a96cacee4892e0a93af5889e94c6ebd335984",
+    "origin": "",
+    "role": "exact feature subsets shared by all algorithms and targets"
+  },
+  "05_실제모델입력_월별/2025-10/X_eval.csv": {
+    "bytes": 81237,
+    "sha256": "1948bf2408da47e14abe3f346b6b5657a8bfcc907379f4aad106f825b4281caa",
+    "origin": "",
+    "role": "exact standardized evaluation X"
+  },
+  "05_실제모델입력_월별/2025-11/X_train_X_eval.npz": {
+    "bytes": 2309256,
+    "sha256": "87d4ef5b08db06ff3673f5203db573b19f86bf5297065bd795842e5f417a89d0",
+    "origin": "",
+    "role": "exact standardized training/evaluation X; no Y; allow_pickle=False"
+  },
+  "05_실제모델입력_월별/2025-11/FEATURES_16개조합.json": {
+    "bytes": 19240,
+    "sha256": "032ee255d3ac39f881ff1aea259a96cacee4892e0a93af5889e94c6ebd335984",
+    "origin": "",
+    "role": "exact feature subsets shared by all algorithms and targets"
+  },
+  "05_실제모델입력_월별/2025-11/X_eval.csv": {
+    "bytes": 67759,
+    "sha256": "283a4b5f8e285932acdc53c56e55119dd2095193d9003a922257673f8f1a9ea1",
+    "origin": "",
+    "role": "exact standardized evaluation X"
+  },
+  "05_실제모델입력_월별/2025-12/X_train_X_eval.npz": {
+    "bytes": 2320772,
+    "sha256": "f1378f2ca94943d81fe9b7e557ce7bab4a0830c313fab690d74d785c3e785f5d",
+    "origin": "",
+    "role": "exact standardized training/evaluation X; no Y; allow_pickle=False"
+  },
+  "05_실제모델입력_월별/2025-12/FEATURES_16개조합.json": {
+    "bytes": 19240,
+    "sha256": "032ee255d3ac39f881ff1aea259a96cacee4892e0a93af5889e94c6ebd335984",
+    "origin": "",
+    "role": "exact feature subsets shared by all algorithms and targets"
+  },
+  "05_실제모델입력_월별/2025-12/X_eval.csv": {
+    "bytes": 77893,
+    "sha256": "94b0719afbfec9336ec6fe90b035be54ea44ed8b96afcfd625145b3fd837be39",
+    "origin": "",
+    "role": "exact standardized evaluation X"
+  },
+  "05_실제모델입력_월별/2026-01/X_train_X_eval.npz": {
+    "bytes": 2333402,
+    "sha256": "86a65bd7fb15c67faa970650f5bcae5f65dc04230c9b113c76ccfdb7e58c66ff",
+    "origin": "",
+    "role": "exact standardized training/evaluation X; no Y; allow_pickle=False"
+  },
+  "05_실제모델입력_월별/2026-01/FEATURES_16개조합.json": {
+    "bytes": 19240,
+    "sha256": "032ee255d3ac39f881ff1aea259a96cacee4892e0a93af5889e94c6ebd335984",
+    "origin": "",
+    "role": "exact feature subsets shared by all algorithms and targets"
+  },
+  "05_실제모델입력_월별/2026-01/X_eval.csv": {
+    "bytes": 70743,
+    "sha256": "aa4a276ad0f87f46ea95297c3438661f036ec2ca95d42ea730157d6bbd2d189c",
+    "origin": "",
+    "role": "exact standardized evaluation X"
+  },
+  "05_실제모델입력_월별/2026-02/X_train_X_eval.npz": {
+    "bytes": 2346275,
+    "sha256": "47a65940aa121da42471c653bfdbfcd68c0a48ed1aff09e32e217d96ee591527",
+    "origin": "",
+    "role": "exact standardized training/evaluation X; no Y; allow_pickle=False"
+  },
+  "05_실제모델입력_월별/2026-02/FEATURES_16개조합.json": {
+    "bytes": 19240,
+    "sha256": "032ee255d3ac39f881ff1aea259a96cacee4892e0a93af5889e94c6ebd335984",
+    "origin": "",
+    "role": "exact feature subsets shared by all algorithms and targets"
+  },
+  "05_실제모델입력_월별/2026-02/X_eval.csv": {
+    "bytes": 67647,
+    "sha256": "bcd58d7f77b1f7a117c43434976203d037dfe41ea93a3e5a0b515049c7eb25d3",
+    "origin": "",
+    "role": "exact standardized evaluation X"
+  },
+  "05_실제모델입력_월별/2026-03/X_train_X_eval.npz": {
+    "bytes": 2358858,
+    "sha256": "a7509dd6b141dae8a34206026a3bf4b1ca80f1e2d40066751236d34e890da802",
+    "origin": "",
+    "role": "exact standardized training/evaluation X; no Y; allow_pickle=False"
+  },
+  "05_실제모델입력_월별/2026-03/FEATURES_16개조합.json": {
+    "bytes": 19240,
+    "sha256": "032ee255d3ac39f881ff1aea259a96cacee4892e0a93af5889e94c6ebd335984",
+    "origin": "",
+    "role": "exact feature subsets shared by all algorithms and targets"
+  },
+  "05_실제모델입력_월별/2026-03/X_eval.csv": {
+    "bytes": 77638,
+    "sha256": "16375ae1574dc07622bbd11ca596b4f6a103c54e164d0fe99541aff1d289d5aa",
+    "origin": "",
+    "role": "exact standardized evaluation X"
+  },
+  "05_실제모델입력_월별/2026-04/X_train_X_eval.npz": {
+    "bytes": 2372349,
+    "sha256": "7519a89d740f7bf97a47e9940a4ed527fa7fab05c8976222df5fa404d5503e98",
+    "origin": "",
+    "role": "exact standardized training/evaluation X; no Y; allow_pickle=False"
+  },
+  "05_실제모델입력_월별/2026-04/FEATURES_16개조합.json": {
+    "bytes": 19240,
+    "sha256": "032ee255d3ac39f881ff1aea259a96cacee4892e0a93af5889e94c6ebd335984",
+    "origin": "",
+    "role": "exact feature subsets shared by all algorithms and targets"
+  },
+  "05_실제모델입력_월별/2026-04/X_eval.csv": {
+    "bytes": 73768,
+    "sha256": "4e166de4b2273b9a8a9b4eb927675b93008b55e46aeff43aaf6b5725c3bc4934",
+    "origin": "",
+    "role": "exact standardized evaluation X"
+  },
+  "05_실제모델입력_월별/2026-05/X_train_X_eval.npz": {
+    "bytes": 2384744,
+    "sha256": "486dc819e35ad855e9c13388c33cd07a58742f04d286fe463cf4f85a417c98a6",
+    "origin": "",
+    "role": "exact standardized training/evaluation X; no Y; allow_pickle=False"
+  },
+  "05_실제모델입력_월별/2026-05/FEATURES_16개조합.json": {
+    "bytes": 19240,
+    "sha256": "032ee255d3ac39f881ff1aea259a96cacee4892e0a93af5889e94c6ebd335984",
+    "origin": "",
+    "role": "exact feature subsets shared by all algorithms and targets"
+  },
+  "05_실제모델입력_월별/2026-05/X_eval.csv": {
+    "bytes": 70262,
+    "sha256": "4c3c80d30a064a8afc2e4a015068e6adf73e22277b312bbd03eb93fd9f2ca37d",
+    "origin": "",
+    "role": "exact standardized evaluation X"
+  },
+  "05_실제모델입력_월별/2026-06/X_train_X_eval.npz": {
+    "bytes": 2398037,
+    "sha256": "5eb78d6e59d77e869e1c00dafeb07d4fce63aaa9ce63633eada8ba00e22ca837",
+    "origin": "",
+    "role": "exact standardized training/evaluation X; no Y; allow_pickle=False"
+  },
+  "05_실제모델입력_월별/2026-06/FEATURES_16개조합.json": {
+    "bytes": 19240,
+    "sha256": "032ee255d3ac39f881ff1aea259a96cacee4892e0a93af5889e94c6ebd335984",
+    "origin": "",
+    "role": "exact feature subsets shared by all algorithms and targets"
+  },
+  "05_실제모델입력_월별/2026-06/X_eval.csv": {
+    "bytes": 73904,
+    "sha256": "436d94e05ed6d4984ea3466116b431af1548d85ca5001f1a020bb33444229eda",
+    "origin": "",
+    "role": "exact standardized evaluation X"
+  },
+  "05_실제모델입력_월별/2026-07/X_train_X_eval.npz": {
+    "bytes": 2431567,
+    "sha256": "55c5809fd6812de14ea2bfb9087e38dd2f98c73fc8229552a542898333b95981",
+    "origin": "",
+    "role": "exact standardized training/evaluation X; no Y; allow_pickle=False"
+  },
+  "05_실제모델입력_월별/2026-07/FEATURES_16개조합.json": {
+    "bytes": 19288,
+    "sha256": "3d59ca96b1496f4fb1c510d8ec75bfd9f07abb371712beb45226efce502c0382",
+    "origin": "",
+    "role": "exact feature subsets shared by all algorithms and targets"
+  },
+  "05_실제모델입력_월별/2026-07/X_eval.csv": {
+    "bytes": 78345,
+    "sha256": "ae3bbbfa9a6fb36f4b91025fd4226f1c33b32fa32597b0f74cc1057cb784ea6f",
+    "origin": "",
+    "role": "exact standardized evaluation X"
+  },
+  "05_실제모델입력_월별/2026-08/X_train_X_eval.npz": {
+    "bytes": 2471865,
+    "sha256": "746fde51353b7031f61d3377bffc0c7f126f3f4ff19fe60d573000c0b33ba241",
+    "origin": "",
+    "role": "exact standardized training/evaluation X; no Y; allow_pickle=False"
+  },
+  "05_실제모델입력_월별/2026-08/FEATURES_16개조합.json": {
+    "bytes": 19509,
+    "sha256": "8f7982b6c382279d762b2cea488bd7665e0f3612c9f825d5532ef016c69120b6",
+    "origin": "",
+    "role": "exact feature subsets shared by all algorithms and targets"
+  },
+  "05_실제모델입력_월별/2026-08/X_eval.csv": {
+    "bytes": 74910,
+    "sha256": "e948b3625baf601737c8ff5503e0bb37da6d505c9858f4548dce0bbfda41c40b",
+    "origin": "",
+    "role": "exact standardized evaluation X"
+  },
+  "05_실제모델입력_월별/2026-09/X_train_X_eval.npz": {
+    "bytes": 2487293,
+    "sha256": "7abc38668829503372c90c1cf669eb30b82b5fafb4004cc656be55bb73189ab7",
+    "origin": "",
+    "role": "exact standardized training/evaluation X; no Y; allow_pickle=False"
+  },
+  "05_실제모델입력_월별/2026-09/FEATURES_16개조합.json": {
+    "bytes": 19509,
+    "sha256": "8f7982b6c382279d762b2cea488bd7665e0f3612c9f825d5532ef016c69120b6",
+    "origin": "",
+    "role": "exact feature subsets shared by all algorithms and targets"
+  },
+  "05_실제모델입력_월별/2026-09/X_eval.csv": {
+    "bytes": 75342,
+    "sha256": "c3c246f8872ba8e9645e5baacd75dfda84f13f4a392f7e6039cadfe44af5f7e3",
+    "origin": "",
+    "role": "exact standardized evaluation X"
+  },
+  "05_실제모델입력_월별/2026-10/X_train_X_eval.npz": {
+    "bytes": 2516066,
+    "sha256": "64373eae6299a4e1fb9cdc1b2db962cdf578b3891fe653e936b745cc0eede195",
+    "origin": "",
+    "role": "exact standardized training/evaluation X; no Y; allow_pickle=False"
+  },
+  "05_실제모델입력_월별/2026-10/FEATURES_16개조합.json": {
+    "bytes": 19859,
+    "sha256": "268c559aba88282907150cb3351acd095c80826b3c20be0063845f70722ef35d",
+    "origin": "",
+    "role": "exact feature subsets shared by all algorithms and targets"
+  },
+  "05_실제모델입력_월별/2026-10/X_eval.csv": {
+    "bytes": 20692,
+    "sha256": "86573ab0204add435aa9c885436967f95a652e688f16790e1a55cc2d7905d9ad",
+    "origin": "",
+    "role": "exact standardized evaluation X"
+  },
+  "05_실제모델입력_월별/월별학습평가기간.csv": {
+    "bytes": 4530,
+    "sha256": "8e62679df4f3b5cce555b4ce811960baacb6426cd4c6d8f51dcdf22c74a860da",
+    "origin": "",
+    "role": "time_split_audit"
+  },
+  "05_실제모델입력_월별/평가694일_월별변환입력_합본.csv": {
+    "bytes": 2381011,
+    "sha256": "1641c707633177bdcbac7bbbf825dab78d386fd5cbb8d9cee6f39e828561d1c5",
+    "origin": "",
+    "role": "evaluation-only concatenation; PCA coordinate systems change by month; do not retrain on this concatenation"
+  },
+  "먼저읽기_RAW_변수_사용안내.md": {
+    "bytes": 4656,
+    "sha256": "ea8ab22133d0fa60698a8c49d6a5b03be491dc1d14ef918cffa6cb6e62e0ed21",
+    "origin": "",
+    "role": "usage_and_limitations"
+  },
+  "패키지경로_원본경로_대조표.csv": {
+    "bytes": 67211,
+    "sha256": "2a47f31f8c54688a84b5f4f2916d6c6d84a8736d3dcc317d4463daa0c1d8f057",
+    "origin": "",
+    "role": "portable_path_mapping"
+  },
+  "패키지정보.json": {
+    "bytes": 325,
+    "sha256": "30ddea0eef12081a375e0f1a890520b5e928ec8fbbf1610fe0db5ac33e7ce718",
+    "origin": "",
+    "role": "package_metadata"
+  },
+  "06_보조원천_시점근거/금리/RATE_VINTAGE_VERSIONS.csv": {
+    "bytes": 1711091,
+    "sha256": "227284b11e6fd01bdad3121089cd124f7a6cf86987ebef71480353f178ab34b5",
+    "origin": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\rates_premarket_constituents_collection_v1_20261023\\tables\\RATE_VINTAGE_VERSIONS.csv",
+    "role": "supplementary release/vintage evidence"
+  },
+  "06_보조원천_시점근거/금리/RATE_FIRST_NONMISSING_VINTAGES.csv": {
+    "bytes": 1656749,
+    "sha256": "3e5857b8fb625a056ddebaa5d922f39c7b5eb7e3de2ee745bd04fe14dc262c20",
+    "origin": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\rates_premarket_constituents_collection_v1_20261023\\tables\\RATE_FIRST_NONMISSING_VINTAGES.csv",
+    "role": "supplementary release/vintage evidence"
+  },
+  "06_보조원천_시점근거/금리/RATE_09ET_ALIGNMENT_2011_2026.csv": {
+    "bytes": 1130818,
+    "sha256": "198dad7ff5de3bd554165161f52a29d33258e95b08b5c73890ecdd4371b3f8e9",
+    "origin": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\rates_premarket_constituents_collection_v1_20261023\\tables\\RATE_09ET_ALIGNMENT_2011_2026.csv",
+    "role": "supplementary release/vintage evidence"
+  },
+  "06_보조원천_시점근거/금리/RATE_TIMING_COVERAGE_BY_YEAR.csv": {
+    "bytes": 1503,
+    "sha256": "d60e208c83f47473208b1d535d095013fd1fdaf19e3ec4fdb7795634d8d47b01",
+    "origin": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\rates_premarket_constituents_collection_v1_20261023\\tables\\RATE_TIMING_COVERAGE_BY_YEAR.csv",
+    "role": "supplementary release/vintage evidence"
+  },
+  "06_보조원천_시점근거/추가변수정렬/LINEAGE_09ET.csv": {
+    "bytes": 3516233,
+    "sha256": "12170bf6984cb4fcee3aae53828945b11fdbf165682ab30359daa1ab2d512b77",
+    "origin": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023\\LINEAGE_09ET.csv",
+    "role": "supplementary release/vintage evidence"
+  },
+  "06_보조원천_시점근거/추가변수정렬/FROZEN_PLAN.json": {
+    "bytes": 47688,
+    "sha256": "0311f63d48baef8761dec78e0d5aba124eb8b42887f8a8a33fac3640423d8642",
+    "origin": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023\\FROZEN_PLAN.json",
+    "role": "supplementary release/vintage evidence"
+  },
+  "06_보조원천_시점근거/추가변수정렬/NEW_SOURCE_COVERAGE.csv": {
+    "bytes": 588,
+    "sha256": "f3eb8e5c0cb0599f731da77ca367736c5ea39938ca35f31be884cbaec4e72dfa",
+    "origin": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023\\NEW_SOURCE_COVERAGE.csv",
+    "role": "supplementary release/vintage evidence"
+  },
+  "06_보조원천_시점근거/추가변수정렬/EVIDENCE_MIX_BY_SOURCE.csv": {
+    "bytes": 191,
+    "sha256": "e564401f4b3d4a890d5d93181802d9c7b001064ac80f5db0949ec63c59005b04",
+    "origin": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023\\EVIDENCE_MIX_BY_SOURCE.csv",
+    "role": "supplementary release/vintage evidence"
+  },
+  "06_보조원천_시점근거/원정렬/LINEAGE_09ET.csv": {
+    "bytes": 7861696,
+    "sha256": "b82d69fa19601e793cb009dcb2ff2bdc63c5bf717f0f2b79b173134a276a5ad1",
+    "origin": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\unused_raw_aligned09_v1_20261023\\LINEAGE_09ET.csv",
+    "role": "supplementary release/vintage evidence"
+  },
+  "06_보조원천_시점근거/원정렬/FROZEN_PLAN.json": {
+    "bytes": 914,
+    "sha256": "2e76fe31bab8fdcca6cb3e2cb6c1ba99ebcd3d7238cdfb7b26acb195dbe9f195",
+    "origin": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\unused_raw_aligned09_v1_20261023\\FROZEN_PLAN.json",
+    "role": "supplementary release/vintage evidence"
+  },
+  "06_보조원천_시점근거/원정렬/ARCHIVE_COVERAGE_STARTS.csv": {
+    "bytes": 440,
+    "sha256": "9ca6ba3456b06cedeeed0479be111e9b817ea965053dbdb057e4c6e73ad9a3cc",
+    "origin": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\unused_raw_aligned09_v1_20261023\\ARCHIVE_COVERAGE_STARTS.csv",
+    "role": "supplementary release/vintage evidence"
+  },
+  "06_보조원천_시점근거/원정렬/SOURCE_ALIGNMENT_STATUS.csv": {
+    "bytes": 5047,
+    "sha256": "772997e77218d7a84fca3611a1717997935b857871deb7b7dd7fad6bf2cfcaaf",
+    "origin": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\unused_raw_aligned09_v1_20261023\\SOURCE_ALIGNMENT_STATUS.csv",
+    "role": "supplementary release/vintage evidence"
+  },
+  "06_보조원천_시점근거/FGI금리/RATE_INPUT_LINEAGE.csv": {
+    "bytes": 875180,
+    "sha256": "ee924c7e432daa76faa87f5a745b1af0f81c288294fe9fb6361bcd0ab7981e77",
+    "origin": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\market_fgi_features_v1_20261023\\RATE_INPUT_LINEAGE.csv",
+    "role": "supplementary release/vintage evidence"
+  },
+  "06_보조원천_시점근거/FGI금리/FGI_PROVENANCE_REVIEW.json": {
+    "bytes": 334,
+    "sha256": "bc185b689b758cfd844126de53b39aebc33647dc0ca02d438b949e11f864ce6b",
+    "origin": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\market_fgi_features_v1_20261023\\FGI_PROVENANCE_REVIEW.json",
+    "role": "supplementary release/vintage evidence"
+  },
+  "06_보조원천_시점근거/공개일근거/25_calendar_web_extract.txt": {
+    "bytes": 109526,
+    "sha256": "66c15337c554730b8dedf1035719bde224ea94b2ff4f2493953b265b0682692f",
+    "origin": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023\\sources\\25_calendar_web_extract.txt",
+    "role": "supplementary release/vintage evidence"
+  },
+  "06_보조원천_시점근거/공개일근거/37_official.pdf": {
+    "bytes": 87635,
+    "sha256": "1aeab7f0fdcdfba0b7286d71b5f409b1a2bea8a65a2d2147572edddb87b15f17",
+    "origin": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023\\sources\\37_official.pdf",
+    "role": "supplementary release/vintage evidence"
+  },
+  "06_보조원천_시점근거/공개일근거/37_schedule_text.txt": {
+    "bytes": 720,
+    "sha256": "c20fff9eb6d9fdf969d5716a98f5513490ca3bec083843b7b7256d68246c5239",
+    "origin": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023\\sources\\37_schedule_text.txt",
+    "role": "supplementary release/vintage evidence"
+  },
+  "06_보조원천_시점근거/보조파일_경로대조.csv": {
+    "bytes": 3863,
+    "sha256": "57220e4eb759ff489ec9c8bfac6a952784dd49fb07bf22591b98c1e0c361dd80",
+    "origin": "",
+    "role": "supplement_path_mapping"
+  },
+  "배포자료_경로안내.md": {
+    "bytes": 296,
+    "sha256": "90c6170cb3ec6c72a610c21980701719a6835e5d05bceda8b29f316a7dce05b9"
+  }
+}

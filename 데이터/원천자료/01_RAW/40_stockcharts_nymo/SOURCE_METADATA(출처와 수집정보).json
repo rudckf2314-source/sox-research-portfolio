@@ -1,0 +1,30 @@
+{
+  "dataset_id": "40_stockcharts_nymo",
+  "provider": "StockCharts",
+  "status": "IMPORTED",
+  "rows": 7137,
+  "min_date": "1998-06-03",
+  "max_date": "2026-10-15",
+  "duplicate_dates": 0,
+  "missing_cells": 0,
+  "missing_by_column": {
+    "Date": 0,
+    "Open": 0,
+    "High": 0,
+    "Low": 0,
+    "Close": 0,
+    "Volume": 0
+  },
+  "nonfinite_nonmissing_values": 0,
+  "ascending": true,
+  "rows_since_2011": 3970,
+  "missing_cells_since_2011": 0,
+  "output_file": "data\\raw\\40_stockcharts_nymo\\40_stockcharts_nymo_RAW_19980603_20261015.csv",
+  "sha256": "afaccc87f0d77d94597f7bf3e51ec93674a59b69eded9ad501b0cee8dca55e92",
+  "source_original": "data\\raw\\40_stockcharts_nymo\\source_original\\_NYMO.csv",
+  "source_sha256": "dd555850b835a629eb7ef303d4b48ccdd34b00c1450d95c72cced7e1c97f93a7",
+  "source_url": "https://stockcharts.com/h-sc/ui?s=%24NYMO",
+  "unit": "source_indicator_points",
+  "release_time_status": "UNVERIFIED",
+  "historical_vintage_status": "UNVERIFIED"
+}

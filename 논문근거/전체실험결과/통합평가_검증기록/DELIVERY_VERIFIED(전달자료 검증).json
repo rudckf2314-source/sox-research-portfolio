@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "sheets": 7,
+  "classification_metric_rows": 576,
+  "regression_metric_rows": 297,
+  "protected_originals_unchanged": true,
+  "workbook_sha256": "06a1a19d2892c85529d05e0f8f88d8377150fe0ca8dc2c9d19c443a7e7b37d99"
+}

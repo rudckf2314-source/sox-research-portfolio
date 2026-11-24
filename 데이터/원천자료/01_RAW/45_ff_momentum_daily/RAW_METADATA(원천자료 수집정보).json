@@ -1,0 +1,52 @@
+{
+  "dataset_id": "45_ff_momentum_daily",
+  "status": "SUCCESS",
+  "provider": "Kenneth R. French Data Library",
+  "source_url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/F-F_Momentum_Factor_daily_CSV.zip",
+  "symbol": "F-F_Momentum_Factor_daily",
+  "unit": "Percent; original published scale retained",
+  "frequency": "Daily",
+  "administrator": "Kenneth R. French / CRSP inputs",
+  "outputs": [
+    {
+      "file": "data/raw/45_ff_momentum_daily/45_ff_momentum_daily_RAW_20100104_20260831.csv",
+      "table": "Daily",
+      "sha256": "71d489e6a772b9d9e982a74945ec8021ed56390d88e234344112b0f8fcfb0864",
+      "rows": 4190,
+      "min_date": "2010-01-04",
+      "max_date": "2026-08-31",
+      "duplicate_dates": 0,
+      "missing_cells": 0,
+      "missing_by_column": {
+        "Mom": 0
+      },
+      "columns": [
+        "Date",
+        "Mom"
+      ],
+      "max_calendar_gap_days": 5,
+      "absolute_values_over_100_cells": 0,
+      "min_by_column": {
+        "Mom": -14.39
+      },
+      "max_by_column": {
+        "Mom": 5.98
+      }
+    }
+  ],
+  "details": {
+    "Daily": {
+      "full_source_rows": 26216,
+      "full_source_min": "1926-11-03",
+      "full_source_max": "2026-08-31",
+      "full_source_missing_cells": 0,
+      "canonical_abs_return_over_100_flags": 0
+    }
+  },
+  "original_sha256": {
+    "F-F_Momentum_Factor_daily.csv": "d4b3e98cb5afb1533af0d4568aa816de2aadac5bbff9a590c1c65e3392d7b05b",
+    "F-F_Momentum_Factor_daily_CSV.zip": "ecf82b116e6ec56d2b79a2f27bd1d1598c217b5c6c25caa55b945bdd8a2c0b78",
+    "HTTP_RESPONSE_METADATA.json": "bed2ab625257313c69b75553f781254cd12d4ecc3ef285420ef55c1b0852a603"
+  },
+  "availability_status": "UNVERIFIED_HISTORICAL_PUBLICATION_AND_VINTAGE"
+}

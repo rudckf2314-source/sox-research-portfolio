@@ -1,0 +1,19 @@
+{
+  "attempt": 1,
+  "http_status": 200,
+  "request_url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/F-F_Research_Data_5_Factors_2x3_daily_CSV.zip",
+  "response_url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/F-F_Research_Data_5_Factors_2x3_daily_CSV.zip",
+  "retrieved_at_utc": "2026-10-16T06:15:12.016298+00:00",
+  "headers": {
+    "content-type": "application/x-zip-compressed",
+    "last-modified": "Fri, 25 Sep 2026 21:55:02 GMT",
+    "accept-ranges": "bytes",
+    "etag": "\"726c7584384ddd1:0\"",
+    "server": "Microsoft-IIS/10.0",
+    "date": "Fri, 16 Oct 2026 06:15:11 GMT",
+    "content-length": "150292"
+  },
+  "bytes": 150292,
+  "file": "source_archive\\phase0_raw_audit\\additional_academic_raw_collection\\download_cache\\44_ff5_daily\\F-F_Research_Data_5_Factors_2x3_daily_CSV.zip",
+  "sha256": "7881223b51929ee0d6d23b8a28524aaec478a2c3d4eeca47224955cc845c5186"
+}

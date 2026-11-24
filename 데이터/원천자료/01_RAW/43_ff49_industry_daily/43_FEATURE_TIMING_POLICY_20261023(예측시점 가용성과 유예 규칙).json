@@ -1,0 +1,29 @@
+{
+  "policy": "CURRENT_REVISED_HISTORY_NEAR_RELEASE_ASSUMPTION_V1",
+  "source_id": 43,
+  "raw_file": "C:\\fgi_pilot\\data\\raw\\43_ff49_industry_daily\\43_ff49_industry_daily_EW_RAW_20100104_20260831.csv",
+  "raw_sha256": "fd85d882ab751461828330b102e799d8f0e1a7fafea9142b9e0b93a7cc7cf08e",
+  "raw_files": [
+    {
+      "path": "C:\\fgi_pilot\\data\\raw\\43_ff49_industry_daily\\43_ff49_industry_daily_EW_RAW_20100104_20260831.csv",
+      "sha256": "fd85d882ab751461828330b102e799d8f0e1a7fafea9142b9e0b93a7cc7cf08e"
+    },
+    {
+      "path": "C:\\fgi_pilot\\data\\raw\\43_ff49_industry_daily\\43_ff49_industry_daily_VW_RAW_20100104_20260831.csv",
+      "sha256": "9cfdb5789d6f286739f41768f7766d301111c481516bc975f3c905633927b584"
+    }
+  ],
+  "processing": {
+    "rule": "BLOCKED",
+    "meaning": "French현재역사본은배포시각·당시파일불명으로계속제외.임의D+1적용안함"
+  },
+  "output_directory": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023",
+  "lineage_file": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023\\LINEAGE_09ET.csv",
+  "release_calendar": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023\\RELEASE_EVENT_CALENDAR.csv",
+  "current_revised_history": true,
+  "original_vintage_verified": false,
+  "no_new_model": true,
+  "korean_processing_note": "계속 제외함. 현재 역사본은 과거 배포 시각과 당시 파일이 확인되지 않았으므로 임의 D+1 유예로 투입하지 않음.",
+  "variable_dictionary": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023\\변수목록_RAW_계산식_공개규칙.csv",
+  "report": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023\\적용기준_핵심정리.md"
+}

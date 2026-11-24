@@ -1,0 +1,26 @@
+{
+  "request_url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=ICSA",
+  "response_url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=ICSA",
+  "http_status": 200,
+  "headers": {
+    "Last-Modified": "Thu, 15 Oct 2026 12:36:31 GMT",
+    "Content-Type": "application/csv",
+    "Server": "Apache",
+    "content-disposition": "attachment; filename=\"ICSA.csv\"",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "Content-Length": "56184",
+    "Cache-Control": "public, max-age=581",
+    "Expires": "Fri, 16 Oct 2026 06:36:22 GMT",
+    "Date": "Fri, 16 Oct 2026 06:26:41 GMT",
+    "Connection": "keep-alive",
+    "Alt-Svc": "h3=\":443\"; ma=93600",
+    "Strict-Transport-Security": "max-age=86400",
+    "X-location": "cfs",
+    "Set-Cookie": "_abck=E25F34CD575FE2795C780668BD83E085~-1~YAAQPzVDFzqTMzuhAQAAdC1kQxCKrDAHeewq1Gf8HB8wKU8ny1iow8d/9pYniYEZVudZx/07qW7ksTstwbzUpM4+Qd01yM4GimjPmSwuJ4lSQ2SgCBx7KNk41HkW5XARghlmvMs4sAhtvbmxCekN/1u1fj7i9Jy4IIfZxjJGo0J9uBgB8nPx0edlPv2c/HYzB+AP01NTI/xiL6DTqiacRkAxY9pmDtXWZFMVHg4XKZ89AQ9UNEFdvZnQ74rU+bj9tWurWh0ZyIeRszQY8wyrBgpstx083LY6h0jX8SmKHUCMRBwCmW+H0sTxPSRMrrmSDn9A8au1tCWiUHMpJhqjkrS4EPMa5+JkW7Ia4xpVy2GKQ/dntY+B9pIprUfpZW8aGF9RDgjCkP2ZtftPwzzrfM2cObMHPTalkDb07li2FJ+fM+dz1fdgdjaPrZ8ZkLlHYAya0Ux0PyWh~-1~-1~-1~-1~-1; Domain=.stlouisfed.org; Path=/; Expires=Sat, 16 Oct 2027 06:26:41 GMT; Max-Age=31536000; Secure, bm_sz=C754CBA2D916B28CFB1DF06211D2F385~YAAQPzVDFzyTMzuhAQAAdC1kQwELAnxjaTOeJdG7FllYes/ht6rsC18syXfWgkFzx3v4TLlpT6vfcYoHvD6Sf/TYJJaotZNTP2wwRdw3qS7H2dZeNy/rM36DKKXmXkD4deqdZSfUNnGvCAqaXbfW/i6bvM4+OSrYf8f9VsBTqy9m2HItxeLB1eBct0mO2ifbGskbbWt7936BvZCb2F0g/NCVoQAjFbWiJ2J9BcJsn8K/Ah5XPIOAWYId/1dOFaW3DnrQts+6ZNyU1dKmNdWBbDksw7a919Pa+8OVA63fym0HcNKxkmgf0G254y/xsLUWr4pcOC2oICCR4gVm/vvagmOjAbpqsdCQ5kDvneo8p7OaPQ==~3420995~3553073; Domain=.stlouisfed.org; Path=/; Expires=Fri, 16 Oct 2026 10:26:41 GMT; Max-Age=14400"
+  },
+  "retrieved_at_utc": "2026-10-16T06:26:41.302194+00:00",
+  "bytes": 56184,
+  "file": "source_archive\\phase0_raw_audit\\additional_academic_raw_collection\\download_cache\\48_icsa\\ICSA.csv",
+  "sha256": "2b1eb1b4a5f5bf48779bffa43197db6e657349964bd7634c468b5ddf1e26b72d"
+}

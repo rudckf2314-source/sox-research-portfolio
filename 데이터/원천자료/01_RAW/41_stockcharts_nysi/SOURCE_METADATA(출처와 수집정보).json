@@ -1,0 +1,29 @@
+{
+  "dataset_id": "41_stockcharts_nysi",
+  "name": "NYSE Summation Index",
+  "symbol": "$NYSI",
+  "rows": 7137,
+  "min_date": "1998-06-03",
+  "max_date": "2026-10-15",
+  "duplicate_dates": 0,
+  "missing_cells": 0,
+  "missing_by_column": {
+    "Date": 0,
+    "Open": 0,
+    "High": 0,
+    "Low": 0,
+    "Close": 0,
+    "Volume": 0
+  },
+  "ascending": true,
+  "nonfinite_nonmissing_values": 0,
+  "output_file": "data\\raw\\41_stockcharts_nysi\\41_stockcharts_nysi_RAW_19980603_20261015.csv",
+  "output_sha256": "010f49e89c9b04f9d8bd947812ef5e180defda81b843dcbd338614e94a3812c2",
+  "original_copy": "data\\raw\\41_stockcharts_nysi\\source_original\\_NYSI.csv",
+  "source_sha256": "8cc8c564d3297d8a23aec54c9063efe1b145be254e058cdc8135bf64628464e6",
+  "source_url": "https://stockcharts.com/h-sc/ui?s=%24NYSI",
+  "first_valid_date": "1998-06-03",
+  "last_valid_date": "2026-10-15",
+  "historical_publication_time": "UNVERIFIED",
+  "historical_vintage": "UNVERIFIED"
+}

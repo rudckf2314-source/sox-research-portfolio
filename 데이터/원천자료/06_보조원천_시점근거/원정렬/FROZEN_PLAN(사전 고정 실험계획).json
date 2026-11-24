@@ -1,0 +1,32 @@
+{
+  "series": {
+    "3": "DEXKOUS",
+    "8": "VIXCLS",
+    "17": "DFII10",
+    "18": "DTWEXBGS",
+    "19": "NFCI",
+    "20": "IPG3344S",
+    "21": "A34SNO",
+    "27": "VXNCLS",
+    "42": "NASDAQESOX",
+    "48": "ICSA",
+    "49": "CPIAUCSL",
+    "50": "CPILFESL",
+    "51": "PAYEMS",
+    "52": "UNRATE"
+  },
+  "observation_start": "2010-01-01",
+  "observation_end": "2026-10-09",
+  "archive_end": "2026-10-23",
+  "release_clock_rule": "archive realtime_start date +following calendar day08ET; conditional, not observed receipt",
+  "minimum_origin": "2011-01-03",
+  "maximum_origin": "2026-10-09",
+  "max_requests": 112,
+  "max_pages_per_chunk": 2,
+  "endpoint": "https://api.stlouisfed.org/fred/series/observations",
+  "api_free": true,
+  "no_model": true,
+  "block_french_current_file": true,
+  "dollar_before": "2019-02-04 excluded",
+  "strict_no_unknown_release_date_guess": true
+}

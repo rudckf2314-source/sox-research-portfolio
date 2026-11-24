@@ -1,0 +1,14 @@
+{
+  "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\evaluation_extension_20261023_consistent_v5_20261024\\동일규칙_최종검증.json": "e01ee5f91d8d7579288a40edfea421bfae12812d7c86f3f530753fd87376f48d",
+  "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\evaluation_extension_20261023_consistent_v5_20261024\\기존10월전처리_모든조합입력_NO_Y.npz": "a03fe249763899f5b913034129a2b921172009f45fa91edd3c9d90e5bbc2b170",
+  "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\crossed_feature_algorithm_v1_20261023\\audit_models\\late_2026-10.joblib": "ec7c5f61cbf41a940341ca8b082c1425307b5ce033b3945e137d3fdc4d4840b8",
+  "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\crossed_feature_algorithm_v1_20261023\\windows\\late_2026-10\\COMPLETE.json": "1d8988ca0a24857881339213e9c8209e60ddde775706b3a5a4e108a602bb36f7",
+  "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\crossed_feature_algorithm_v1_20261023\\windows\\late_2026-10\\FEATURE_MASKS.json": "cac581a53b18316baf23625767352838dc6a670badbaa68de04b7a9da3f0128f",
+  "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\crossed_feature_algorithm_v1_20261023\\windows\\late_2026-10\\PREDICTIONS_NO_Y.npz": "35d5eb8245b628e4e3f4aaf4a290d08f1b2b2cd18e9d3cc2f0061f0ff083040b",
+  "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\sox_return_regression16_v1_20261024\\windows\\2026-10\\COMPLETE.json": "87bde0165982862b4ea3b91161890674eb2f76d00d14d224570b9d5ccf59f7a7",
+  "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\sox_return_regression16_v1_20261024\\windows\\2026-10\\MODELS.joblib": "681f7d7c4f2121484e285f85a9dbfa7a379d9a90aac8cd45319b4d21947d22da",
+  "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\sox_return_regression16_v1_20261024\\windows\\2026-10\\FORECASTS_NO_Y.npz": "ff1c7917f26cdb5e695619521a0229ca1a18bda47754bc645808aeda26a5b235",
+  "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\crossed_feature_algorithm_v1_20261023\\BANK16.json": "581bf5b76748f7e4c09c916db0a89ff86f47c39452bdedbd5111499f037939c6",
+  "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\crossed_feature_algorithm_v1_20261023\\DECISION_PRE2024.json": "31d5a154e79c4cc92a2e6a12eb8cdf3c91997ec994eeea110b3dc19283f5e7fb",
+  "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\work\\run_frozen_extension_20261023.py": "37aba3d0597782c347616e76cd000b8554d3ee05a509cefb78b92c7a6fbf2047"
+}

@@ -1,0 +1,162 @@
+{
+  "01_분류_이진_4등급/ADDITIONAL_METRICS.csv": {
+    "bytes": 38548,
+    "sha256": "4aaa6fa5c68550866475c5a5ee7cb86fd08a9df0cd4b1c987dc9da4a48897970"
+  },
+  "01_분류_이진_4등급/BANK16.json": {
+    "bytes": 329,
+    "sha256": "581bf5b76748f7e4c09c916db0a89ff86f47c39452bdedbd5111499f037939c6"
+  },
+  "01_분류_이진_4등급/COMPLETE.json": {
+    "bytes": 456,
+    "sha256": "cd7e117aac65b84e5d285a97dc37df5e677ec9cf5c0763254a2d32bbef6bc99c"
+  },
+  "01_분류_이진_4등급/confirm_METRICS.csv": {
+    "bytes": 37245,
+    "sha256": "da5908b0731a000abe7c752503af67631be27b1ac0c313b854958fd88fa59eaa"
+  },
+  "01_분류_이진_4등급/confirm_WINDOW_METRICS.csv": {
+    "bytes": 1128196,
+    "sha256": "34ffbf132c088c8878212f5664ee1379794ece2f40bbc52d92b94e5a45899666"
+  },
+  "01_분류_이진_4등급/CONFUSION_MATRICES.csv": {
+    "bytes": 60688,
+    "sha256": "7bd8bf4e711e969ac2ece93ffee0d7e7ba88a4540916e94ec6e297e3eaeec4ef"
+  },
+  "01_분류_이진_4등급/DECISION_PRE2024.json": {
+    "bytes": 284,
+    "sha256": "31d5a154e79c4cc92a2e6a12eb8cdf3c91997ec994eeea110b3dc19283f5e7fb"
+  },
+  "01_분류_이진_4등급/ENVIRONMENT.json": {
+    "bytes": 305,
+    "sha256": "e7eeae2d8800df20626281a12f508af60edf85fc6721d16a10b7f7ca4b33e5c1"
+  },
+  "01_분류_이진_4등급/FINAL16_VARIABLE_COMBINATIONS.csv": {
+    "bytes": 15811,
+    "sha256": "ee83960a273f9f771bf47499d1864a8826e820894c043a24ce0a28017cf24b9d"
+  },
+  "01_분류_이진_4등급/FINAL_VERIFICATION.json": {
+    "bytes": 805,
+    "sha256": "185a4360202513fed5075f18ec363f2b340b1b7d21ced63110d4302b4fa216d0"
+  },
+  "01_분류_이진_4등급/FROZEN_PLAN.json": {
+    "bytes": 5706,
+    "sha256": "89a768eed968430f0fd476b6d33b7401ca2c5902b849f1fdbe159f5322e5f48f"
+  },
+  "01_분류_이진_4등급/LATE_DAILY_RESULTS.csv": {
+    "bytes": 13968090,
+    "sha256": "10bb7d074b2e64ed4990ac6ef42a5cf185a52d48b1abccc7012eaf218f6c8ea6"
+  },
+  "01_분류_이진_4등급/late_METRICS.csv": {
+    "bytes": 37194,
+    "sha256": "110bfff21d5c68ebdbe9f7435e1f22cbd674eb48b0c89342d5962d8d20b95d6b"
+  },
+  "01_분류_이진_4등급/late_WINDOW_METRICS.csv": {
+    "bytes": 1035477,
+    "sha256": "1d30f34ed79ba2bf837a0bf140ce4273e0ea85c352743b93f4afe6cf1380e4a2"
+  },
+  "01_분류_이진_4등급/LATE_YEARLY_METRICS.csv": {
+    "bytes": 96996,
+    "sha256": "edea4816d3166f7c5efad627900fc81629bff3d1b8835dce2adef334182c48a6"
+  },
+  "01_분류_이진_4등급/MASKS.json": {
+    "bytes": 913190,
+    "sha256": "2e78650ae4caa546c9bcb36e61610f8ffbb328e3d5c60661fafcd7053d57ad38"
+  },
+  "01_분류_이진_4등급/PAIRED_BLOCK_BOOTSTRAP.csv": {
+    "bytes": 17208,
+    "sha256": "8c4c94ba869a66b885f0ce443f4f9fae472937b1d22018188a6d1bf65423c14b"
+  },
+  "01_분류_이진_4등급/PER_CLASS_METRICS.csv": {
+    "bytes": 211216,
+    "sha256": "e67410aab51eab69b02149bb5aba11b62f6bb70071424ff8da2a0ad1eb684029"
+  },
+  "01_분류_이진_4등급/PRIMARY_FROZEN_COMPARISONS.csv": {
+    "bytes": 395,
+    "sha256": "fa93b0eda8860cdde0459b1f8cf756283c9992524debc527bf0be65a39030757"
+  },
+  "01_분류_이진_4등급/screen_METRICS.csv": {
+    "bytes": 585232,
+    "sha256": "dc0409fa5c5859bfc618863f120b21c0966c706055d9fe0b797254294ff989b2"
+  },
+  "01_분류_이진_4등급/screen_WINDOW_METRICS.csv": {
+    "bytes": 1627485,
+    "sha256": "f5d59aec7a302a22e8584846e3dc0b522e962311cb3d77d7e458196c07c51592"
+  },
+  "01_분류_이진_4등급/VARIABLE_MASKS.csv": {
+    "bytes": 556217,
+    "sha256": "1307bc0ca886d304bcd07a0eaae7a843a698e1af55681ccc73fd024ffa01f145"
+  },
+  "01_분류_이진_4등급/공통16개_조합목록_사전고정.csv": {
+    "bytes": 15943,
+    "sha256": "93f4155325fee5c031a05f4f62c19e61aa8d92174b8f633c1031c29af5b6148d"
+  },
+  "01_분류_이진_4등급/공통16개_조합목록_사전고정.md": {
+    "bytes": 1823,
+    "sha256": "74cf0a352a736a8f358ca8635d33284af3680b7c52ca8ad952028857f52e8765"
+  },
+  "01_분류_이진_4등급/실험설계.md": {
+    "bytes": 5128,
+    "sha256": "741c2c63e14ef3e41afb5f16df8f7a6521d8fd1f32678721b379d8f375efc443"
+  },
+  "01_분류_이진_4등급/핵심결과.md": {
+    "bytes": 8285,
+    "sha256": "fa44ec12351342611addedc7533127890f6e857ade8c4dfad2d655db2ac9459a"
+  },
+  "02_회귀_당일수익률/ALL96_AND_BASELINES_METRICS.csv": {
+    "bytes": 22907,
+    "sha256": "cc9cb5499f7e1b919f2fe28b06f191c8744ee30fd9c0bf9b3c5198cb0d43b00f"
+  },
+  "02_회귀_당일수익률/BASELINE_METRICS.csv": {
+    "bytes": 714,
+    "sha256": "33c354a12e545adf3ad85d6153077126e234d2cad7b00255c1e4c7a2cc3e20c3"
+  },
+  "02_회귀_당일수익률/BEST_PER_MASK_RMSE_RANKING.csv": {
+    "bytes": 5057,
+    "sha256": "373e11a086cc19fa7decc700088408636aefe220bafb4fce503d9a01ceaef95d"
+  },
+  "02_회귀_당일수익률/COMPLETE.json": {
+    "bytes": 167,
+    "sha256": "665a66b760323667da41956228489a37f317612386b344c2f53c9be04fd812f8"
+  },
+  "02_회귀_당일수익률/DAILY_RESULTS.csv": {
+    "bytes": 6874854,
+    "sha256": "f8614fa995ab31b80f64f8a0d9b12e817012605cc3ce461f914fb255d040adcd"
+  },
+  "02_회귀_당일수익률/ENVIRONMENT.json": {
+    "bytes": 259,
+    "sha256": "26b5fcd9b6cc2c8307ae1f8b4e456a52c9ede934507d0deccd8e809cb7d3d22f"
+  },
+  "02_회귀_당일수익률/FROZEN_PLAN.json": {
+    "bytes": 5496,
+    "sha256": "4a25cdb96e0ff798cf4cf1cf32b68669cf1defe8ec2bc30321655d9673bba9ef"
+  },
+  "02_회귀_당일수익률/PAIRED_LOSS_BLOCK_BOOTSTRAP.csv": {
+    "bytes": 59937,
+    "sha256": "ec8c9b0cd68dad2e0635df8ee968c70c64128216f27f9a2cdac7d97e547c86bc"
+  },
+  "02_회귀_당일수익률/RMSE_ALL96.png": {
+    "bytes": 235712,
+    "sha256": "28f2147831126ab3f17bfa45223e3f7d7bb29675e88128e3a0fdc27ec877e27d"
+  },
+  "02_회귀_당일수익률/VERIFICATION.json": {
+    "bytes": 370,
+    "sha256": "a5d275836da66bf6c530d4d648586a4a127bfe08314c7c515f5d9ee57ab1e4c5"
+  },
+  "02_회귀_당일수익률/YEARLY_METRICS.csv": {
+    "bytes": 65561,
+    "sha256": "747ecf2e79b4843241eb40e3e111f4604dab5906ce75c5b2f4e7f333948d73e8"
+  },
+  "02_회귀_당일수익률/핵심결과.md": {
+    "bytes": 5757,
+    "sha256": "c3aa91b97487910bd8d2f21cd6166d390ad15013c7de85b7c54b9d59abab62a6"
+  },
+  "01_분류_이진_4등급/16개조합_관측최고_비교표.csv": {
+    "bytes": 2097,
+    "sha256": "5e76c4f0315a54b939c1b3ff1c1ee6bda988a5a891be8854a69f0c351c6195a3"
+  },
+  "먼저읽기_분류회귀_비교요약.md": {
+    "bytes": 3280,
+    "sha256": "9887c13264ded1613d9f2d533f04ec016f0532b559db0c3d0c2d1c76839f5171"
+  }
+}

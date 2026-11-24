@@ -1,0 +1,28 @@
+{
+  "policy": "CURRENT_REVISED_HISTORY_NEAR_RELEASE_ASSUMPTION_V1",
+  "source_id": 37,
+  "raw_file": "C:\\fgi_pilot\\data\\raw\\37_taiwan_ic_exports\\37_taiwan_ic_exports_RAW_201101_202609.csv",
+  "raw_sha256": "7351e84e7d90cb29989f8109c699894f8ed8b257e8b60779a83dc64239177729",
+  "raw_files": [
+    {
+      "path": "C:\\fgi_pilot\\data\\raw\\37_taiwan_ic_exports\\37_taiwan_ic_exports_RAW_201101_202609.csv",
+      "sha256": "7351e84e7d90cb29989f8109c699894f8ed8b257e8b60779a83dc64239177729"
+    }
+  ],
+  "processing": {
+    "rule": "official formal schedule date end Taipei; fallback M+2 day15 +2 local weekdays",
+    "meaning": "정식값은전전월분을공표.2026공식일정우선;그외다다음달15일+2평일가정.이전M+2 day1기준은너무일러폐기",
+    "old": "M+2 month day1 (REJECTED_TOO_EARLY)",
+    "zone": "Asia/Taipei",
+    "max_age_days": 120
+  },
+  "output_directory": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023",
+  "lineage_file": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023\\LINEAGE_09ET.csv",
+  "release_calendar": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023\\RELEASE_EVENT_CALENDAR.csv",
+  "current_revised_history": true,
+  "original_vintage_verified": false,
+  "no_new_model": true,
+  "korean_processing_note": "확인된 공식 정식값 발표 일정을 우선함. 그 외에는 관측월의 다다음달 15일에서 2평일 뒤 대만 현지 날짜 종료를 적용함. 이전의 다다음달 1일 기준은 너무 빨라 폐기함.",
+  "variable_dictionary": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023\\변수목록_RAW_계산식_공개규칙.csv",
+  "report": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\near_release_reconstruction_v1_20261023\\적용기준_핵심정리.md"
+}

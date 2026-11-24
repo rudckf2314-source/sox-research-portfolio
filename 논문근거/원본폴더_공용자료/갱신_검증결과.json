@@ -1,0 +1,54 @@
+{
+  "status": "COMPLETE",
+  "evaluation_start": "2024-01-02",
+  "evaluation_end": "2026-10-23",
+  "evaluation_days": 706,
+  "classification_policies": 192,
+  "regression_policies": 96,
+  "new_model_fits": 0,
+  "Word_documents": 23,
+  "body_font_pt": 10,
+  "conference_pages": {
+    "DCS": 2,
+    "KIIT": 5
+  },
+  "figures_per_draft": 4,
+  "footnotes_per_draft": 8,
+  "raw_sources_refreshed": 38,
+  "independent_unseen_test": false,
+  "importance_explanation_days": 706,
+  "importance_scope_explicit": true,
+  "no_separate_added_period_in_reader_results": true,
+  "importance_models": {
+    "classification": 3,
+    "regression": 1
+  },
+  "importance_method": "monthly permutation, 5 repeats",
+  "importance_new_model_fits": 0,
+  "importance_forecast_changes": 0,
+  "importance_SHAP": false,
+  "consistency_audit": {
+    "status": "PASS",
+    "evaluation_start": "2024-01-02",
+    "evaluation_end": "2026-10-23",
+    "evaluation_days": 706,
+    "numeric_definition_checks": 55,
+    "numeric_definition_failures": 0,
+    "workbook_sheets": 6,
+    "workbook_cells_checked": 22758,
+    "workbook_cell_differences": 0,
+    "embedded_figures_checked": 12,
+    "stale_result_figures_removed": 5,
+    "valid_flowchart_relocated": 1,
+    "new_model_fits": 0,
+    "new_forecasts": 0,
+    "paper_documents_modified": false
+  },
+  "publication_lag_wording": {
+    "updated": "2026-10-25",
+    "French_B": "conservative monthly lag mitigates publication-delay risk",
+    "historical_revisions": "separate residual limitation",
+    "release_dates_newly_verified": false,
+    "data_or_rule_changes": false
+  }
+}

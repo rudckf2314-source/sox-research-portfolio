@@ -1,0 +1,36 @@
+{
+  "source_id": 44,
+  "raw_files": [
+    {
+      "path": "C:\\fgi_pilot\\data\\raw\\44_ff5_daily\\44_ff5_daily_RAW_20100104_20260831.csv",
+      "sha256": "c766d152a2f8aef51fa6c15f0a3cff0a20c73a8b6d539cd2467221152a444725"
+    }
+  ],
+  "policy": "CONDITIONAL_FRENCH_MONTH_END_LAGS_V1",
+  "assumed_release_dates": true,
+  "original_vintage_verified": false,
+  "policies": {
+    "NEXT20": "month end observation, usable next month20 after00ET at first US09",
+    "MONTH2_FIRST": "month end observation, usable month+2 day1 after00ET at first US09"
+  },
+  "feature_generation": "original daily return,5/20observation compounded summaries,20observation volatility sampled at month end; all420 standardized then PCA10 inside each monthly training fold",
+  "strict_model_status": "still not verified PIT; separate conditional history experiment only",
+  "raw_values_changed": false,
+  "report": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\french_release_scenarios_v1_20261023\\핵심결과.md",
+  "dictionary": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\french_release_scenarios_v1_20261023\\FRENCH_VARIABLE_DICTIONARY.csv",
+  "lineage": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\french_release_scenarios_v1_20261023\\LINEAGE_09ET.csv",
+  "verification": "C:\\Users\\rudck\\Documents\\Codex\\2026-10-19\\sox-d-codex-https-docs-google\\outputs\\french_release_scenarios_v1_20261023\\FINAL_VERIFICATION.json",
+  "internal_decision": {
+    "selected_on_2016_2020": "BASE",
+    "confirmation_2021_2023": false,
+    "adoption_eligible": false,
+    "rule": "early accuracy strictly improves and TN does not fall; late same direction confirmation",
+    "late_evaluation_policies": [
+      "BASE",
+      "NEXT20",
+      "MONTH2_FIRST"
+    ],
+    "late_results_cannot_change_selection": true,
+    "independent_test": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "evaluation_start": "2024-01-02",
+  "evaluation_end": "2026-10-23",
+  "evaluation_days": 706,
+  "numeric_definition_checks": 55,
+  "numeric_definition_failures": 0,
+  "workbook_sheets": 6,
+  "workbook_cells_checked": 22758,
+  "workbook_cell_differences": 0,
+  "embedded_figures_checked": 12,
+  "stale_result_figures_removed": 5,
+  "valid_flowchart_relocated": 1,
+  "new_model_fits": 0,
+  "new_forecasts": 0,
+  "paper_documents_modified": false
+}

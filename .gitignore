@@ -1,14 +1,7 @@
 .env
 .env.*
-!.env.example
-.venv/
+.venv*
 venv/
-node_modules/
+env/
 __pycache__/
-*.pyc
-*.db
-*.sqlite*
-cache/
-logs/
-vector_db/
-uploads/
+*.py[cod]

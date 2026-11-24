@@ -1,0 +1,45 @@
+{
+  "symbol": "SMH",
+  "requested_start": "2010-01-01",
+  "end_exclusive_et_date": "2026-10-16",
+  "current_et_date_excluded": true,
+  "auto_adjust": false,
+  "actions": true,
+  "repair": false,
+  "fetched_at_utc": "2026-10-16T06:15:20.816482+00:00",
+  "rows": 4222,
+  "index_timezone": "America/New_York",
+  "client_snapshot": "source_archive\\phase0_raw_audit\\additional_academic_raw_collection\\download_cache\\47_smh\\SMH_YFINANCE_RETURN.csv",
+  "client_snapshot_sha256": "3929e5e5658cccb988c548c47fbf2d35179d161e09930a357ec9b4d647370ee4",
+  "chart_http_responses": [
+    {
+      "method": "GET",
+      "url": "https://query2.finance.yahoo.com/v8/finance/chart/SMH",
+      "params_without_tokens": {
+        "range": "1d",
+        "interval": "1d"
+      },
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-16T06:15:19.382861+00:00",
+      "content_type": "application/json;charset=utf-8",
+      "file": "source_archive\\phase0_raw_audit\\additional_academic_raw_collection\\download_cache\\47_smh\\SMH_CHART_HTTP_001.json",
+      "sha256": "e8b86e327ddd1fd384bef0eb9aa82704395da76fa434801485b0168ba64cb2ba"
+    },
+    {
+      "method": "GET",
+      "url": "https://query2.finance.yahoo.com/v8/finance/chart/SMH",
+      "params_without_tokens": {
+        "period1": 1262322000,
+        "period2": 1792123200,
+        "interval": "1d",
+        "includePrePost": false,
+        "events": "div,splits,capitalGains"
+      },
+      "http_status": 200,
+      "retrieved_at_utc": "2026-10-16T06:15:20.562652+00:00",
+      "content_type": "application/json;charset=utf-8",
+      "file": "source_archive\\phase0_raw_audit\\additional_academic_raw_collection\\download_cache\\47_smh\\SMH_CHART_HTTP_002.json",
+      "sha256": "0a97b626411ecc8bbbe32de6e4d4e2bbbcd064a3d7c97513bfe082131db0d10b"
+    }
+  ]
+}

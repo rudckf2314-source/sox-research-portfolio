@@ -1,0 +1,48 @@
+{
+  "dataset_id": "52_unrate",
+  "status": "SUCCESS",
+  "provider": "FRED",
+  "source_url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2010-01-01&coed=2026-10-16",
+  "symbol": "UNRATE",
+  "unit": "Percent; seasonally adjusted",
+  "frequency": "Monthly",
+  "administrator": "U.S. Bureau of Labor Statistics",
+  "outputs": [
+    {
+      "file": "data/raw/52_unrate/52_unrate_RAW_20100101_20260901.csv",
+      "table": "Native",
+      "sha256": "0120c4cd64e53dd0bdc3e7357fcae5dd831f2b0e72e10deb944ac894a133d1ca",
+      "rows": 201,
+      "min_date": "2010-01-01",
+      "max_date": "2026-09-01",
+      "duplicate_dates": 0,
+      "missing_cells": 1,
+      "missing_by_column": {
+        "UNRATE": 1
+      },
+      "columns": [
+        "Date",
+        "UNRATE"
+      ],
+      "max_calendar_gap_days": 31,
+      "absolute_values_over_100_cells": 0,
+      "min_by_column": {
+        "UNRATE": 3.4
+      },
+      "max_by_column": {
+        "UNRATE": 14.8
+      }
+    }
+  ],
+  "details": {
+    "full_source_rows": 945,
+    "full_source_min_date": "1948-01-01",
+    "full_source_max_date": "2026-09-01",
+    "observation_date_is_not_release_date": true
+  },
+  "original_sha256": {
+    "HTTP_RESPONSE_METADATA.json": "4a5e2799f5c488b151840f68b175af8a04da98d4a3d4502bdacb39dd4d33653f",
+    "UNRATE.csv": "621ff6fadf50910cb7a21ee20ba610c247cb043b29b4e05c4c1a72fadca2a06c"
+  },
+  "availability_status": "UNVERIFIED_HISTORICAL_PUBLICATION_AND_VINTAGE"
+}

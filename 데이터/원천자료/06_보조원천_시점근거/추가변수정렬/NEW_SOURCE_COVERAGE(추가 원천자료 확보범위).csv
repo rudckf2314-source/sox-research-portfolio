@@ -1,0 +1,7 @@
+﻿source_id,features,nonempty_features,nonempty_days,complete_days,official_date_records,rule
+22,4,4,3920,3604,0,M+2 month day10 08:00ET
+24,33,33,3933,3681,1,"M+1 month day15 +2 local weekdays, date end Korea"
+25,4,4,3966,3966,157,official calendar date end Taipei; fallback M+1 day10 +2 local weekdays
+32,4,4,3966,3966,2,"verified16:00Taipei +30min; fallback M+1 day23 +2 local weekdays, date end Taipei"
+36,6,6,3966,3966,0,"Thursday on/after rawDate, after Thursday date end ET"
+37,5,5,3914,3661,12,official formal schedule date end Taipei; fallback M+2 day15 +2 local weekdays

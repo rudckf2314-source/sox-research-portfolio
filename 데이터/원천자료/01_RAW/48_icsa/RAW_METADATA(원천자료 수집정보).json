@@ -1,0 +1,48 @@
+{
+  "dataset_id": "48_icsa",
+  "status": "SUCCESS",
+  "provider": "FRED",
+  "source_url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=ICSA&cosd=2010-01-01&coed=2026-10-16",
+  "symbol": "ICSA",
+  "unit": "Number; seasonally adjusted",
+  "frequency": "Weekly, ending Saturday",
+  "administrator": "U.S. Department of Labor",
+  "outputs": [
+    {
+      "file": "data/raw/48_icsa/48_icsa_RAW_20100102_20261010.csv",
+      "table": "Native",
+      "sha256": "a887960aae9e3b31828856b8fe545f058f9dbff84b406c1c49d41d90d4738fc9",
+      "rows": 876,
+      "min_date": "2010-01-02",
+      "max_date": "2026-10-10",
+      "duplicate_dates": 0,
+      "missing_cells": 0,
+      "missing_by_column": {
+        "ICSA": 0
+      },
+      "columns": [
+        "Date",
+        "ICSA"
+      ],
+      "max_calendar_gap_days": 7,
+      "absolute_values_over_100_cells": 876,
+      "min_by_column": {
+        "ICSA": 189000.0
+      },
+      "max_by_column": {
+        "ICSA": 6137000.0
+      }
+    }
+  ],
+  "details": {
+    "full_source_rows": 3119,
+    "full_source_min_date": "1967-01-07",
+    "full_source_max_date": "2026-10-10",
+    "observation_date_is_not_release_date": true
+  },
+  "original_sha256": {
+    "HTTP_RESPONSE_METADATA.json": "c64845affc06b5523b0c1293f0139da73e8f728690432f8bcd25e15155571f74",
+    "ICSA.csv": "2b1eb1b4a5f5bf48779bffa43197db6e657349964bd7634c468b5ddf1e26b72d"
+  },
+  "availability_status": "UNVERIFIED_HISTORICAL_PUBLICATION_AND_VINTAGE"
+}
